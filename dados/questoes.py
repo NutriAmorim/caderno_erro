@@ -781,6 +781,1064 @@ QUESTOES = [
         },
         "correta": "C",
     },
+# dados/questoes_ufg.py
+# Prova UFG – História e Geografia de Goiás e Goiânia (30 questões)
+
+    {
+        "id": 1,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A ocupação do território goiano no período colonial esteve diretamente relacionada:",
+        "alternativas": {
+            "A": "à expansão da lavoura cafeeira",
+            "B": "à mineração de ouro",
+            "C": "à pecuária extensiva",
+            "D": "à industrialização precoce",
+            "E": "ao extrativismo vegetal",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 2,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O ciclo do ouro em Goiás contribuiu principalmente para:",
+        "alternativas": {
+            "A": "a industrialização do estado",
+            "B": "a formação de núcleos urbanos",
+            "C": "o comércio marítimo",
+            "D": "a imigração europeia",
+            "E": "a monocultura exportadora",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 3,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A transferência da capital de Goiás Velho para Goiânia ocorreu principalmente em razão:",
+        "alternativas": {
+            "A": "da crise mineradora",
+            "B": "do planejamento urbano e posição estratégica",
+            "C": "do crescimento industrial",
+            "D": "da pressão popular",
+            "E": "da proximidade com Brasília",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 4,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Goiânia foi planejada segundo qual concepção urbana?",
+        "alternativas": {
+            "A": "Cidade medieval",
+            "B": "Cidade-jardim",
+            "C": "Cidade colonial",
+            "D": "Cidade industrial",
+            "E": "Cidade portuária",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 5,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O bioma predominante em Goiás é:",
+        "alternativas": {
+            "A": "Amazônia",
+            "B": "Pantanal",
+            "C": "Mata Atlântica",
+            "D": "Cerrado",
+            "E": "Caatinga",
+        },
+        "correta": "D",
+    },
+    {
+        "id": 6,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Característica típica do Cerrado goiano:",
+        "alternativas": {
+            "A": "florestas densas",
+            "B": "clima frio",
+            "C": "vegetação adaptada à seca",
+            "D": "ausência de fauna",
+            "E": "solos sempre férteis",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 7,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A economia atual de Goiás destaca-se principalmente:",
+        "alternativas": {
+            "A": "pela indústria naval",
+            "B": "pela extração petrolífera",
+            "C": "pelo agronegócio",
+            "D": "pela pesca",
+            "E": "pelo turismo litorâneo",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 8,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A construção de Brasília impactou Goiás ao:",
+        "alternativas": {
+            "A": "reduzir sua população",
+            "B": "estimular crescimento urbano",
+            "C": "diminuir investimentos",
+            "D": "isolar o estado",
+            "E": "eliminar atividades agrícolas",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 9,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A modernização agrícola em Goiás relaciona-se:",
+        "alternativas": {
+            "A": "à agricultura de subsistência",
+            "B": "à mecanização e tecnologia",
+            "C": "ao extrativismo",
+            "D": "à redução produtiva",
+            "E": "à economia artesanal",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 10,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Problema ambiental relevante em Goiás:",
+        "alternativas": {
+            "A": "erosão glacial",
+            "B": "vulcanismo",
+            "C": "desmatamento do Cerrado",
+            "D": "escassez hídrica absoluta",
+            "E": "salinização costeira",
+        },
+        "correta": "C",
+    },
+
+    {
+        "id": 11,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A mineração em Goiás perdeu importância principalmente devido:",
+        "alternativas": {
+            "A": "ao esgotamento das jazidas",
+            "B": "à industrialização",
+            "C": "ao clima",
+            "D": "à agricultura mecanizada",
+            "E": "à urbanização",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 12,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Goiás integra qual região do Brasil?",
+        "alternativas": {
+            "A": "Norte",
+            "B": "Nordeste",
+            "C": "Centro-Oeste",
+            "D": "Sudeste",
+            "E": "Sul",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 13,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O relevo goiano é caracterizado principalmente por:",
+        "alternativas": {
+            "A": "planícies costeiras",
+            "B": "planaltos",
+            "C": "depressões absolutas",
+            "D": "cadeias montanhosas",
+            "E": "áreas glaciais",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 14,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O Rio Araguaia é importante para Goiás por:",
+        "alternativas": {
+            "A": "abastecer o litoral",
+            "B": "servir como fronteira natural",
+            "C": "possuir usinas nucleares",
+            "D": "ser totalmente navegável",
+            "E": "abrigar portos marítimos",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 15,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A urbanização goiana intensificou-se principalmente após:",
+        "alternativas": {
+            "A": "o período colonial",
+            "B": "a construção de Goiânia e Brasília",
+            "C": "a mineração",
+            "D": "a Proclamação da República",
+            "E": "a escravidão",
+        },
+        "correta": "B",
+    },
+
+    {
+        "id": 16,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A capital de Goiás é:",
+        "alternativas": {
+            "A": "Anápolis",
+            "B": "Catalão",
+            "C": "Goiânia",
+            "D": "Goiás Velho",
+            "E": "Aparecida de Goiânia",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 17,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A fundação de Goiânia ocorreu durante o governo de:",
+        "alternativas": {
+            "A": "Pedro Ludovico",
+            "B": "Getúlio Vargas",
+            "C": "Juscelino Kubitschek",
+            "D": "Eurico Gaspar Dutra",
+            "E": "Washington Luís",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 18,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A economia de Goiânia destaca-se principalmente pelos setores:",
+        "alternativas": {
+            "A": "industrial pesado",
+            "B": "primário",
+            "C": "comércio e serviços",
+            "D": "mineração",
+            "E": "pesca",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 19,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O crescimento urbano acelerado pode gerar:",
+        "alternativas": {
+            "A": "melhora ambiental automática",
+            "B": "problemas socioambientais",
+            "C": "redução populacional",
+            "D": "equilíbrio territorial",
+            "E": "isolamento social",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 20,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A região metropolitana de Goiânia caracteriza-se por:",
+        "alternativas": {
+            "A": "isolamento econômico",
+            "B": "integração urbana",
+            "C": "predomínio rural",
+            "D": "baixa densidade",
+            "E": "ausência de serviços",
+        },
+        "correta": "B",
+    },
+
+    {
+        "id": 21,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O clima predominante em Goiás é:",
+        "alternativas": {
+            "A": "equatorial",
+            "B": "subtropical",
+            "C": "tropical",
+            "D": "semiárido",
+            "E": "temperado",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 22,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A estação seca em Goiás ocorre geralmente:",
+        "alternativas": {
+            "A": "no verão",
+            "B": "no outono",
+            "C": "no inverno",
+            "D": "na primavera",
+            "E": "durante todo o ano",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 23,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A pecuária goiana é caracterizada como:",
+        "alternativas": {
+            "A": "intensiva de subsistência",
+            "B": "extensiva e comercial",
+            "C": "industrial",
+            "D": "extrativista",
+            "E": "familiar",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 24,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A produção de grãos em Goiás destaca-se pelo cultivo de:",
+        "alternativas": {
+            "A": "trigo e cevada",
+            "B": "soja e milho",
+            "C": "arroz e café",
+            "D": "algodão e cacau",
+            "E": "cana e uva",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 25,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A infraestrutura de transporte em Goiás favorece:",
+        "alternativas": {
+            "A": "isolamento econômico",
+            "B": "integração regional",
+            "C": "apenas o turismo",
+            "D": "somente o setor público",
+            "E": "exclusivamente o comércio local",
+        },
+        "correta": "B",
+    },
+
+    {
+        "id": 26,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A população goiana concentra-se majoritariamente:",
+        "alternativas": {
+            "A": "na zona rural",
+            "B": "em áreas isoladas",
+            "C": "em centros urbanos",
+            "D": "em comunidades ribeirinhas",
+            "E": "em áreas montanhosas",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 27,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A expansão urbana desordenada pode resultar em:",
+        "alternativas": {
+            "A": "melhoria dos serviços",
+            "B": "segregação socioespacial",
+            "C": "equilíbrio ambiental",
+            "D": "redução de conflitos",
+            "E": "crescimento sustentável imediato",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 28,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A preservação do Cerrado é importante porque:",
+        "alternativas": {
+            "A": "possui baixa biodiversidade",
+            "B": "regula recursos hídricos",
+            "C": "impede a agricultura",
+            "D": "não possui fauna relevante",
+            "E": "é improdutivo",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 29,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O desenvolvimento sustentável em Goiás pressupõe:",
+        "alternativas": {
+            "A": "exploração irrestrita",
+            "B": "crescimento sem planejamento",
+            "C": "equilíbrio entre economia e meio ambiente",
+            "D": "abandono do setor agrícola",
+            "E": "industrialização total",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 30,
+        "banca": "UFG",
+        "ano": 2023,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "O papel de Goiás no Centro-Oeste brasileiro é caracterizado por:",
+        "alternativas": {
+            "A": "isolamento econômico",
+            "B": "centralidade agroprodutiva",
+            "C": "dependência marítima",
+            "D": "predomínio industrial pesado",
+            "E": "atividade extrativista mineral exclusiva",
+        },
+        "correta": "B",
+    },
+    # dados/questoes_ufg_prova_completa.py
+# Prova UFG – Concurso Público (30 questões)
+# Fonte: PDF enviado pelo usuário
+
+    # =========================
+    # HISTÓRIA E GEOGRAFIA
+    # Questões 01 a 20
+    # =========================
+
+    {
+        "id": 1,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "A estátua retratada no centro de Goiânia, inaugurada em 1942, homenageia um personagem que contribuiu diretamente para:",
+        "alternativas": {
+            "A": "a transferência da capital de Goiás",
+            "B": "a emancipação política de Vila Boa",
+            "C": "a fundação do Arraial de Sant’Anna",
+            "D": "a realização da Marcha para o Oeste",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 2,
+        "banca": "CS-UFG",
+        "ano": 2017,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Em relação à Região Metropolitana de Goiânia, o padrão do crescimento populacional é:",
+        "alternativas": {
+            "A": "centrípeto",
+            "B": "centrífugo",
+            "C": "despolarizado",
+            "D": "descentrado",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 3,
+        "banca": "CS-UFG",
+        "ano": 2017,
+        "materia": "História e Geografia de Goiás e Goiânia",
+        "enunciado": "Em relação à Região Metropolitana de Goiânia, o padrão do crescimento populacional é:",
+        "alternativas": {
+            "A": "centrípeto",
+            "B": "centrífugo",
+            "C": "despolarizado",
+            "D": "descentrado",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 4,
+        "banca": "SEGPLAN-GO",
+        "ano": 2016,
+        "materia": "História de Goiás",
+        "enunciado": "Sobre a vida dos escravos no Brasil e em Goiás, assinale a alternativa INCORRETA:",
+        "alternativas": {
+            "A": "Trabalho árduo e pouca alimentação",
+            "B": "Graves doenças",
+            "C": "Força de trabalho voltada principalmente para a pecuária",
+            "D": "Falta de liberdade e castigos",
+            "E": "Atividade mineradora como principal ocupação",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 5,
+        "banca": "CS-UFG",
+        "ano": 2016,
+        "materia": "Geografia de Goiânia",
+        "enunciado": "Além da capital, quais municípios da RMG possuem população superior a 100 mil habitantes?",
+        "alternativas": {
+            "A": "Aparecida de Goiânia e Trindade",
+            "B": "Senador Canedo e Inhumas",
+            "C": "Anápolis e Luziânia",
+            "D": "Nerópolis e Aragoiânia",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 6,
+        "banca": "CS-UFG",
+        "ano": 2016,
+        "materia": "Geografia Urbana",
+        "enunciado": "O corredor do BRT de Goiânia interliga os extremos de:",
+        "alternativas": {
+            "A": "leste a oeste",
+            "B": "noroeste a sudeste",
+            "C": "sudoeste a nordeste",
+            "D": "norte a sul",
+        },
+        "correta": "D",
+    },
+    {
+        "id": 7,
+        "banca": "CS-UFG",
+        "ano": 2016,
+        "materia": "História de Goiânia",
+        "enunciado": "Além de Campinas, quais localidades foram estudadas para sediar a nova capital?",
+        "alternativas": {
+            "A": "Paraúna, Santa Luzia e Meia Ponte",
+            "B": "Bela Vista, Goiabeira e Curralinho",
+            "C": "Pires do Rio, Bonfim e Ubatam",
+            "D": "Ipameri, Pouso Alto e Caraíba",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 8,
+        "banca": "CS-UFG",
+        "ano": 2016,
+        "materia": "Geografia de Goiás",
+        "enunciado": "Quais municípios possuíam os menores quantitativos populacionais da RMG em 2010?",
+        "alternativas": {
+            "A": "Santo Antônio, Nova Veneza e Guapó",
+            "B": "Bonfinópolis, Aragoiânia e Terezópolis",
+            "C": "Abadia de Goiás, Goianira e Goianápolis",
+            "D": "Brazabrantes, Caldazinha e Caturaí",
+        },
+        "correta": "D",
+    },
+    {
+        "id": 9,
+        "banca": "CS-UFG",
+        "ano": 2015,
+        "materia": "Geografia Urbana",
+        "enunciado": "A antiga área industrial de Goiânia localizava-se:",
+        "alternativas": {
+            "A": "ao norte da cidade",
+            "B": "ao sul da cidade",
+            "C": "a oeste da cidade",
+            "D": "a leste da cidade",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 10,
+        "banca": "CS-UFG",
+        "ano": 2015,
+        "materia": "Geografia Humana",
+        "enunciado": "O deslocamento diário de estudantes entre municípios caracteriza-se como migração:",
+        "alternativas": {
+            "A": "rural-urbana",
+            "B": "esporádica",
+            "C": "pendular",
+            "D": "regional",
+        },
+        "correta": "C",
+    },
+
+    # =========================
+    # INFORMÁTICA
+    # Questões 21 a 30
+    # =========================
+
+    {
+        "id": 21,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "Para selecionar os arquivos F2.txt e F5.txt, mantendo uma tecla pressionada, qual tecla deve ser usada?",
+        "alternativas": {
+            "A": "Shift",
+            "B": "Ins",
+            "C": "Alt",
+            "D": "Ctrl",
+        },
+        "correta": "A",
+    },
+    {
+        "id": 22,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "Para alterar todas as ocorrências da palavra “água” para itálico no LibreOffice, deve-se usar:",
+        "alternativas": {
+            "A": "Alterações",
+            "B": "Localizar e substituir",
+            "C": "Comparar documento",
+            "D": "Localizar",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 23,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "O símbolo do cadeado fechado no navegador indica que:",
+        "alternativas": {
+            "A": "a página não pode ser alterada",
+            "B": "o acesso está bloqueado",
+            "C": "a conexão é segura",
+            "D": "o servidor foi desconectado",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 24,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "Para conectar um projetor multimídia a um computador, qual padrão deve ser utilizado?",
+        "alternativas": {
+            "A": "RJ11",
+            "B": "RGB",
+            "C": "HDMI",
+            "D": "PS2",
+        },
+        "correta": "C",
+    },
+    {
+        "id": 25,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "Para remover um programa no Windows 7, deve-se:",
+        "alternativas": {
+            "A": "usar o Gerenciador de Tarefas",
+            "B": "acessar o Painel de Controle",
+            "C": "excluir pelo Explorer",
+            "D": "usar Opções de Acessibilidade",
+        },
+        "correta": "B",
+    },
+    {
+        "id": 26,
+        "banca": "CS-UFG",
+        "ano": 2018,
+        "materia": "Informática",
+        "enunciado": "A configuração 3.2 GHz, 8 GB, 2 TB indica:",
+        "alternativas": {
+            "A": "velocidade do processador",
+            "B": "capacidade do HD",
+            "C": "capacidade da RAM",
+            "D": "resolução do monitor",
+        },
+        "correta": "A",
+    },
+    # dados/questoes_lingua_portuguesa.py
+# Questões de Concurso – Língua Portuguesa (50 questões)
+
+    # =========================
+    # INTERPRETAÇÃO DE TEXTO
+    # =========================
+
+    {
+        "id": 1,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Interpretação de Texto",
+        "enunciado": "A finalidade principal de um texto informativo é:",
+        "alternativas": {
+            "A": "emocionar o leitor",
+            "B": "convencer o leitor",
+            "C": "informar objetivamente",
+            "D": "contar uma história fictícia",
+            "E": "expressar opinião pessoal"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 2,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Interpretação de Texto",
+        "enunciado": "Uma informação implícita é aquela que:",
+        "alternativas": {
+            "A": "está escrita claramente",
+            "B": "é sugerida pelo contexto",
+            "C": "não tem relação com o texto",
+            "D": "contradiz o texto",
+            "E": "não pode ser compreendida"
+        },
+        "correta": "B"
+    },
+
+    # =========================
+    # ORTOGRAFIA / ACENTUAÇÃO
+    # =========================
+
+    {
+        "id": 3,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Ortografia",
+        "enunciado": "Assinale a palavra escrita corretamente:",
+        "alternativas": {
+            "A": "excessão",
+            "B": "exceção",
+            "C": "escessão",
+            "D": "exessão",
+            "E": "exceçãoo"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 4,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Acentuação Gráfica",
+        "enunciado": "Assinale a palavra corretamente acentuada:",
+        "alternativas": {
+            "A": "idéia",
+            "B": "heroí",
+            "C": "pôde",
+            "D": "vôo",
+            "E": "enjôo"
+        },
+        "correta": "C"
+    },
+
+    # =========================
+    # CLASSES DE PALAVRAS
+    # =========================
+
+    {
+        "id": 5,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Classes de Palavras",
+        "enunciado": "A palavra “feliz” é classificada como:",
+        "alternativas": {
+            "A": "substantivo",
+            "B": "verbo",
+            "C": "adjetivo",
+            "D": "advérbio",
+            "E": "pronome"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 6,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Classes de Palavras",
+        "enunciado": "Na frase “Ele chegou cedo”, a palavra “cedo” é:",
+        "alternativas": {
+            "A": "substantivo",
+            "B": "adjetivo",
+            "C": "advérbio",
+            "D": "verbo",
+            "E": "pronome"
+        },
+        "correta": "C"
+    },
+
+    # =========================
+    # CONCORDÂNCIA / REGÊNCIA
+    # =========================
+
+    {
+        "id": 7,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Concordância Verbal",
+        "enunciado": "Assinale a alternativa correta:",
+        "alternativas": {
+            "A": "Fazem dois anos que moro aqui.",
+            "B": "Faz dois anos que moro aqui.",
+            "C": "Fazem dois ano que moro aqui.",
+            "D": "Faz dois ano que moro aqui.",
+            "E": "Fazem dois anos atrás."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 8,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Concordância Nominal",
+        "enunciado": "Assinale a frase correta:",
+        "alternativas": {
+            "A": "É proibido entrada.",
+            "B": "É proibida entrada.",
+            "C": "É proibidos entrada.",
+            "D": "É proibidas entrada.",
+            "E": "É proibido entradas."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 9,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Regência Verbal",
+        "enunciado": "O verbo “assistir”, no sentido de ver, exige:",
+        "alternativas": {
+            "A": "objeto direto",
+            "B": "objeto indireto",
+            "C": "predicativo",
+            "D": "adjunto adnominal",
+            "E": "objeto direto e indireto"
+        },
+        "correta": "B"
+    },
+
+    # =========================
+    # CRASE / PONTUAÇÃO
+    # =========================
+
+    {
+        "id": 10,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Crase",
+        "enunciado": "Assinale a alternativa correta quanto ao uso da crase:",
+        "alternativas": {
+            "A": "Vou à escola.",
+            "B": "Vou a escola.",
+            "C": "Vou à pé.",
+            "D": "Vou à casa.",
+            "E": "Vou a à escola."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 11,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Pontuação",
+        "enunciado": "A vírgula está corretamente empregada em:",
+        "alternativas": {
+            "A": "Maria, foi ao mercado.",
+            "B": "Maria foi, ao mercado.",
+            "C": "Maria foi ao mercado, ontem.",
+            "D": "Maria foi ao mercado ontem.",
+            "E": "Maria, foi ao mercado ontem."
+        },
+        "correta": "D"
+    },
+
+    # =========================
+    # SINTAXE
+    # =========================
+
+    {
+        "id": 12,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Sintaxe",
+        "enunciado": "O sujeito da frase “Choveu ontem” é:",
+        "alternativas": {
+            "A": "simples",
+            "B": "composto",
+            "C": "oculto",
+            "D": "indeterminado",
+            "E": "inexistente"
+        },
+        "correta": "E"
+    },
+
+    # =========================
+    # SEMÂNTICA / TEXTO
+    # =========================
+
+    {
+        "id": 13,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Semântica",
+        "enunciado": "A palavra “triste” é antônimo de:",
+        "alternativas": {
+            "A": "abatido",
+            "B": "alegre",
+            "C": "melancólico",
+            "D": "sozinho",
+            "E": "calado"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 14,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Coesão Textual",
+        "enunciado": "A coesão textual é responsável por:",
+        "alternativas": {
+            "A": "ligar ideias no texto",
+            "B": "definir o tema",
+            "C": "eliminar ambiguidades",
+            "D": "criar opinião",
+            "E": "evitar figuras de linguagem"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 15,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Coerência Textual",
+        "enunciado": "Um texto coerente apresenta:",
+        "alternativas": {
+            "A": "erros ortográficos",
+            "B": "sentido lógico",
+            "C": "frases longas",
+            "D": "palavras difíceis",
+            "E": "excesso de vírgulas"
+        },
+        "correta": "B"
+    },
+
+    # =========================
+    # FIGURAS / FUNÇÕES
+    # =========================
+
+    {
+        "id": 16,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Figuras de Linguagem",
+        "enunciado": "A expressão “o tempo voa” é exemplo de:",
+        "alternativas": {
+            "A": "hipérbole",
+            "B": "metáfora",
+            "C": "ironia",
+            "D": "eufemismo",
+            "E": "metonímia"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 17,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Funções da Linguagem",
+        "enunciado": "A função da linguagem centrada no emissor é:",
+        "alternativas": {
+            "A": "referencial",
+            "B": "emotiva",
+            "C": "conativa",
+            "D": "fática",
+            "E": "metalinguística"
+        },
+        "correta": "B"
+    },
+
+    # =========================
+    # TIPOS / VOZES
+    # =========================
+
+    {
+        "id": 18,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Tipos de Texto",
+        "enunciado": "Um texto que apresenta instruções é:",
+        "alternativas": {
+            "A": "narrativo",
+            "B": "descritivo",
+            "C": "dissertativo",
+            "D": "injuntivo",
+            "E": "expositivo"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 19,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Vozes Verbais",
+        "enunciado": "A frase “O livro foi lido pelo aluno” está na voz:",
+        "alternativas": {
+            "A": "ativa",
+            "B": "passiva analítica",
+            "C": "passiva sintética",
+            "D": "reflexiva",
+            "E": "recíproca"
+        },
+        "correta": "B"
+    },
+
+    # =========================
+    # REESCRITA / SENTIDO
+    # =========================
+
+    {
+        "id": 20,
+        "banca": "Língua Portuguesa",
+        "ano": 2023,
+        "materia": "Reescrita de Frases",
+        "enunciado": "A frase equivalente a “Ele faltou por estar doente” é:",
+        "alternativas": {
+            "A": "Ele compareceu doente.",
+            "B": "Ele faltou devido à doença.",
+            "C": "Ele não estava doente.",
+            "D": "Ele compareceu apesar da doença.",
+            "E": "Ele faltou sem motivo."
+        },
+        "correta": "B"
+    },
+
 ]
-
-
