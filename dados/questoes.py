@@ -154,7 +154,8 @@ QUESTOES = [
         },
         "correta": "C",
     },
-    # dados/questoes_rc.py
+
+# dados/questoes_rc.py
 # Questões de Raciocínio Lógico – TAE
 
     {
@@ -333,7 +334,7 @@ QUESTOES = [
         },
         "correta": "C",
     },
-# dados/questoes_legislacao.py
+    # dados/questoes_legislacao.py
 # Questões de Legislação / Administração Pública – TAE
 
     {
@@ -497,7 +498,6 @@ QUESTOES = [
         },
         "correta": "B",
     },
-
     # dados/questoes_conhecimentos_especificos.py
 # Conhecimentos Específicos – Cargo Técnico Administrativo em Educação (TAE)
 
@@ -782,3 +782,5 @@ QUESTOES = [
         "correta": "C",
     },
 ]
+
+
