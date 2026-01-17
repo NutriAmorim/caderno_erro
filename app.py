@@ -3,7 +3,7 @@ from dados.questoes import QUESTOES
 from utils.persistencia import salvar_erros
 
 st.set_page_config(page_title="Caderno de Erros - Provas Concursos")
-st.title("Caderno de Erros - Provas Militares")
+st.title("Caderno de Erros - Provas Concursos")
 
 # =========================
 # Seleção de banca
