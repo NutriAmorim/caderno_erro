@@ -2,7 +2,7 @@ import streamlit as st
 from dados.questoes import QUESTOES
 from utils.persistencia import salvar_erros
 
-st.set_page_config(page_title="Caderno de Erros - Provas Militares")
+st.set_page_config(page_title="Caderno de Erros - Provas Concursos")
 st.title("Caderno de Erros - Provas Militares")
 
 # =========================
