@@ -94,8 +94,20 @@ else:
     st.success("🎉 Simulado concluído!")
     st.info(f"Você errou {len(st.session_state.erros)} questões.")
 
-    salvar_erros(st.session_state.erros, banca_escolhida)
-    st.info(f"Caderno de erros salvo em log/erros/erros_{banca_escolhida}.txt")
+    arquivo = salvar_erros(st.session_state.erros, banca_escolhida)
+
+    if arquivo:
+        st.success(f"Caderno de erros salvo em Excel: {arquivo}")
+
+        with open(arquivo, "rb") as f:
+            st.download_button(
+                label="⬇️ Baixar caderno de erros (Excel)",
+                data=f,
+                file_name=f"caderno_erros_{banca_escolhida}.xlsx",
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+            )
+    else:
+        st.info("Nenhum erro para registrar. Excelente desempenho!")
 
     if st.button("🔄 Reiniciar Simulado"):
         st.session_state.indice = 0

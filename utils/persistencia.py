@@ -1,11 +1,37 @@
-# funções para salvar o caderno de erros em arquivos
+import pandas as pd
+from datetime import datetime
+import os
 
 def salvar_erros(erros, banca):
-    nome_arquivo = f"log/erros/erros_{banca}.txt"
+    if not erros:
+        return None
 
-    with open(nome_arquivo, "w", encoding="utf-8") as f:
-        for q in erros:
-            f.write(f"Banca: {q['banca']} | Ano: {q['ano']} | Matéria: {q['materia']}\n")
-            f.write(q["enunciado"] + "\n")
-            f.write(f"Sua resposta: {q['marcada']} | Correta: {q['correta']}\n")
-            f.write("-" * 50 + "\n")
+    pasta = "log/erros"
+    os.makedirs(pasta, exist_ok=True)
+
+    arquivo = f"{pasta}/erros_{banca}.xlsx"
+
+    registros = []
+
+    for q in erros:
+        registros.append({
+            "Data": datetime.now().strftime("%d/%m/%Y"),
+            "Banca": q["banca"],
+            "Ano": q["ano"],
+            "Matéria": q["materia"],
+            "Enunciado": q["enunciado"],
+            "Alternativa marcada": f"{q['marcada']}) {q['alternativas'][q['marcada']]}",
+            "Alternativa correta": f"{q['correta']}) {q['alternativas'][q['correta']]}",
+        }
+        )
+
+    df_novo = pd.DataFrame(registros)
+
+    if os.path.exists(arquivo):
+        df_antigo = pd.read_excel(arquivo)
+        df_final = pd.concat([df_antigo, df_novo], ignore_index=True)
+    else:
+        df_final = df_novo
+
+    df_final.to_excel(arquivo, index=False)
+    return arquivo
