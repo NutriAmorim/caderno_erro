@@ -1841,4 +1841,422 @@ QUESTOES = [
         "correta": "B"
     },
 
+    #UNICESUMAR
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "As articulações sinoviais apresentam diferentes tipos conforme a forma das superfícies articulares.\n\n"
+            "Sobre as articulações sinoviais, assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "Os ligamentos são estruturas cartilagíneas que unem os ossos.",
+            "B": "O líquido sinovial não está presente em articulações com lábios.",
+            "C": "Os meniscos estão presentes em todas as articulações dos membros inferiores.",
+            "D": "A mobilidade depende apenas do tipo de osso.",
+            "E": "As articulações sinoviais podem realizar flexão, extensão, abdução, adução, rotações e circundução."
+        },
+        "correta": "E"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "Sobre o sistema nervoso central, analise as afirmações:\n\n"
+            "I. O cerebelo está localizado posteriormente ao tronco encefálico.\n"
+            "II. A substância cinzenta da medula espinal está localizada internamente.\n"
+            "III. A medula espinal possui comprimento igual em homens e mulheres.\n"
+            "IV. A anestesia raquidiana é aplicada no espaço epidural.\n"
+            "V. O sistema nervoso central é formado pelo encéfalo e pela medula espinal.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "I e III.",
+            "B": "I e IV.",
+            "C": "II e III.",
+            "D": "II e V.",
+            "E": "III, IV e V."
+        },
+        "correta": "D"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O sistema urinário desempenha papel essencial na manutenção da homeostasia corporal.\n\n"
+            "Analise as afirmativas:\n"
+            "I. O sistema urinário participa do controle do equilíbrio hidroeletrolítico.\n"
+            "II. Os rins são responsáveis pela filtração do sangue e formação da urina.\n"
+            "III. A uretra conduz a urina dos rins até a bexiga.\n"
+            "IV. A bexiga urinária armazena a urina temporariamente.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "Apenas I e II estão corretas.",
+            "B": "Apenas II e III estão corretas.",
+            "C": "Apenas I, II e IV estão corretas.",
+            "D": "Apenas I, III e IV estão corretas.",
+            "E": "I, II, III e IV estão corretas."
+        },
+        "correta": "C"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O rim é a principal unidade funcional do sistema urinário.\n\n"
+            "I. O néfron é a unidade estrutural e funcional do rim.\n"
+            "PORQUE\n"
+            "II. O néfron é responsável pelos processos de filtração, reabsorção e secreção.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "As asserções I e II são verdadeiras, e a II justifica corretamente a I.",
+            "B": "As asserções I e II são verdadeiras, mas a II não justifica a I.",
+            "C": "A asserção I é verdadeira e a II é falsa.",
+            "D": "A asserção I é falsa e a II é verdadeira.",
+            "E": "As asserções I e II são falsas."
+        },
+        "correta": "A"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "Sobre o sistema respiratório, assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "A hematose ocorre nos bronquíolos.",
+            "B": "Os alvéolos são responsáveis pelas trocas gasosas.",
+            "C": "A traqueia realiza a filtração do sangue.",
+            "D": "Os pulmões não participam da oxigenação sanguínea.",
+            "E": "O diafragma não atua na respiração."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O sistema cardiovascular é responsável pelo transporte de substâncias no organismo.\n\n"
+            "Analise as afirmativas:\n"
+            "I. O coração atua como uma bomba propulsora do sangue.\n"
+            "II. As artérias conduzem o sangue do coração para os tecidos.\n"
+            "III. As veias transportam o sangue sempre rico em oxigênio.\n"
+            "IV. Os capilares permitem as trocas entre sangue e tecidos.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "Apenas I e II.",
+            "B": "Apenas I, II e IV.",
+            "C": "Apenas II e III.",
+            "D": "Apenas III e IV.",
+            "E": "I, II, III e IV."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O sistema digestório é responsável pela digestão e absorção dos nutrientes.\n\n"
+            "Analise as afirmativas:\n"
+            "I. A digestão mecânica ocorre principalmente na boca e no estômago.\n"
+            "II. A digestão química envolve a ação de enzimas.\n"
+            "III. O intestino delgado é o principal local de absorção dos nutrientes.\n"
+            "IV. O intestino grosso é responsável pela absorção da maioria dos nutrientes.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "Apenas I e II estão corretas.",
+            "B": "Apenas I, II e III estão corretas.",
+            "C": "Apenas II e IV estão corretas.",
+            "D": "Apenas III e IV estão corretas.",
+            "E": "I, II, III e IV estão corretas."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O fígado é uma glândula essencial ao metabolismo.\n\n"
+            "I. O fígado produz a bile.\n"
+            "PORQUE\n"
+            "II. A bile auxilia na digestão de lipídios.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "As asserções I e II são verdadeiras, e a II justifica corretamente a I.",
+            "B": "As asserções I e II são verdadeiras, mas a II não justifica a I.",
+            "C": "A asserção I é verdadeira e a II é falsa.",
+            "D": "A asserção I é falsa e a II é verdadeira.",
+            "E": "As asserções I e II são falsas."
+        },
+        "correta": "A"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "Sobre o sistema endócrino, assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "As glândulas endócrinas possuem ductos.",
+            "B": "Os hormônios são lançados diretamente na corrente sanguínea.",
+            "C": "O pâncreas atua apenas no sistema digestório.",
+            "D": "A hipófise não influencia outras glândulas.",
+            "E": "As glândulas endócrinas não produzem secreções."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Anatomia Humana",
+        "enunciado": (
+            "O sistema muscular permite a movimentação corporal.\n\n"
+            "Analise as afirmativas:\n"
+            "I. O músculo estriado esquelético possui contração voluntária.\n"
+            "II. O músculo liso apresenta contração involuntária.\n"
+            "III. O músculo cardíaco apresenta contração voluntária.\n"
+            "IV. Os músculos estão associados aos ossos por meio de tendões.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "Apenas I e II.",
+            "B": "Apenas I, II e IV.",
+            "C": "Apenas III e IV.",
+            "D": "Apenas II e III.",
+            "E": "I, II, III e IV."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "A pressão arterial pode ser regulada por mecanismos de curto e longo prazo.\n\n"
+            "Analise as afirmativas:\n"
+            "I. A liberação de renina pelos rins é um mecanismo de longo prazo.\n"
+            "II. A ativação do sistema nervoso simpático é um mecanismo de curto prazo.\n"
+            "III. A liberação de óxido nítrico promove vasodilatação e é mecanismo de curto prazo.\n"
+            "IV. O sistema renina-angiotensina-aldosterona atua aumentando a reabsorção de sódio e água.\n\n"
+            "É correto o que se afirma em:"
+        ),
+        "alternativas": {
+            "A": "I e II apenas.",
+            "B": "II e III apenas.",
+            "C": "I, II e IV apenas.",
+            "D": "II, III e IV apenas.",
+            "E": "I, II, III e IV."
+        },
+        "correta": "E"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Sobre o impulso nervoso, analise as asserções:\n\n"
+            "I. Em repouso, a membrana neuronal está polarizada.\n"
+            "PORQUE\n"
+            "II. O potencial de ação envolve despolarização, repolarização e ação da bomba Na+/K+.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "As asserções I e II são verdadeiras, e a II justifica corretamente a I.",
+            "B": "As asserções I e II são verdadeiras, mas a II não justifica a I.",
+            "C": "I verdadeira e II falsa.",
+            "D": "I falsa e II verdadeira.",
+            "E": "I e II falsas."
+        },
+        "correta": "A"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Quando uma célula é colocada em meio hipotônico ou hipertônico, ocorre movimentação de água.\n\n"
+            "Esse transporte passivo é denominado:"
+        ),
+        "alternativas": {
+            "A": "Osmose.",
+            "B": "Difusão simples.",
+            "C": "Difusão facilitada.",
+            "D": "Bomba de sódio e potássio.",
+            "E": "Transporte ativo secundário."
+        },
+        "correta": "A"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Sobre as sinapses, analise as asserções:\n\n"
+            "I. A sinapse elétrica ocorre por junções comunicantes.\n"
+            "PORQUE\n"
+            "II. A sinapse química ocorre por neurotransmissores.\n\n"
+            "Assinale a alternativa correta:"
+        ),
+        "alternativas": {
+            "A": "I e II verdadeiras, e II justifica I.",
+            "B": "I e II verdadeiras, mas II não justifica I.",
+            "C": "I verdadeira e II falsa.",
+            "D": "I falsa e II verdadeira.",
+            "E": "I e II falsas."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "A hematose ocorre nos alvéolos pulmonares por meio do seguinte processo:"
+        ),
+        "alternativas": {
+            "A": "Difusão.",
+            "B": "Osmose.",
+            "C": "Endocitose.",
+            "D": "Transporte ativo.",
+            "E": "Disfunção."
+        },
+        "correta": "A"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Células da glia com formato estrelado, que regulam neurotransmissores, são chamadas de:"
+        ),
+        "alternativas": {
+            "A": "Neurônios.",
+            "B": "Astrócitos.",
+            "C": "Oligodendrócitos.",
+            "D": "Células de Schwann.",
+            "E": "Células ependimárias."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Um paciente apresenta desidratação após episódios prolongados de diarreia.\n\n"
+            "Do ponto de vista fisiológico, qual mecanismo atua prioritariamente para "
+            "restabelecer o equilíbrio hídrico do organismo?"
+        ),
+        "alternativas": {
+            "A": "Aumento da liberação de insulina.",
+            "B": "Ativação do sistema renina-angiotensina-aldosterona.",
+            "C": "Redução da secreção de ADH.",
+            "D": "Diminuição da reabsorção renal de sódio.",
+            "E": "Bloqueio da filtração glomerular."
+        },
+        "correta": "B"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Durante um exercício físico intenso, observa-se aumento da frequência cardíaca.\n\n"
+            "Esse ajuste fisiológico ocorre principalmente em resposta à:"
+        ),
+        "alternativas": {
+            "A": "Ativação do sistema nervoso parassimpático.",
+            "B": "Liberação de acetilcolina no nó sinoatrial.",
+            "C": "Ativação do sistema nervoso simpático.",
+            "D": "Redução dos níveis de adrenalina.",
+            "E": "Diminuição do débito cardíaco."
+        },
+        "correta": "C"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Um indivíduo apresenta aumento da concentração de CO₂ no sangue.\n\n"
+            "Qual resposta fisiológica é esperada para auxiliar na correção desse quadro?"
+        ),
+        "alternativas": {
+            "A": "Diminuição da frequência respiratória.",
+            "B": "Redução da ventilação alveolar.",
+            "C": "Aumento da frequência respiratória.",
+            "D": "Inibição dos quimiorreceptores centrais.",
+            "E": "Diminuição da troca gasosa nos alvéolos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "A manutenção da glicemia é essencial para o funcionamento do organismo.\n\n"
+            "Quando ocorre queda dos níveis de glicose sanguínea, qual hormônio é liberado "
+            "para elevar a glicemia?"
+        ),
+        "alternativas": {
+            "A": "Insulina.",
+            "B": "Aldosterona.",
+            "C": "Glucagon.",
+            "D": "Cortisol.",
+            "E": "ADH."
+        },
+        "correta": "C"
+    },
+
+    {
+        "banca": "UniCesumar",
+        "ano": 2025,
+        "materia": "Fisiologia Humana",
+        "enunciado": (
+            "Durante a condução do impulso nervoso, a despolarização da membrana neuronal "
+            "ocorre principalmente devido à:"
+        ),
+        "alternativas": {
+            "A": "Saída de íons potássio da célula.",
+            "B": "Entrada de íons sódio na célula.",
+            "C": "Ativação da bomba de sódio e potássio.",
+            "D": "Entrada de íons cálcio na célula.",
+            "E": "Saída de íons cloreto da célula."
+        },
+        "correta": "B"
+    },
 ]
