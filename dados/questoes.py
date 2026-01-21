@@ -2259,4 +2259,164 @@ QUESTOES = [
         },
         "correta": "B"
     },
+
+    {
+        "id": 1,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "Segundo Barreto (1998), o empreendedorismo pode ser definido como:",
+        "alternativas": {
+            "A": "A capacidade de administrar grandes empresas com foco exclusivo em lucro.",
+            "B": "A habilidade de criar e constituir algo a partir de muito pouco ou quase nada.",
+            "C": "O ato de gerir recursos financeiros de forma conservadora.",
+            "D": "Um conjunto de técnicas voltadas apenas à inovação tecnológica.",
+            "E": "A formalização jurídica de empresas no mercado."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 2,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "Assinale a alternativa que melhor diferencia a atividade empreendedora da atividade empresarial.",
+        "alternativas": {
+            "A": "A atividade empreendedora foca apenas na gestão, enquanto a empresarial busca inovação.",
+            "B": "Ambas são sinônimas e não apresentam diferenças conceituais.",
+            "C": "A atividade empreendedora está ligada à inovação, enquanto a empresarial relaciona-se à gestão.",
+            "D": "A atividade empresarial ocorre somente em startups.",
+            "E": "A atividade empreendedora é restrita a empresas formais."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 3,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "A criatividade no empreendedorismo é importante principalmente porque:",
+        "alternativas": {
+            "A": "Elimina totalmente os riscos do negócio.",
+            "B": "Substitui a necessidade de planejamento.",
+            "C": "Auxilia na resolução de problemas e tomada de decisões.",
+            "D": "Garante sucesso financeiro imediato.",
+            "E": "Reduz a necessidade de trabalho em equipe."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 4,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "O empreendedorismo criativo caracteriza-se principalmente por:",
+        "alternativas": {
+            "A": "Repetição de modelos de negócios tradicionais.",
+            "B": "Integração da criatividade e inovação em todas as áreas da empresa.",
+            "C": "Foco exclusivo em produtos tecnológicos.",
+            "D": "Gestão baseada apenas em controle financeiro.",
+            "E": "Redução da experimentação para evitar riscos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 5,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "Entre as principais características do empreendedorismo criativo, NÃO se inclui:",
+        "alternativas": {
+            "A": "Busca constante por novas ideias.",
+            "B": "Capacidade de enxergar soluções inovadoras.",
+            "C": "Coragem para arriscar e experimentar.",
+            "D": "Trabalho isolado e individual.",
+            "E": "Habilidade para trabalhar em equipe."
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 6,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "A diversidade nas equipes contribui para a criatividade porque:",
+        "alternativas": {
+            "A": "Reduz conflitos organizacionais.",
+            "B": "Uniformiza formas de pensamento.",
+            "C": "Amplia perspectivas e pontos de vista.",
+            "D": "Diminui a necessidade de liderança.",
+            "E": "Elimina a necessidade de inovação."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 7,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "A Lei Complementar nº 128/2008 instituiu:",
+        "alternativas": {
+            "A": "O Simples Nacional.",
+            "B": "A Consolidação das Leis do Trabalho.",
+            "C": "O programa Microempreendedor Individual (MEI).",
+            "D": "As startups de base tecnológica.",
+            "E": "A previdência privada."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 8,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "Um dos principais benefícios da formalização como MEI é:",
+        "alternativas": {
+            "A": "Isenção total de tributos.",
+            "B": "Acesso à previdência social.",
+            "C": "Eliminação de obrigações legais.",
+            "D": "Proibição de emitir nota fiscal.",
+            "E": "Exclusividade no mercado."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 9,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "O caso da Airbnb exemplifica a importância de:",
+        "alternativas": {
+            "A": "Gestão financeira conservadora.",
+            "B": "Criatividade aplicada à experiência do cliente.",
+            "C": "Redução da inovação para escalar o negócio.",
+            "D": "Foco exclusivo em marketing tradicional.",
+            "E": "Eliminação de avaliações dos usuários."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 10,
+        "banca": "UNICESUMAR",
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "ano": 2023,
+        "enunciado": "Segundo os estudos apresentados, a incerteza no empreendedorismo:",
+        "alternativas": {
+            "A": "Deve ser evitada a qualquer custo.",
+            "B": "É sempre um fator negativo.",
+            "C": "Pode bloquear a criatividade, mas também gerar oportunidades.",
+            "D": "Não influencia o processo criativo.",
+            "E": "É eliminada com planejamento."
+        },
+        "correta": "C"
+    }
 ]
