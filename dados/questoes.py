@@ -3059,4 +3059,806 @@ QUESTOES = [
         },
         "correta": "C"
     },
+
+    {
+        "id": 1,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A genética é a área da biologia responsável pelo estudo:",
+        "alternativas": {
+            "A": "Do desenvolvimento embrionário.",
+            "B": "Das células-tronco.",
+            "C": "Da hereditariedade e da variação dos seres vivos.",
+            "D": "Dos tecidos animais.",
+            "E": "Da fisiologia humana."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 2,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O DNA tem como principal função:",
+        "alternativas": {
+            "A": "Produzir energia celular.",
+            "B": "Armazenar informações genéticas.",
+            "C": "Atuar na digestão celular.",
+            "D": "Formar a membrana plasmática.",
+            "E": "Controlar a respiração celular."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 3,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os genes são definidos como:",
+        "alternativas": {
+            "A": "Segmentos de RNA presentes no citoplasma.",
+            "B": "Unidades funcionais da hereditariedade.",
+            "C": "Células especializadas.",
+            "D": "Organelas celulares.",
+            "E": "Proteínas estruturais."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 4,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O conjunto de genes de um indivíduo é chamado de:",
+        "alternativas": {
+            "A": "Fenótipo.",
+            "B": "Genótipo.",
+            "C": "Cariótipo.",
+            "D": "Cromatina.",
+            "E": "Alelos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 5,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Fenótipo corresponde:",
+        "alternativas": {
+            "A": "Aos genes herdados.",
+            "B": "À constituição cromossômica.",
+            "C": "À manifestação das características do genótipo.",
+            "D": "Apenas às características hereditárias.",
+            "E": "À sequência do DNA."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 6,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A mitose é um processo de divisão celular que resulta em:",
+        "alternativas": {
+            "A": "Quatro células haploides.",
+            "B": "Duas células geneticamente idênticas.",
+            "C": "Duas células haploides.",
+            "D": "Quatro células diploides.",
+            "E": "Células com mutações."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 7,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A meiose é importante porque:",
+        "alternativas": {
+            "A": "Permite crescimento dos tecidos.",
+            "B": "Produz células somáticas.",
+            "C": "Reduz o número de cromossomos pela metade.",
+            "D": "Gera células idênticas.",
+            "E": "Evita variabilidade genética."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 8,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os gametas humanos apresentam:",
+        "alternativas": {
+            "A": "46 cromossomos.",
+            "B": "23 cromossomos.",
+            "C": "92 cromossomos.",
+            "D": "44 cromossomos.",
+            "E": "Número variável de cromossomos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 9,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A fecundação ocorre quando:",
+        "alternativas": {
+            "A": "O embrião se implanta no útero.",
+            "B": "Ocorre divisão mitótica.",
+            "C": "Há união do espermatozoide com o óvulo.",
+            "D": "Formam-se os tecidos embrionários.",
+            "E": "Ocorre gastrulação."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 10,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O zigoto é caracterizado por:",
+        "alternativas": {
+            "A": "Ser uma célula haploide.",
+            "B": "Ser resultado da meiose.",
+            "C": "Ser a primeira célula diploide do novo organismo.",
+            "D": "Originar-se da mitose.",
+            "E": "Formar tecidos diretamente."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 11,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A clivagem embrionária consiste em:",
+        "alternativas": {
+            "A": "Crescimento do embrião.",
+            "B": "Divisões mitóticas sucessivas do zigoto.",
+            "C": "Formação dos folhetos embrionários.",
+            "D": "Implantação uterina.",
+            "E": "Diferenciação celular final."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 12,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A mórula é caracterizada por:",
+        "alternativas": {
+            "A": "Uma cavidade interna cheia de líquido.",
+            "B": "Uma massa compacta de células.",
+            "C": "Presença de folhetos embrionários.",
+            "D": "Início da organogênese.",
+            "E": "Implantação no útero."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 13,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A blástula se caracteriza pela:",
+        "alternativas": {
+            "A": "Ausência de cavidade.",
+            "B": "Formação do blastocél.",
+            "C": "Diferenciação de órgãos.",
+            "D": "Formação do sistema nervoso.",
+            "E": "Produção de gametas."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 14,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A gastrulação é a fase em que ocorre:",
+        "alternativas": {
+            "A": "Clivagem do zigoto.",
+            "B": "Formação dos folhetos embrionários.",
+            "C": "Implantação uterina.",
+            "D": "Organogênese.",
+            "E": "Crescimento fetal."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 15,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os folhetos embrionários são:",
+        "alternativas": {
+            "A": "Epitélio, músculo e osso.",
+            "B": "Ectoderma, mesoderma e endoderma.",
+            "C": "Córion, âmnio e alantoide.",
+            "D": "Placenta, cordão e saco vitelínico.",
+            "E": "Blastômeros e zigoto."
+        },
+        "correta": "B"
+    },
+    
+    # Continuação – Genética e Embriologia (IDs 16 a 50)
+    {
+        "id": 16,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O ectoderma origina principalmente:",
+        "alternativas": {
+            "A": "Sistema digestório.",
+            "B": "Sistema respiratório.",
+            "C": "Sistema nervoso e epiderme.",
+            "D": "Músculos e ossos.",
+            "E": "Sistema circulatório."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 17,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O mesoderma é responsável pela formação de:",
+        "alternativas": {
+            "A": "Epiderme.",
+            "B": "Sistema nervoso.",
+            "C": "Músculos, ossos e sistema circulatório.",
+            "D": "Sistema digestório.",
+            "E": "Glândulas endócrinas."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 18,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O endoderma origina principalmente:",
+        "alternativas": {
+            "A": "Sistema nervoso.",
+            "B": "Epiderme.",
+            "C": "Sistema digestório e respiratório.",
+            "D": "Músculos.",
+            "E": "Ossos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 19,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A organogênese corresponde à fase:",
+        "alternativas": {
+            "A": "De clivagem celular.",
+            "B": "De formação dos folhetos embrionários.",
+            "C": "De formação dos órgãos.",
+            "D": "De fecundação.",
+            "E": "De implantação."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 20,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O período embrionário humano vai aproximadamente:",
+        "alternativas": {
+            "A": "Da 1ª à 2ª semana.",
+            "B": "Da 1ª à 4ª semana.",
+            "C": "Da 1ª à 8ª semana.",
+            "D": "Da 8ª à 12ª semana.",
+            "E": "Da 12ª à 40ª semana."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 21,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O período fetal caracteriza-se principalmente por:",
+        "alternativas": {
+            "A": "Formação dos folhetos embrionários.",
+            "B": "Formação inicial dos órgãos.",
+            "C": "Crescimento e amadurecimento dos órgãos.",
+            "D": "Clivagens celulares.",
+            "E": "Gastrulação."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 22,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os cromossomos homólogos são:",
+        "alternativas": {
+            "A": "Idênticos em todas as células.",
+            "B": "Cromossomos sexuais.",
+            "C": "Pares de cromossomos semelhantes.",
+            "D": "Cromossomos mutantes.",
+            "E": "Fragmentos de DNA."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 23,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os alelos são definidos como:",
+        "alternativas": {
+            "A": "Genes localizados em cromossomos diferentes.",
+            "B": "Formas alternativas de um mesmo gene.",
+            "C": "Cromossomos sexuais.",
+            "D": "Proteínas estruturais.",
+            "E": "Organelas celulares."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 24,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Um indivíduo heterozigoto apresenta:",
+        "alternativas": {
+            "A": "Dois alelos iguais.",
+            "B": "Apenas alelos recessivos.",
+            "C": "Apenas alelos dominantes.",
+            "D": "Dois alelos diferentes.",
+            "E": "Ausência de alelos."
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 25,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Um indivíduo homozigoto dominante possui:",
+        "alternativas": {
+            "A": "Dois alelos recessivos.",
+            "B": "Dois alelos dominantes.",
+            "C": "Um alelo dominante e um recessivo.",
+            "D": "Nenhum alelo dominante.",
+            "E": "Alelos diferentes."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 26,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "As leis de Mendel estudam:",
+        "alternativas": {
+            "A": "Divisão celular.",
+            "B": "Desenvolvimento embrionário.",
+            "C": "Herança genética.",
+            "D": "Mutação cromossômica.",
+            "E": "Clonagem."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 27,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A primeira lei de Mendel também é conhecida como:",
+        "alternativas": {
+            "A": "Lei da segregação dos fatores.",
+            "B": "Lei da herança ligada ao sexo.",
+            "C": "Lei da dominância incompleta.",
+            "D": "Lei da mutação.",
+            "E": "Lei da recombinação."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 28,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A segunda lei de Mendel trata:",
+        "alternativas": {
+            "A": "Da segregação independente dos genes.",
+            "B": "Da herança ligada ao sexo.",
+            "C": "Da mutação gênica.",
+            "D": "Do crossing-over.",
+            "E": "Da dominância recessiva."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 29,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O crossing-over ocorre durante:",
+        "alternativas": {
+            "A": "Mitose.",
+            "B": "Meiose I.",
+            "C": "Meiose II.",
+            "D": "Fecundação.",
+            "E": "Clivagem."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 30,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A principal consequência do crossing-over é:",
+        "alternativas": {
+            "A": "Redução cromossômica.",
+            "B": "Formação do zigoto.",
+            "C": "Aumento da variabilidade genética.",
+            "D": "Produção de células idênticas.",
+            "E": "Formação de órgãos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 31,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Mutação genética pode ser definida como:",
+        "alternativas": {
+            "A": "Processo normal de divisão celular.",
+            "B": "Alteração na sequência do DNA.",
+            "C": "Formação de gametas.",
+            "D": "Expressão fenotípica.",
+            "E": "Crescimento embrionário."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 32,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "As mutações podem ser classificadas em:",
+        "alternativas": {
+            "A": "Somáticas e germinativas.",
+            "B": "Dominantes e recessivas.",
+            "C": "Mitóticas e meióticas.",
+            "D": "Embrionárias e fetais.",
+            "E": "Primárias e secundárias."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 33,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "As mutações germinativas são importantes porque:",
+        "alternativas": {
+            "A": "Afetam apenas o indivíduo.",
+            "B": "Não são herdadas.",
+            "C": "Podem ser transmitidas aos descendentes.",
+            "D": "Não alteram o DNA.",
+            "E": "Ocorrem apenas na mitose."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 34,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O cariótipo humano normal apresenta:",
+        "alternativas": {
+            "A": "44 cromossomos.",
+            "B": "45 cromossomos.",
+            "C": "46 cromossomos.",
+            "D": "47 cromossomos.",
+            "E": "48 cromossomos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 35,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os cromossomos sexuais humanos são:",
+        "alternativas": {
+            "A": "XX e XY.",
+            "B": "AA e BB.",
+            "C": "XY e YY.",
+            "D": "XX e YY.",
+            "E": "ZZ e ZW."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 36,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A síndrome de Down está associada à:",
+        "alternativas": {
+            "A": "Monossomia do cromossomo 21.",
+            "B": "Trissomia do cromossomo 21.",
+            "C": "Mutação gênica recessiva.",
+            "D": "Ausência de cromossomos sexuais.",
+            "E": "Duplicação do cromossomo X."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 37,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A herança ligada ao sexo ocorre quando:",
+        "alternativas": {
+            "A": "Genes estão em autossomos.",
+            "B": "Genes estão nos cromossomos sexuais.",
+            "C": "Genes são recessivos.",
+            "D": "Genes sofrem mutação.",
+            "E": "Genes são dominantes."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 38,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O daltonismo é um exemplo de:",
+        "alternativas": {
+            "A": "Herança autossômica dominante.",
+            "B": "Herança autossômica recessiva.",
+            "C": "Herança ligada ao cromossomo X.",
+            "D": "Mutação somática.",
+            "E": "Herança mitocondrial."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 39,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A clonagem consiste em:",
+        "alternativas": {
+            "A": "Produção de gametas.",
+            "B": "Formação de mutações.",
+            "C": "Produção de indivíduos geneticamente idênticos.",
+            "D": "Redução cromossômica.",
+            "E": "Fecundação artificial."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 40,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A biotecnologia utiliza conhecimentos de genética para:",
+        "alternativas": {
+            "A": "Eliminar mutações.",
+            "B": "Produzir organismos e produtos úteis.",
+            "C": "Impedir reprodução.",
+            "D": "Controlar clivagem.",
+            "E": "Formar embriões."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 41,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O DNA recombinante é utilizado para:",
+        "alternativas": {
+            "A": "Divisão celular.",
+            "B": "Produção de hormônios e medicamentos.",
+            "C": "Formação de tecidos.",
+            "D": "Clivagem embrionária.",
+            "E": "Gastrulação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 42,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A engenharia genética envolve:",
+        "alternativas": {
+            "A": "Manipulação direta do DNA.",
+            "B": "Apenas reprodução natural.",
+            "C": "Formação de órgãos.",
+            "D": "Divisão mitótica.",
+            "E": "Desenvolvimento embrionário."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 43,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Os organismos transgênicos possuem:",
+        "alternativas": {
+            "A": "Genes idênticos aos originais.",
+            "B": "Genes de outra espécie.",
+            "C": "Apenas mutações naturais.",
+            "D": "Ausência de DNA.",
+            "E": "Cromossomos extras."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 44,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A bioética discute principalmente:",
+        "alternativas": {
+            "A": "Divisão celular.",
+            "B": "Aspectos morais da biotecnologia.",
+            "C": "Formação embrionária.",
+            "D": "Mutação genética.",
+            "E": "Crescimento fetal."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 45,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "As células-tronco caracterizam-se por:",
+        "alternativas": {
+            "A": "Não se dividirem.",
+            "B": "Alta especialização.",
+            "C": "Capacidade de diferenciação.",
+            "D": "Ausência de núcleo.",
+            "E": "Serem haploides."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 46,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "As células-tronco embrionárias são:",
+        "alternativas": {
+            "A": "Unipotentes.",
+            "B": "Totipotentes ou pluripotentes.",
+            "C": "Altamente especializadas.",
+            "D": "Haploides.",
+            "E": "Exclusivas de tecidos adultos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 47,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A principal aplicação das células-tronco é:",
+        "alternativas": {
+            "A": "Produção de gametas.",
+            "B": "Terapias regenerativas.",
+            "C": "Formação do zigoto.",
+            "D": "Clivagem embrionária.",
+            "E": "Gastrulação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 48,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "A epigenética estuda:",
+        "alternativas": {
+            "A": "Mudanças na sequência do DNA.",
+            "B": "Expressão gênica sem alterar o DNA.",
+            "C": "Formação de gametas.",
+            "D": "Divisão celular.",
+            "E": "Desenvolvimento fetal."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 49,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "O ambiente pode influenciar o fenótipo por meio da:",
+        "alternativas": {
+            "A": "Mutação cromossômica.",
+            "B": "Epigenética.",
+            "C": "Meiose.",
+            "D": "Fecundação.",
+            "E": "Clivagem."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 50,
+        "banca": "UNICESUMAR",
+        "materia": "Genética e Embriologia",
+        "ano": 2023,
+        "enunciado": "Genética e embriologia são áreas importantes porque:",
+        "alternativas": {
+            "A": "Explicam apenas doenças.",
+            "B": "Auxiliam na compreensão da hereditariedade e do desenvolvimento humano.",
+            "C": "Eliminam mutações.",
+            "D": "Substituem a biologia.",
+            "E": "Explicam apenas a fecundação."
+        },
+        "correta": "B"
+    },
+
 ]
