@@ -5363,6 +5363,1505 @@ QUESTOES = [
             "E": "isolamento econômico"
         },
         "correta": "C"
-    }
-
+    },
+    {
+        "id": 1,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A administração pública pode ser definida como o conjunto de atividades exercidas pelo Estado com a finalidade de:",
+        "alternativas": {
+            "A": "obter lucro econômico",
+            "B": "atender aos interesses privados",
+            "C": "satisfazer necessidades coletivas",
+            "D": "regular exclusivamente o setor privado",
+            "E": "promover atividades comerciais"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 2,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Constitui princípio expresso da Administração Pública:",
+        "alternativas": {
+            "A": "Eficiência",
+            "B": "Competitividade",
+            "C": "Autonomia",
+            "D": "Lucratividade",
+            "E": "Rentabilidade"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 3,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A organização administrativa que distribui competências entre órgãos denomina-se:",
+        "alternativas": {
+            "A": "centralização",
+            "B": "concentração",
+            "C": "descentralização",
+            "D": "delegação política",
+            "E": "privatização"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 4,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "No ambiente de trabalho, o atendimento ao público deve ser pautado principalmente pelos princípios da:",
+        "alternativas": {
+            "A": "autoridade e rigidez",
+            "B": "rapidez e informalidade",
+            "C": "cordialidade e eficiência",
+            "D": "hierarquia e subordinação",
+            "E": "competitividade e controle"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 5,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Arquivamento é a atividade que consiste em:",
+        "alternativas": {
+            "A": "eliminar documentos sem valor",
+            "B": "organizar documentos de forma lógica e sistemática",
+            "C": "digitalizar todos os arquivos",
+            "D": "guardar documentos sigilosos",
+            "E": "protocolar documentos externos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 6,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da legalidade na Administração Pública determina que o agente público:",
+        "alternativas": {
+            "A": "age conforme sua vontade pessoal",
+            "B": "só pode agir quando a lei permitir",
+            "C": "atua segundo costumes administrativos",
+            "D": "tem liberdade absoluta de decisão",
+            "E": "segue normas internas acima da lei"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 7,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da impessoalidade exige que a Administração Pública:",
+        "alternativas": {
+            "A": "beneficie agentes políticos",
+            "B": "priorize interesses particulares",
+            "C": "atue visando ao interesse público",
+            "D": "adote decisões subjetivas",
+            "E": "favoreça servidores antigos"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 8,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A função do protocolo em uma repartição pública é:",
+        "alternativas": {
+            "A": "arquivar documentos históricos",
+            "B": "controlar o trâmite de documentos",
+            "C": "eliminar documentos sem valor",
+            "D": "digitalizar processos antigos",
+            "E": "classificar arquivos permanentes"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 9,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A ética no serviço público relaciona-se principalmente:",
+        "alternativas": {
+            "A": "ao lucro institucional",
+            "B": "à moralidade do comportamento do servidor",
+            "C": "à produtividade econômica",
+            "D": "à hierarquia administrativa",
+            "E": "ao desempenho político"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 10,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Documentos correntes são aqueles que:",
+        "alternativas": {
+            "A": "já perderam sua utilidade",
+            "B": "são frequentemente consultados",
+            "C": "possuem apenas valor histórico",
+            "D": "devem ser eliminados",
+            "E": "não têm valor administrativo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 11,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A comunicação oficial caracteriza-se principalmente por:",
+        "alternativas": {
+            "A": "uso de linguagem informal",
+            "B": "emprego de gírias",
+            "C": "clareza, objetividade e formalidade",
+            "D": "opiniões pessoais",
+            "E": "linguagem coloquial"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 12,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "No atendimento ao público, o servidor deve agir com:",
+        "alternativas": {
+            "A": "indiferença",
+            "B": "autoritarismo",
+            "C": "cordialidade e respeito",
+            "D": "rigidez excessiva",
+            "E": "distanciamento"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 13,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da eficiência busca:",
+        "alternativas": {
+            "A": "aumento da burocracia",
+            "B": "melhores resultados com menor custo",
+            "C": "centralização extrema",
+            "D": "rigidez hierárquica",
+            "E": "controle político"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 14,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A finalidade essencial da Administração Pública é:",
+        "alternativas": {
+            "A": "atender interesses privados",
+            "B": "executar políticas públicas em benefício coletivo",
+            "C": "gerar lucro",
+            "D": "controlar o setor privado",
+            "E": "favorecer servidores"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 15,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Documentos intermediários são aqueles que:",
+        "alternativas": {
+            "A": "estão em uso constante",
+            "B": "aguardam destinação final",
+            "C": "possuem valor histórico",
+            "D": "não possuem valor legal",
+            "E": "devem ser eliminados imediatamente"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 16,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da moralidade administrativa exige que o servidor:",
+        "alternativas": {
+            "A": "aja apenas conforme ordens superiores",
+            "B": "observe padrões éticos e legais",
+            "C": "priorize resultados financeiros",
+            "D": "atue com discricionariedade total",
+            "E": "evite prestação de contas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 17,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da publicidade garante:",
+        "alternativas": {
+            "A": "sigilo absoluto",
+            "B": "transparência dos atos administrativos",
+            "C": "proteção a interesses privados",
+            "D": "redução do controle social",
+            "E": "eliminação da fiscalização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 18,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O trabalho em equipe no serviço público contribui para:",
+        "alternativas": {
+            "A": "competição interna",
+            "B": "isolamento funcional",
+            "C": "melhoria dos resultados institucionais",
+            "D": "conflitos constantes",
+            "E": "redução da eficiência"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 19,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A correta organização de arquivos permite:",
+        "alternativas": {
+            "A": "perda de documentos",
+            "B": "acesso rápido à informação",
+            "C": "acúmulo desnecessário",
+            "D": "eliminação indevida",
+            "E": "desorganização administrativa"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 20,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve sempre agir visando:",
+        "alternativas": {
+            "A": "vantagens pessoais",
+            "B": "interesses políticos",
+            "C": "interesse público",
+            "D": "benefícios individuais",
+            "E": "lucro institucional"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 21,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A centralização administrativa ocorre quando:",
+        "alternativas": {
+            "A": "há distribuição de competências a outros entes",
+            "B": "as decisões concentram-se em um único órgão",
+            "C": "ocorre delegação a particulares",
+            "D": "há autonomia total dos órgãos",
+            "E": "as atividades são terceirizadas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 22,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A descentralização administrativa caracteriza-se:",
+        "alternativas": {
+            "A": "pela concentração de poder",
+            "B": "pela ausência de hierarquia",
+            "C": "pela distribuição de competências",
+            "D": "pela extinção de órgãos",
+            "E": "pela centralização política"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 23,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O atendimento ao público eficiente exige do servidor:",
+        "alternativas": {
+            "A": "autoritarismo",
+            "B": "desinteresse",
+            "C": "clareza e objetividade",
+            "D": "rigidez excessiva",
+            "E": "tratamento desigual"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 24,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da eficiência foi incorporado expressamente à Constituição Federal por meio:",
+        "alternativas": {
+            "A": "da Constituição de 1934",
+            "B": "da Constituição de 1967",
+            "C": "da Emenda Constitucional nº 19/1998",
+            "D": "da Lei nº 8.112/1990",
+            "E": "do Código Civil"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 25,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A finalidade do arquivo permanente é:",
+        "alternativas": {
+            "A": "uso administrativo imediato",
+            "B": "eliminação de documentos",
+            "C": "preservação de documentos de valor histórico",
+            "D": "tramitação processual",
+            "E": "controle de protocolo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 26,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A comunicação interna eficiente contribui para:",
+        "alternativas": {
+            "A": "aumento de conflitos",
+            "B": "redução da produtividade",
+            "C": "melhoria do fluxo de trabalho",
+            "D": "desinformação institucional",
+            "E": "isolamento funcional"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 27,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A conduta ética do servidor público deve ser:",
+        "alternativas": {
+            "A": "facultativa",
+            "B": "condicionada à chefia",
+            "C": "pautada pelo interesse público",
+            "D": "limitada ao horário de trabalho",
+            "E": "restrita às normas internas"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O controle da tramitação documental é realizado principalmente pelo setor de:",
+        "alternativas": {
+            "A": "arquivo permanente",
+            "B": "recursos humanos",
+            "C": "protocolo",
+            "D": "contabilidade",
+            "E": "almoxarifado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 29,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O respeito à hierarquia administrativa implica:",
+        "alternativas": {
+            "A": "anulação da ética",
+            "B": "cumprimento de ordens ilegais",
+            "C": "observância das competências e níveis de autoridade",
+            "D": "autonomia absoluta",
+            "E": "ausência de controle"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 30,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A função administrativa básica relacionada ao controle consiste em:",
+        "alternativas": {
+            "A": "planejar ações futuras",
+            "B": "organizar recursos",
+            "C": "verificar se os objetivos estão sendo alcançados",
+            "D": "executar tarefas operacionais",
+            "E": "delegar responsabilidades"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 31,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da legalidade, aplicado à Administração Pública, determina que:",
+        "alternativas": {
+            "A": "o administrador pode agir conforme sua vontade",
+            "B": "a administração só pode agir conforme a lei",
+            "C": "a moralidade prevalece sobre a lei",
+            "D": "o interesse privado se sobrepõe ao público",
+            "E": "as decisões são discricionárias em qualquer caso"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O memorando é um documento utilizado para:",
+        "alternativas": {
+            "A": "comunicação externa entre órgãos",
+            "B": "registro de reuniões",
+            "C": "comunicação interna entre setores",
+            "D": "divulgação ao público",
+            "E": "convocação oficial"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 33,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A finalidade principal do protocolo é:",
+        "alternativas": {
+            "A": "elaborar documentos oficiais",
+            "B": "arquivar documentos históricos",
+            "C": "registrar e controlar a tramitação documental",
+            "D": "digitalizar documentos antigos",
+            "E": "eliminar documentos sem valor"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 34,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O arquivamento por data corresponde ao método:",
+        "alternativas": {
+            "A": "alfabético",
+            "B": "numérico",
+            "C": "cronológico",
+            "D": "geográfico",
+            "E": "temático"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 35,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A tabela de temporalidade documental tem como função:",
+        "alternativas": {
+            "A": "classificar documentos por assunto",
+            "B": "definir prazos de guarda e destinação",
+            "C": "digitalizar documentos",
+            "D": "controlar acesso a arquivos",
+            "E": "organizar documentos por ordem alfabética"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 36,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O princípio da impessoalidade exige que o servidor:",
+        "alternativas": {
+            "A": "priorize interesses pessoais",
+            "B": "trate todos de forma igualitária",
+            "C": "favoreça superiores hierárquicos",
+            "D": "aja conforme relações pessoais",
+            "E": "decida de forma subjetiva"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 37,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A publicidade dos atos administrativos tem como objetivo principal:",
+        "alternativas": {
+            "A": "aumentar a burocracia",
+            "B": "garantir sigilo absoluto",
+            "C": "permitir o controle social",
+            "D": "favorecer interesses privados",
+            "E": "reduzir a transparência"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 38,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A postura adequada no atendimento ao público inclui:",
+        "alternativas": {
+            "A": "tratamento diferenciado",
+            "B": "cordialidade e respeito",
+            "C": "rigidez excessiva",
+            "D": "autoritarismo",
+            "E": "recusa de informações"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 39,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A digitalização de documentos contribui principalmente para:",
+        "alternativas": {
+            "A": "aumento do volume físico",
+            "B": "dificuldade de acesso",
+            "C": "agilidade na recuperação da informação",
+            "D": "eliminação automática do original",
+            "E": "perda da autenticidade"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 40,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A ética no serviço público está relacionada diretamente:",
+        "alternativas": {
+            "A": "ao interesse privado",
+            "B": "à vantagem pessoal",
+            "C": "à honestidade e responsabilidade",
+            "D": "à hierarquia apenas",
+            "E": "ao sigilo absoluto"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 41,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A organização administrativa refere-se ao conjunto de:",
+        "alternativas": {
+            "A": "normas informais",
+            "B": "pessoas sem hierarquia",
+            "C": "órgãos e agentes responsáveis pela função administrativa",
+            "D": "empresas privadas conveniadas",
+            "E": "atividades legislativas"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 42,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O documento oficial deve primar, entre outros aspectos, pela:",
+        "alternativas": {
+            "A": "linguagem coloquial",
+            "B": "subjetividade",
+            "C": "clareza e padronização",
+            "D": "informalidade",
+            "E": "ambiguidade"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 43,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A correspondência oficial distingue-se da pessoal por:",
+        "alternativas": {
+            "A": "não possuir valor legal",
+            "B": "representar a instituição, e não o indivíduo",
+            "C": "ser sigilosa em todos os casos",
+            "D": "não seguir normas",
+            "E": "ter linguagem subjetiva"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 44,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O controle administrativo interno tem como finalidade:",
+        "alternativas": {
+            "A": "punir servidores",
+            "B": "garantir a legalidade e eficiência dos atos",
+            "C": "substituir o controle externo",
+            "D": "eliminar a hierarquia",
+            "E": "restringir informações"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 45,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A classificação documental por assunto corresponde ao método:",
+        "alternativas": {
+            "A": "numérico",
+            "B": "cronológico",
+            "C": "geográfico",
+            "D": "temático",
+            "E": "alfanumérico"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 46,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A gestão de materiais busca principalmente:",
+        "alternativas": {
+            "A": "aumento de custos",
+            "B": "descontrole de estoque",
+            "C": "uso racional dos recursos",
+            "D": "aquisição excessiva",
+            "E": "redução da produtividade"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 47,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O almoxarifado é responsável pelo:",
+        "alternativas": {
+            "A": "arquivamento de processos",
+            "B": "controle e distribuição de materiais",
+            "C": "registro de documentos oficiais",
+            "D": "planejamento estratégico",
+            "E": "controle financeiro"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 48,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A boa comunicação no ambiente de trabalho favorece:",
+        "alternativas": {
+            "A": "conflitos interpessoais",
+            "B": "ruídos institucionais",
+            "C": "integração e eficiência",
+            "D": "isolamento funcional",
+            "E": "informalidade excessiva"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 49,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O sigilo documental deve ser mantido quando:",
+        "alternativas": {
+            "A": "não houver interesse público",
+            "B": "a informação for irrelevante",
+            "C": "a lei assim determinar",
+            "D": "o servidor decidir",
+            "E": "o documento for antigo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 50,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O trabalho em equipe no serviço público contribui para:",
+        "alternativas": {
+            "A": "fragmentação das tarefas",
+            "B": "centralização extrema",
+            "C": "melhoria dos resultados institucionais",
+            "D": "competição negativa",
+            "E": "redução da eficiência"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 51,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A eficiência administrativa está diretamente relacionada:",
+        "alternativas": {
+            "A": "ao aumento da burocracia",
+            "B": "à redução da transparência",
+            "C": "ao melhor uso dos recursos disponíveis",
+            "D": "à informalidade dos procedimentos",
+            "E": "à ausência de planejamento"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 52,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O planejamento administrativo tem como finalidade principal:",
+        "alternativas": {
+            "A": "corrigir falhas passadas",
+            "B": "antecipar ações e definir objetivos",
+            "C": "controlar pessoas",
+            "D": "executar tarefas rotineiras",
+            "E": "eliminar riscos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 53,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A organização do trabalho administrativo envolve:",
+        "alternativas": {
+            "A": "distribuição racional de tarefas",
+            "B": "eliminação da hierarquia",
+            "C": "improvisação contínua",
+            "D": "centralização absoluta",
+            "E": "ausência de controle"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 54,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A direção administrativa está relacionada:",
+        "alternativas": {
+            "A": "ao arquivamento de documentos",
+            "B": "à liderança e orientação das equipes",
+            "C": "à fiscalização externa",
+            "D": "à elaboração de leis",
+            "E": "ao controle contábil"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 55,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O controle administrativo visa:",
+        "alternativas": {
+            "A": "punir servidores",
+            "B": "verificar o cumprimento dos objetivos",
+            "C": "reduzir a autonomia",
+            "D": "centralizar decisões",
+            "E": "eliminar erros automaticamente"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 56,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A formalização de rotinas administrativas contribui para:",
+        "alternativas": {
+            "A": "desorganização",
+            "B": "insegurança jurídica",
+            "C": "padronização e eficiência",
+            "D": "informalidade",
+            "E": "aumento de conflitos"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 57,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O atendimento humanizado no serviço público pressupõe:",
+        "alternativas": {
+            "A": "tratamento seletivo",
+            "B": "empatia e respeito ao cidadão",
+            "C": "rigidez excessiva",
+            "D": "prioridade pessoal",
+            "E": "distanciamento profissional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 58,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A ética administrativa busca assegurar:",
+        "alternativas": {
+            "A": "vantagem individual",
+            "B": "benefícios privados",
+            "C": "conduta íntegra e interesse público",
+            "D": "hierarquia rígida",
+            "E": "sigilo absoluto"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 59,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A responsabilidade do servidor público decorre:",
+        "alternativas": {
+            "A": "apenas da hierarquia",
+            "B": "do exercício de função pública",
+            "C": "da vontade pessoal",
+            "D": "do cargo político",
+            "E": "do interesse privado"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 60,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A gestão do tempo no ambiente administrativo objetiva:",
+        "alternativas": {
+            "A": "prolongar atividades",
+            "B": "reduzir produtividade",
+            "C": "otimizar tarefas e prazos",
+            "D": "eliminar planejamento",
+            "E": "centralizar decisões"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 61,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O uso de tecnologias na administração pública favorece:",
+        "alternativas": {
+            "A": "aumento da burocracia",
+            "B": "ineficiência",
+            "C": "celeridade e transparência",
+            "D": "isolamento institucional",
+            "E": "perda de controle"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 62,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A organização física do ambiente de trabalho contribui para:",
+        "alternativas": {
+            "A": "desmotivação",
+            "B": "acúmulo de tarefas",
+            "C": "produtividade e bem-estar",
+            "D": "isolamento funcional",
+            "E": "aumento de conflitos"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 63,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A padronização documental tem como vantagem:",
+        "alternativas": {
+            "A": "dificultar a compreensão",
+            "B": "garantir uniformidade e clareza",
+            "C": "aumentar subjetividade",
+            "D": "reduzir controle",
+            "E": "eliminar formalidades legais"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 64,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A tramitação eficiente de processos depende:",
+        "alternativas": {
+            "A": "da informalidade",
+            "B": "do controle e registro adequados",
+            "C": "da centralização excessiva",
+            "D": "do sigilo absoluto",
+            "E": "da ausência de prazos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 65,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A transparência administrativa fortalece:",
+        "alternativas": {
+            "A": "o controle social",
+            "B": "o sigilo institucional",
+            "C": "a informalidade",
+            "D": "o interesse privado",
+            "E": "a burocracia excessiva"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 66,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve agir com probidade, o que significa:",
+        "alternativas": {
+            "A": "agir conforme interesses pessoais",
+            "B": "atuar com honestidade",
+            "C": "seguir ordens ilegais",
+            "D": "beneficiar terceiros",
+            "E": "agir sem responsabilidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 67,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A comunicação escrita oficial deve ser:",
+        "alternativas": {
+            "A": "subjetiva",
+            "B": "informal",
+            "C": "clara, objetiva e impessoal",
+            "D": "coloquial",
+            "E": "ambígua"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 68,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O controle de estoque eficiente evita:",
+        "alternativas": {
+            "A": "falta e desperdício de materiais",
+            "B": "planejamento",
+            "C": "organização",
+            "D": "transparência",
+            "E": "padronização"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 69,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A atuação proativa do servidor público contribui para:",
+        "alternativas": {
+            "A": "ineficiência",
+            "B": "melhoria dos serviços",
+            "C": "desorganização",
+            "D": "conflitos",
+            "E": "isolamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 70,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A boa prática administrativa baseia-se:",
+        "alternativas": {
+            "A": "na improvisação",
+            "B": "no planejamento e controle",
+            "C": "na informalidade",
+            "D": "no interesse privado",
+            "E": "na ausência de normas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 71,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A responsabilidade social da Administração Pública envolve:",
+        "alternativas": {
+            "A": "atendimento ao interesse coletivo",
+            "B": "vantagem econômica",
+            "C": "benefício privado",
+            "D": "lucro institucional",
+            "E": "sigilo absoluto"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 72,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve zelar pelo patrimônio público, evitando:",
+        "alternativas": {
+            "A": "uso racional",
+            "B": "conservação",
+            "C": "desperdício e mau uso",
+            "D": "controle",
+            "E": "planejamento"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 73,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A capacitação contínua do servidor visa:",
+        "alternativas": {
+            "A": "reduzir eficiência",
+            "B": "atualizar conhecimentos e habilidades",
+            "C": "eliminar controle",
+            "D": "diminuir produtividade",
+            "E": "isolar equipes"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 74,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A gestão da informação tem como objetivo:",
+        "alternativas": {
+            "A": "ocultar dados",
+            "B": "dificultar acesso",
+            "C": "organizar e disponibilizar informações",
+            "D": "eliminar registros",
+            "E": "centralizar poder"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 75,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O compromisso com resultados no setor público está ligado:",
+        "alternativas": {
+            "A": "ao improviso",
+            "B": "à eficiência e eficácia",
+            "C": "à informalidade",
+            "D": "ao interesse pessoal",
+            "E": "à ausência de metas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 76,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A ética profissional no serviço público reforça:",
+        "alternativas": {
+            "A": "a confiança da sociedade",
+            "B": "o sigilo absoluto",
+            "C": "o interesse privado",
+            "D": "a informalidade",
+            "E": "a centralização"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 77,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A boa gestão administrativa depende fundamentalmente:",
+        "alternativas": {
+            "A": "de improvisação",
+            "B": "de planejamento, organização e controle",
+            "C": "de informalidade",
+            "D": "de centralização extrema",
+            "E": "de ausência de normas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 78,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve atuar com transparência, o que implica:",
+        "alternativas": {
+            "A": "ocultar informações",
+            "B": "prestar contas de seus atos",
+            "C": "agir informalmente",
+            "D": "beneficiar terceiros",
+            "E": "manter sigilo absoluto"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 79,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A melhoria contínua dos serviços públicos pressupõe:",
+        "alternativas": {
+            "A": "resistência a mudanças",
+            "B": "avaliação constante de processos",
+            "C": "ausência de controle",
+            "D": "improvisação",
+            "E": "centralização total"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 80,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve agir com zelo, o que significa:",
+        "alternativas": {
+            "A": "descuidado",
+            "B": "atento e responsável",
+            "C": "informal",
+            "D": "subjetivo",
+            "E": "negligente"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 81,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A racionalização de processos administrativos visa:",
+        "alternativas": {
+            "A": "aumentar custos",
+            "B": "simplificar procedimentos",
+            "C": "gerar burocracia",
+            "D": "reduzir controle",
+            "E": "eliminar planejamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 82,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A liderança no ambiente administrativo deve ser baseada:",
+        "alternativas": {
+            "A": "no autoritarismo",
+            "B": "na comunicação e motivação",
+            "C": "na informalidade",
+            "D": "na omissão",
+            "E": "no interesse pessoal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 83,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O compromisso com a legalidade exige do servidor:",
+        "alternativas": {
+            "A": "agir conforme a lei",
+            "B": "agir por conveniência",
+            "C": "agir informalmente",
+            "D": "agir por interesse próprio",
+            "E": "agir sem controle"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 84,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A gestão eficiente dos recursos públicos contribui para:",
+        "alternativas": {
+            "A": "desperdício",
+            "B": "melhoria dos serviços à população",
+            "C": "interesse privado",
+            "D": "informalidade",
+            "E": "falta de controle"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 85,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve agir com responsabilidade social, considerando:",
+        "alternativas": {
+            "A": "apenas interesses pessoais",
+            "B": "impactos de suas ações na sociedade",
+            "C": "vantagens privadas",
+            "D": "hierarquia apenas",
+            "E": "sigilo absoluto"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 86,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A boa governança pública está associada:",
+        "alternativas": {
+            "A": "à transparência e eficiência",
+            "B": "à informalidade",
+            "C": "ao autoritarismo",
+            "D": "à ausência de controle",
+            "E": "ao interesse privado"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 87,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve manter conduta compatível com:",
+        "alternativas": {
+            "A": "interesses privados",
+            "B": "valores éticos e legais",
+            "C": "informalidade",
+            "D": "vantagens pessoais",
+            "E": "ausência de normas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 88,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A melhoria da qualidade no serviço público depende:",
+        "alternativas": {
+            "A": "do improviso",
+            "B": "do comprometimento dos servidores",
+            "C": "da informalidade",
+            "D": "da ausência de metas",
+            "E": "da centralização extrema"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 89,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A atuação ética do servidor fortalece:",
+        "alternativas": {
+            "A": "a credibilidade institucional",
+            "B": "o interesse privado",
+            "C": "a informalidade",
+            "D": "o autoritarismo",
+            "E": "a burocracia excessiva"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 90,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A responsabilidade administrativa do servidor decorre:",
+        "alternativas": {
+            "A": "do descumprimento de deveres funcionais",
+            "B": "de interesses privados",
+            "C": "da hierarquia apenas",
+            "D": "da vontade pessoal",
+            "E": "da informalidade"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 91,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A transparência ativa consiste em:",
+        "alternativas": {
+            "A": "divulgar informações de interesse público",
+            "B": "ocultar dados",
+            "C": "agir informalmente",
+            "D": "restringir acesso",
+            "E": "centralizar informações"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 92,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve agir com urbanidade, ou seja:",
+        "alternativas": {
+            "A": "com grosseria",
+            "B": "com cortesia e respeito",
+            "C": "com informalidade",
+            "D": "com indiferença",
+            "E": "com autoritarismo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 93,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A avaliação de desempenho no serviço público visa:",
+        "alternativas": {
+            "A": "punir servidores",
+            "B": "identificar oportunidades de melhoria",
+            "C": "reduzir produtividade",
+            "D": "eliminar controle",
+            "E": "favorecer interesses privados"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 94,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve evitar conflito de interesses, priorizando:",
+        "alternativas": {
+            "A": "interesses pessoais",
+            "B": "o interesse público",
+            "C": "vantagens privadas",
+            "D": "relações pessoais",
+            "E": "informalidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 95,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A boa prática no serviço público está alinhada:",
+        "alternativas": {
+            "A": "à legalidade e ética",
+            "B": "à informalidade",
+            "C": "ao interesse privado",
+            "D": "à ausência de controle",
+            "E": "ao improviso"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 96,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A gestão pública orientada a resultados busca:",
+        "alternativas": {
+            "A": "processos sem metas",
+            "B": "eficiência e efetividade",
+            "C": "informalidade",
+            "D": "centralização extrema",
+            "E": "redução da transparência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 97,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O servidor público deve preservar a imagem da instituição:",
+        "alternativas": {
+            "A": "agindo com ética e responsabilidade",
+            "B": "agindo informalmente",
+            "C": "beneficiando terceiros",
+            "D": "priorizando interesses pessoais",
+            "E": "omitindo informações"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 98,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A eficiência no atendimento ao público exige:",
+        "alternativas": {
+            "A": "demora",
+            "B": "clareza, agilidade e respeito",
+            "C": "informalidade",
+            "D": "autoritarismo",
+            "E": "omissão"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 99,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A atuação responsável do servidor público contribui para:",
+        "alternativas": {
+            "A": "descrédito institucional",
+            "B": "confiança da sociedade",
+            "C": "interesse privado",
+            "D": "informalidade",
+            "E": "conflitos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 100,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O compromisso do servidor público com a qualidade dos serviços reflete:",
+        "alternativas": {
+            "A": "interesse pessoal",
+            "B": "respeito ao cidadão e ao interesse público",
+            "C": "informalidade",
+            "D": "ausência de controle",
+            "E": "centralização extrema"
+        },
+        "correta": "B"
+    },
 ]
