@@ -2418,5 +2418,645 @@ QUESTOES = [
             "E": "É eliminada com planejamento."
         },
         "correta": "C"
-    }
+    },
+    # Questões – Mentalidade Criativa e Empreendedora (continuação)
+    {
+        "id": 11,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A inovação pode ser definida como:",
+        "alternativas": {
+            "A": "A criação de ideias abstratas sem aplicação prática.",
+            "B": "A implementação de ideias criativas que geram valor.",
+            "C": "A repetição de modelos já existentes.",
+            "D": "O controle rigoroso de processos tradicionais.",
+            "E": "A redução de riscos no ambiente organizacional."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 12,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A principal diferença entre criatividade e inovação é que:",
+        "alternativas": {
+            "A": "Ambas são sinônimos.",
+            "B": "Criatividade envolve ideias; inovação envolve aplicação.",
+            "C": "Inovação ocorre apenas em grandes empresas.",
+            "D": "Criatividade depende exclusivamente de talento inato.",
+            "E": "Inovação elimina a necessidade de criatividade."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 13,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "No contexto empreendedor, assumir riscos significa:",
+        "alternativas": {
+            "A": "Agir sem planejamento.",
+            "B": "Ignorar dados e análises.",
+            "C": "Tomar decisões conscientes em cenários incertos.",
+            "D": "Evitar qualquer tipo de erro.",
+            "E": "Depender exclusivamente da intuição."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 14,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O pensamento criativo é estimulado principalmente por:",
+        "alternativas": {
+            "A": "Ambientes rígidos e hierarquizados.",
+            "B": "Repetição contínua de tarefas.",
+            "C": "Ambientes que incentivam experimentação e aprendizado.",
+            "D": "Controle excessivo das equipes.",
+            "E": "Padronização absoluta de processos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 15,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A mentalidade empreendedora está relacionada principalmente à:",
+        "alternativas": {
+            "A": "Avessão total ao risco.",
+            "B": "Busca por estabilidade absoluta.",
+            "C": "Capacidade de identificar oportunidades.",
+            "D": "Execução mecânica de tarefas.",
+            "E": "Dependência de ordens superiores."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 16,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O erro, no processo criativo, deve ser entendido como:",
+        "alternativas": {
+            "A": "Falha que deve ser punida.",
+            "B": "Elemento que impede a inovação.",
+            "C": "Oportunidade de aprendizado.",
+            "D": "Motivo para abandonar projetos.",
+            "E": "Indicador de incompetência."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 17,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A motivação empreendedora está associada principalmente:",
+        "alternativas": {
+            "A": "Ao medo do fracasso.",
+            "B": "À necessidade de controle.",
+            "C": "Ao desejo de realização e autonomia.",
+            "D": "À busca por cargos públicos.",
+            "E": "À ausência de objetivos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 18,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O planejamento no empreendedorismo tem como função principal:",
+        "alternativas": {
+            "A": "Eliminar totalmente os riscos.",
+            "B": "Impedir mudanças no negócio.",
+            "C": "Orientar ações e decisões estratégicas.",
+            "D": "Substituir a criatividade.",
+            "E": "Reduzir a autonomia do empreendedor."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 19,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A fase de controle no processo administrativo visa:",
+        "alternativas": {
+            "A": "Criar novas ideias.",
+            "B": "Comparar resultados com objetivos.",
+            "C": "Delegar tarefas.",
+            "D": "Eliminar o planejamento.",
+            "E": "Iniciar novos projetos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 20,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A função administrativa responsável por coordenar pessoas é:",
+        "alternativas": {
+            "A": "Planejamento",
+            "B": "Organização",
+            "C": "Direção",
+            "D": "Controle",
+            "E": "Avaliação"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 21,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "Empreender por necessidade ocorre quando:",
+        "alternativas": {
+            "A": "O indivíduo identifica uma oportunidade inovadora.",
+            "B": "Há planejamento estratégico prévio.",
+            "C": "A pessoa busca sobrevivência ou renda.",
+            "D": "O negócio é altamente tecnológico.",
+            "E": "Existe forte apoio financeiro."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 22,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "Empreender por oportunidade caracteriza-se por:",
+        "alternativas": {
+            "A": "Ausência de planejamento.",
+            "B": "Falta de inovação.",
+            "C": "Identificação de uma necessidade de mercado.",
+            "D": "Atuação informal permanente.",
+            "E": "Baixo potencial de crescimento."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 23,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A cultura organizacional influencia a criatividade porque:",
+        "alternativas": {
+            "A": "Determina apenas salários.",
+            "B": "Define padrões de comportamento e valores.",
+            "C": "Elimina conflitos.",
+            "D": "Substitui liderança.",
+            "E": "Evita mudanças."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 24,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A inovação incremental caracteriza-se por:",
+        "alternativas": {
+            "A": "Mudanças radicais.",
+            "B": "Pequenas melhorias contínuas.",
+            "C": "Criação de novos mercados.",
+            "D": "Ruptura total com o passado.",
+            "E": "Eliminação de processos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 25,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A inovação disruptiva pode ser entendida como:",
+        "alternativas": {
+            "A": "Ajuste pontual em produtos existentes.",
+            "B": "Mudança radical que cria novos modelos de negócio.",
+            "C": "Correção de falhas internas.",
+            "D": "Padronização de processos.",
+            "E": "Redução de custos administrativos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 26,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A autonomia é importante para o empreendedor porque:",
+        "alternativas": {
+            "A": "Elimina responsabilidades.",
+            "B": "Permite tomada de decisões estratégicas.",
+            "C": "Reduz necessidade de planejamento.",
+            "D": "Impede trabalho em equipe.",
+            "E": "Substitui metas."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 27,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O aprendizado contínuo é essencial ao empreendedor porque:",
+        "alternativas": {
+            "A": "O mercado permanece estável.",
+            "B": "Evita concorrência.",
+            "C": "Permite adaptação às mudanças.",
+            "D": "Reduz a inovação.",
+            "E": "Elimina riscos."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 28,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A resiliência empreendedora refere-se à:",
+        "alternativas": {
+            "A": "Capacidade de evitar desafios.",
+            "B": "Persistência diante de dificuldades.",
+            "C": "Rigidez nas decisões.",
+            "D": "Recusa em mudar estratégias.",
+            "E": "Dependência de fatores externos."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 29,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O trabalho em equipe contribui para o empreendedorismo porque:",
+        "alternativas": {
+            "A": "Centraliza decisões.",
+            "B": "Reduz diversidade de ideias.",
+            "C": "Potencializa soluções criativas.",
+            "D": "Elimina conflitos.",
+            "E": "Substitui liderança."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 30,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A visão empreendedora está relacionada à capacidade de:",
+        "alternativas": {
+            "A": "Reagir apenas ao presente.",
+            "B": "Antecipar tendências e oportunidades.",
+            "C": "Evitar planejamento.",
+            "D": "Depender do mercado.",
+            "E": "Manter o status quo."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 31,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O empreendedor intraempreendedor atua:",
+        "alternativas": {
+            "A": "Apenas como autônomo.",
+            "B": "Dentro de uma organização.",
+            "C": "Sem vínculo institucional.",
+            "D": "Exclusivamente no setor público.",
+            "E": "Somente em startups."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 32,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A liderança empreendedora caracteriza-se por:",
+        "alternativas": {
+            "A": "Autoritarismo.",
+            "B": "Inspiração e mobilização de pessoas.",
+            "C": "Controle excessivo.",
+            "D": "Centralização absoluta.",
+            "E": "Resistência à mudança."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 33,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A ética no empreendedorismo envolve:",
+        "alternativas": {
+            "A": "Apenas cumprimento de leis.",
+            "B": "Busca de lucro a qualquer custo.",
+            "C": "Responsabilidade e integridade nas ações.",
+            "D": "Vantagem competitiva desleal.",
+            "E": "Eliminação da concorrência."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 34,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O marketing empreendedor foca principalmente:",
+        "alternativas": {
+            "A": "No produto apenas.",
+            "B": "No cliente e suas necessidades.",
+            "C": "Na padronização.",
+            "D": "No controle interno.",
+            "E": "Na redução de comunicação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 35,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O feedback é importante no processo empreendedor porque:",
+        "alternativas": {
+            "A": "Impede mudanças.",
+            "B": "Confirma erros sem correção.",
+            "C": "Auxilia no aprimoramento contínuo.",
+            "D": "Substitui planejamento.",
+            "E": "Reduz inovação."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 36,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A gestão do tempo contribui para o empreendedor ao:",
+        "alternativas": {
+            "A": "Aumentar improvisação.",
+            "B": "Reduzir produtividade.",
+            "C": "Otimizar resultados.",
+            "D": "Eliminar metas.",
+            "E": "Centralizar decisões."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 37,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A persistência é fundamental ao empreendedor porque:",
+        "alternativas": {
+            "A": "Evita concorrência.",
+            "B": "Garante sucesso imediato.",
+            "C": "Ajuda a superar obstáculos.",
+            "D": "Elimina riscos.",
+            "E": "Dispensa planejamento."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 38,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A tomada de decisão empreendedora deve ser:",
+        "alternativas": {
+            "A": "Impulsiva.",
+            "B": "Baseada apenas na intuição.",
+            "C": "Analisada e estratégica.",
+            "D": "Centralizada sempre.",
+            "E": "Evitada."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 39,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A inovação social tem como foco principal:",
+        "alternativas": {
+            "A": "Lucro financeiro imediato.",
+            "B": "Soluções para problemas sociais.",
+            "C": "Mercados de luxo.",
+            "D": "Tecnologia de ponta apenas.",
+            "E": "Competição empresarial."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 40,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O empreendedor sustentável busca:",
+        "alternativas": {
+            "A": "Crescimento sem limites.",
+            "B": "Equilíbrio entre resultados econômicos, sociais e ambientais.",
+            "C": "Exploração máxima de recursos.",
+            "D": "Eliminação de custos sociais.",
+            "E": "Foco exclusivo no lucro."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 41,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A adaptabilidade é essencial ao empreendedor porque:",
+        "alternativas": {
+            "A": "O mercado é estático.",
+            "B": "As mudanças são constantes.",
+            "C": "Evita concorrência.",
+            "D": "Elimina planejamento.",
+            "E": "Impede inovação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 42,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O networking contribui para o empreendedor ao:",
+        "alternativas": {
+            "A": "Isolar o negócio.",
+            "B": "Limitar oportunidades.",
+            "C": "Ampliar contatos e parcerias.",
+            "D": "Eliminar concorrência.",
+            "E": "Substituir planejamento."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 43,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A visão sistêmica permite ao empreendedor:",
+        "alternativas": {
+            "A": "Analisar apenas partes isoladas.",
+            "B": "Compreender o negócio como um todo.",
+            "C": "Eliminar riscos.",
+            "D": "Ignorar o ambiente externo.",
+            "E": "Centralizar decisões."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 44,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A criatividade pode ser desenvolvida quando:",
+        "alternativas": {
+            "A": "É considerada talento fixo.",
+            "B": "Há estímulo e prática contínua.",
+            "C": "Depende apenas de genética.",
+            "D": "É evitada no ambiente organizacional.",
+            "E": "Não há desafios."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 45,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O empreendedor estratégico busca:",
+        "alternativas": {
+            "A": "Resultados imediatos apenas.",
+            "B": "Planejamento de longo prazo.",
+            "C": "Evitar concorrência.",
+            "D": "Centralizar tarefas.",
+            "E": "Eliminar inovação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 46,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A proatividade empreendedora refere-se à:",
+        "alternativas": {
+            "A": "Reação tardia a problemas.",
+            "B": "Antecipação de ações e soluções.",
+            "C": "Dependência de ordens.",
+            "D": "Evitação de riscos.",
+            "E": "Postura passiva."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 47,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A análise de mercado permite ao empreendedor:",
+        "alternativas": {
+            "A": "Ignorar concorrentes.",
+            "B": "Tomar decisões mais assertivas.",
+            "C": "Eliminar planejamento.",
+            "D": "Centralizar poder.",
+            "E": "Reduzir inovação."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 48,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O propósito no empreendedorismo está relacionado:",
+        "alternativas": {
+            "A": "Apenas ao lucro.",
+            "B": "À missão e valores do negócio.",
+            "C": "À redução de custos.",
+            "D": "À centralização de decisões.",
+            "E": "À eliminação da concorrência."
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 49,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "A inovação contínua é importante porque:",
+        "alternativas": {
+            "A": "O mercado não muda.",
+            "B": "Garante sucesso automático.",
+            "C": "Mantém competitividade.",
+            "D": "Elimina planejamento.",
+            "E": "Evita concorrência."
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 50,
+        "banca": "UNICESUMAR",
+        "ano": 2023,
+        "materia": "Mentalidade Criativa e Empreendedora",
+        "enunciado": "O empreendedor do século XXI precisa principalmente:",
+        "alternativas": {
+            "A": "Seguir modelos rígidos.",
+            "B": "Evitar tecnologia.",
+            "C": "Ser criativo, adaptável e estratégico.",
+            "D": "Depender de hierarquias.",
+            "E": "Eliminar riscos."
+        },
+        "correta": "C"
+    },
 ]
