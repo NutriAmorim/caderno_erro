@@ -1291,7 +1291,7 @@ QUESTOES = [
     },
     {
         "id": 4,
-        "banca": "SEGPLAN-GO",
+        "banca": "CS-UFG",
         "ano": 2016,
         "materia": "História de Goiás",
         "enunciado": "Sobre a vida dos escravos no Brasil e em Goiás, assinale a alternativa INCORRETA:",
@@ -3860,5 +3860,1509 @@ QUESTOES = [
         },
         "correta": "B"
     },
+
+    {
+        "id": 1,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A ocupação inicial do território goiano, no período colonial, esteve diretamente relacionada:",
+        "alternativas": {
+            "A": "à expansão da lavoura canavieira",
+            "B": "à mineração aurífera realizada por bandeirantes",
+            "C": "ao comércio fluvial com o litoral",
+            "D": "à instalação precoce de indústrias",
+            "E": "à pecuária moderna de exportação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 2,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O ouro explorado em Goiás durante o século XVIII caracterizava-se predominantemente por ser:",
+        "alternativas": {
+            "A": "de jazidas profundas",
+            "B": "extraído por técnicas industriais",
+            "C": "de aluvião, encontrado em leitos de rios",
+            "D": "associado a grandes complexos mineradores",
+            "E": "controlado por empresas privadas estrangeiras"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 3,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O Arraial de Sant’Anna, núcleo inicial de Goiás, deu origem à atual cidade de:",
+        "alternativas": {
+            "A": "Goiânia",
+            "B": "Anápolis",
+            "C": "Goiás (Goiás Velho)",
+            "D": "Catalão",
+            "E": "Pirenópolis"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 4,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Após o declínio da mineração, a economia goiana passou a se sustentar principalmente por meio:",
+        "alternativas": {
+            "A": "da industrialização urbana",
+            "B": "do comércio externo",
+            "C": "da agricultura de subsistência e pecuária extensiva",
+            "D": "do extrativismo vegetal",
+            "E": "da monocultura exportadora"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 5,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A sociedade goiana do período pós-minerador caracterizou-se principalmente por:",
+        "alternativas": {
+            "A": "intensa urbanização",
+            "B": "forte dinamismo econômico",
+            "C": "isolamento geográfico e baixo crescimento",
+            "D": "ampla imigração europeia",
+            "E": "industrialização acelerada"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 6,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A escravidão em Goiás, durante o período colonial, esteve mais associada:",
+        "alternativas": {
+            "A": "à agricultura de exportação",
+            "B": "à mineração aurífera",
+            "C": "à indústria manufatureira",
+            "D": "ao comércio urbano",
+            "E": "ao trabalho assalariado"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 7,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A crise da mineração em Goiás ocorreu principalmente em razão:",
+        "alternativas": {
+            "A": "da proibição da Coroa Portuguesa",
+            "B": "do esgotamento das jazidas",
+            "C": "da concorrência externa",
+            "D": "da abolição da escravidão",
+            "E": "da industrialização precoce"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 8,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Durante o século XIX, Goiás manteve-se economicamente periférico devido, sobretudo:",
+        "alternativas": {
+            "A": "à falta de mão de obra",
+            "B": "ao isolamento geográfico",
+            "C": "à ausência de recursos naturais",
+            "D": "à repressão política",
+            "E": "à concorrência industrial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 9,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A Proclamação da República teve impacto limitado em Goiás porque:",
+        "alternativas": {
+            "A": "provocou guerra civil no estado",
+            "B": "alterou profundamente a estrutura econômica",
+            "C": "manteve o poder concentrado nas elites locais",
+            "D": "resultou em industrialização imediata",
+            "E": "aboliu as oligarquias regionais"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 10,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A política conhecida como 'Marcha para o Oeste' tinha como principal objetivo:",
+        "alternativas": {
+            "A": "industrializar o Sudeste",
+            "B": "ocupar e integrar o interior do país",
+            "C": "fortalecer o litoral brasileiro",
+            "D": "estimular a mineração",
+            "E": "reduzir a população urbana"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 11,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A transferência da capital de Goiás para Goiânia ocorreu principalmente em função:",
+        "alternativas": {
+            "A": "do declínio populacional de Goiás Velho",
+            "B": "da necessidade de planejamento urbano e integração regional",
+            "C": "da proximidade com áreas mineradoras",
+            "D": "da pressão popular urbana",
+            "E": "do crescimento industrial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 12,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O principal articulador político da construção de Goiânia foi:",
+        "alternativas": {
+            "A": "Getúlio Vargas",
+            "B": "Juscelino Kubitschek",
+            "C": "Pedro Ludovico Teixeira",
+            "D": "Eurico Gaspar Dutra",
+            "E": "Washington Luís"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 13,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "Goiânia foi planejada segundo a concepção urbana de:",
+        "alternativas": {
+            "A": "cidade medieval",
+            "B": "cidade industrial",
+            "C": "cidade-jardim",
+            "D": "cidade portuária",
+            "E": "cidade colonial"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 14,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A construção de Goiânia simbolizou, no contexto nacional:",
+        "alternativas": {
+            "A": "o fortalecimento do litoral",
+            "B": "a descentralização administrativa e ocupação do interior",
+            "C": "a industrialização do Nordeste",
+            "D": "o declínio da agricultura",
+            "E": "a concentração populacional no Sudeste"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 15,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A mudança da capital alterou a dinâmica econômica goiana ao:",
+        "alternativas": {
+            "A": "eliminar o setor agropecuário",
+            "B": "estimular o crescimento urbano e os serviços",
+            "C": "reduzir a migração interna",
+            "D": "centralizar a indústria pesada",
+            "E": "provocar êxodo urbano"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 16,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A consolidação de Goiânia como capital contribuiu para:",
+        "alternativas": {
+            "A": "o isolamento econômico de Goiás",
+            "B": "a estagnação demográfica",
+            "C": "a integração territorial do estado",
+            "D": "o abandono do setor terciário",
+            "E": "a redução da urbanização"
+        },
+        "correta": "C"
+    },
+    
+    {
+        "id": 17,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Durante o período colonial, a Capitania de Goiás esteve inicialmente subordinada administrativamente à capitania de:",
+        "alternativas": {
+            "A": "Bahia",
+            "B": "Rio de Janeiro",
+            "C": "São Paulo",
+            "D": "Minas Gerais",
+            "E": "Mato Grosso"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 18,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A criação da Capitania de Goiás, em 1748, teve como finalidade principal:",
+        "alternativas": {
+            "A": "estimular a agricultura exportadora",
+            "B": "ampliar a pecuária extensiva",
+            "C": "melhor controlar a arrecadação do ouro",
+            "D": "promover a industrialização local",
+            "E": "reduzir conflitos indígenas"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 19,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A estrutura social goiana no século XVIII caracterizava-se principalmente por:",
+        "alternativas": {
+            "A": "predomínio da classe média urbana",
+            "B": "equilíbrio entre classes sociais",
+            "C": "forte hierarquização social",
+            "D": "mobilidade social intensa",
+            "E": "predomínio do trabalho assalariado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 20,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O isolamento histórico de Goiás contribuiu para:",
+        "alternativas": {
+            "A": "a rápida industrialização",
+            "B": "a manutenção de estruturas políticas tradicionais",
+            "C": "a urbanização acelerada",
+            "D": "a diversificação econômica",
+            "E": "a intensa imigração estrangeira"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 21,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Durante o século XIX, a principal base econômica de Goiás foi:",
+        "alternativas": {
+            "A": "a mineração industrial",
+            "B": "a cafeicultura",
+            "C": "a pecuária extensiva",
+            "D": "a indústria têxtil",
+            "E": "o comércio marítimo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 22,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A elite política goiana no período imperial estava majoritariamente vinculada:",
+        "alternativas": {
+            "A": "ao setor industrial",
+            "B": "à mineração tardia",
+            "C": "à atividade agropecuária",
+            "D": "ao funcionalismo público",
+            "E": "ao comércio internacional"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 23,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Na Primeira República, a política em Goiás caracterizou-se principalmente:",
+        "alternativas": {
+            "A": "pela ampla participação popular",
+            "B": "pelo domínio das oligarquias regionais",
+            "C": "pela centralização federal",
+            "D": "pela alternância frequente de poder",
+            "E": "pela industrialização acelerada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 24,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A Revolução de 1930 representou para Goiás:",
+        "alternativas": {
+            "A": "continuidade absoluta das oligarquias",
+            "B": "ruptura parcial com as elites tradicionais",
+            "C": "isolamento político do estado",
+            "D": "fim imediato da agropecuária",
+            "E": "industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 25,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A política da 'Marcha para o Oeste' favoreceu diretamente Goiás ao:",
+        "alternativas": {
+            "A": "estimular a mineração colonial",
+            "B": "integrar o estado ao projeto nacional de desenvolvimento",
+            "C": "reduzir a urbanização",
+            "D": "fortalecer o isolamento regional",
+            "E": "priorizar o litoral"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 26,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A fundação de Goiânia ocorreu no contexto político do:",
+        "alternativas": {
+            "A": "Segundo Reinado",
+            "B": "Primeiro Reinado",
+            "C": "Estado Novo",
+            "D": "Período Joanino",
+            "E": "Brasil Colônia"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 27,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O plano urbanístico original de Goiânia priorizava:",
+        "alternativas": {
+            "A": "crescimento espontâneo",
+            "B": "setorização funcional da cidade",
+            "C": "industrialização pesada",
+            "D": "ocupação rural",
+            "E": "expansão periférica desordenada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 28,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento inicial de Goiânia esteve diretamente ligado:",
+        "alternativas": {
+            "A": "à mineração urbana",
+            "B": "à instalação do poder administrativo",
+            "C": "ao turismo internacional",
+            "D": "à indústria automobilística",
+            "E": "à agroexportação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 29,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A construção de Brasília impactou Goiânia principalmente ao:",
+        "alternativas": {
+            "A": "reduzir sua importância regional",
+            "B": "estimular crescimento populacional e econômico",
+            "C": "provocar estagnação urbana",
+            "D": "limitar investimentos públicos",
+            "E": "isolar o estado de Goiás"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 30,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O processo de metropolização de Goiânia intensificou-se a partir:",
+        "alternativas": {
+            "A": "do período colonial",
+            "B": "da década de 1940",
+            "C": "da segunda metade do século XX",
+            "D": "do início do século XXI",
+            "E": "do período imperial"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 31,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A Região Metropolitana de Goiânia foi criada com o objetivo principal de:",
+        "alternativas": {
+            "A": "reduzir a população da capital",
+            "B": "integrar políticas públicas e serviços urbanos",
+            "C": "estimular a migração rural",
+            "D": "extinguir municípios vizinhos",
+            "E": "limitar a expansão territorial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento urbano acelerado de Goiânia resultou, entre outros aspectos:",
+        "alternativas": {
+            "A": "na eliminação das desigualdades sociais",
+            "B": "na segregação socioespacial",
+            "C": "na redução do setor de serviços",
+            "D": "no equilíbrio ambiental",
+            "E": "na descentralização total da cidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 33,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão de Goiânia para além do plano original ocorreu principalmente devido:",
+        "alternativas": {
+            "A": "à limitação do crescimento populacional",
+            "B": "à migração intensa e ocupação desordenada",
+            "C": "ao controle rígido do solo urbano",
+            "D": "à ausência de atividades econômicas",
+            "E": "à industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 34,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A urbanização de Goiânia está diretamente relacionada ao predomínio do setor:",
+        "alternativas": {
+            "A": "primário",
+            "B": "secundário",
+            "C": "terciário",
+            "D": "extrativista",
+            "E": "minerador"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 35,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento populacional de Goiânia foi impulsionado, sobretudo, por:",
+        "alternativas": {
+            "A": "migração internacional",
+            "B": "migração interna regional",
+            "C": "retorno da população ao campo",
+            "D": "crescimento vegetativo negativo",
+            "E": "êxodo urbano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 36,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A consolidação de Goiânia como polo regional está associada principalmente:",
+        "alternativas": {
+            "A": "à mineração urbana",
+            "B": "à centralização administrativa e de serviços",
+            "C": "à industrialização pesada",
+            "D": "à agroexportação",
+            "E": "ao turismo internacional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 37,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A formação da Região Metropolitana de Goiânia reflete:",
+        "alternativas": {
+            "A": "a fragmentação urbana",
+            "B": "a integração funcional entre municípios",
+            "C": "o declínio econômico regional",
+            "D": "a ruralização da capital",
+            "E": "o isolamento territorial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 38,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão urbana desordenada em Goiânia contribuiu para:",
+        "alternativas": {
+            "A": "homogeneização social",
+            "B": "intensificação das desigualdades socioespaciais",
+            "C": "equilíbrio ambiental",
+            "D": "redução dos conflitos urbanos",
+            "E": "controle do uso do solo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 39,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A urbanização de Goiânia acompanha, em escala regional:",
+        "alternativas": {
+            "A": "a industrialização do litoral brasileiro",
+            "B": "a ocupação planejada do interior do país",
+            "C": "a economia mineradora colonial",
+            "D": "a estagnação econômica do Centro-Oeste",
+            "E": "a concentração populacional no Nordeste"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 40,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A trajetória histórica de Goiânia está diretamente ligada:",
+        "alternativas": {
+            "A": "ao desenvolvimento portuário",
+            "B": "ao planejamento urbano estatal",
+            "C": "à economia cafeeira",
+            "D": "à mineração intensiva",
+            "E": "ao comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 41,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A chegada das ferrovias a Goiás, no início do século XX, contribuiu para:",
+        "alternativas": {
+            "A": "o isolamento econômico",
+            "B": "a integração regional",
+            "C": "a estagnação urbana",
+            "D": "a retração do comércio",
+            "E": "a dependência do litoral"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 42,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A Revolução de 1930 em Goiás resultou:",
+        "alternativas": {
+            "A": "na manutenção integral das oligarquias",
+            "B": "em mudanças políticas e administrativas",
+            "C": "na extinção do poder estadual",
+            "D": "no isolamento político do estado",
+            "E": "na industrialização imediata"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 43,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Pedro Ludovico Teixeira destacou-se na história de Goiás por:",
+        "alternativas": {
+            "A": "liderar movimentos separatistas",
+            "B": "articular a transferência da capital",
+            "C": "estimular a mineração colonial",
+            "D": "governar durante o Império",
+            "E": "promover a cafeicultura"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 44,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A mudança da capital representou para Goiás:",
+        "alternativas": {
+            "A": "retrocesso econômico",
+            "B": "modernização administrativa",
+            "C": "isolamento político",
+            "D": "declínio urbano",
+            "E": "abandono do interior"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 45,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O processo de modernização goiana no século XX esteve fortemente associado:",
+        "alternativas": {
+            "A": "à mineração",
+            "B": "à industrialização pesada",
+            "C": "à construção de Goiânia",
+            "D": "ao turismo",
+            "E": "ao comércio marítimo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 46,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A urbanização em Goiás intensificou-se principalmente a partir:",
+        "alternativas": {
+            "A": "do período colonial",
+            "B": "do século XIX",
+            "C": "da criação de Goiânia",
+            "D": "da mineração aurífera",
+            "E": "da abolição da escravidão"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 47,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O papel histórico de Goiás no contexto nacional está relacionado:",
+        "alternativas": {
+            "A": "ao comércio marítimo",
+            "B": "à integração do interior ao território nacional",
+            "C": "à industrialização litorânea",
+            "D": "à economia cafeeira",
+            "E": "à exploração petrolífera"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 48,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O isolamento histórico de Goiás começou a ser superado principalmente com:",
+        "alternativas": {
+            "A": "a mineração colonial",
+            "B": "a construção de Goiânia e das ferrovias",
+            "C": "a economia açucareira",
+            "D": "o comércio marítimo",
+            "E": "a industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 49,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A mudança da capital para Goiânia inseriu Goiás no projeto nacional de:",
+        "alternativas": {
+            "A": "industrialização litorânea",
+            "B": "ocupação e integração do interior",
+            "C": "expansão cafeeira",
+            "D": "exploração mineral",
+            "E": "descentralização portuária"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 50,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A história de Goiânia evidencia o papel do planejamento urbano como instrumento de:",
+        "alternativas": {
+            "A": "controle populacional",
+            "B": "segregação social",
+            "C": "integração territorial e desenvolvimento regional",
+            "D": "eliminação do setor terciário",
+            "E": "isolamento econômico"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 51,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "No período colonial, a administração da Capitania de Goiás visava principalmente:",
+        "alternativas": {
+            "A": "estimular a industrialização local",
+            "B": "controlar a exploração mineral e a arrecadação",
+            "C": "promover a imigração europeia",
+            "D": "desenvolver o comércio marítimo",
+            "E": "expandir a cafeicultura"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 52,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A economia goiana do século XIX caracterizou-se predominantemente:",
+        "alternativas": {
+            "A": "pela industrialização",
+            "B": "pela mineração mecanizada",
+            "C": "pela pecuária extensiva",
+            "D": "pela cafeicultura exportadora",
+            "E": "pelo comércio externo intenso"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 53,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A dificuldade de integração de Goiás ao restante do país no século XIX decorreu principalmente:",
+        "alternativas": {
+            "A": "da escassez de população",
+            "B": "da ausência de rios navegáveis até o litoral",
+            "C": "da repressão política imperial",
+            "D": "do predomínio indígena",
+            "E": "da concorrência industrial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 54,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "Na Primeira República, Goiás integrou-se ao cenário político nacional por meio:",
+        "alternativas": {
+            "A": "da política do café com leite",
+            "B": "do coronelismo e das oligarquias regionais",
+            "C": "da democracia direta",
+            "D": "do voto universal",
+            "E": "da industrialização regional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 55,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A modernização política de Goiás no século XX está fortemente associada:",
+        "alternativas": {
+            "A": "à mineração tardia",
+            "B": "à construção de Goiânia",
+            "C": "à cafeicultura",
+            "D": "à industrialização pesada",
+            "E": "ao comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 56,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A construção de Goiânia representou para Goiás:",
+        "alternativas": {
+            "A": "continuidade do modelo colonial",
+            "B": "ruptura simbólica com a antiga capital",
+            "C": "isolamento administrativo",
+            "D": "declínio do poder estadual",
+            "E": "abandono do interior"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 57,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A escolha do local para a construção de Goiânia levou em conta principalmente:",
+        "alternativas": {
+            "A": "proximidade com o litoral",
+            "B": "condições geográficas favoráveis e centralidade",
+            "C": "áreas mineradoras ativas",
+            "D": "zonas industriais consolidadas",
+            "E": "densidade populacional elevada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 58,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O plano urbanístico de Goiânia buscava evitar:",
+        "alternativas": {
+            "A": "a setorização funcional",
+            "B": "o crescimento desordenado",
+            "C": "a presença do setor terciário",
+            "D": "a centralização administrativa",
+            "E": "a migração interna"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 59,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento urbano de Goiânia intensificou-se, sobretudo, após:",
+        "alternativas": {
+            "A": "a mineração colonial",
+            "B": "a construção de Brasília",
+            "C": "o período imperial",
+            "D": "a Proclamação da República",
+            "E": "a chegada da cafeicultura"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 60,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A Região Metropolitana de Goiânia reflete:",
+        "alternativas": {
+            "A": "a fragmentação territorial",
+            "B": "a integração socioeconômica regional",
+            "C": "o predomínio rural",
+            "D": "a estagnação urbana",
+            "E": "o isolamento político"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 61,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão periférica de Goiânia está associada principalmente:",
+        "alternativas": {
+            "A": "à industrialização pesada",
+            "B": "à migração e à especulação imobiliária",
+            "C": "à mineração urbana",
+            "D": "ao turismo internacional",
+            "E": "ao êxodo urbano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 62,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O predomínio do setor terciário em Goiânia decorre:",
+        "alternativas": {
+            "A": "da mineração",
+            "B": "da centralização administrativa e de serviços",
+            "C": "da industrialização pesada",
+            "D": "da agroexportação",
+            "E": "do extrativismo vegetal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 63,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A urbanização de Goiânia intensificou problemas urbanos como:",
+        "alternativas": {
+            "A": "homogeneização social",
+            "B": "segregação socioespacial",
+            "C": "redução populacional",
+            "D": "isolamento econômico",
+            "E": "controle total do solo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 64,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O processo histórico de Goiânia está inserido no contexto nacional de:",
+        "alternativas": {
+            "A": "industrialização litorânea",
+            "B": "ocupação planejada do interior",
+            "C": "expansão cafeeira",
+            "D": "exploração petrolífera",
+            "E": "economia açucareira"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 65,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O papel histórico de Goiás no território brasileiro relaciona-se:",
+        "alternativas": {
+            "A": "ao comércio marítimo",
+            "B": "à integração do Centro-Oeste ao país",
+            "C": "à industrialização precoce",
+            "D": "à economia cafeeira",
+            "E": "à mineração petrolífera"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 66,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A superação parcial do isolamento goiano ocorreu com:",
+        "alternativas": {
+            "A": "a mineração colonial",
+            "B": "as ferrovias e a nova capital",
+            "C": "a economia açucareira",
+            "D": "o comércio marítimo",
+            "E": "a industrialização litorânea"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 67,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A mudança da capital de Goiás insere-se no projeto político de:",
+        "alternativas": {
+            "A": "expansão cafeeira",
+            "B": "modernização e centralização administrativa",
+            "C": "industrialização pesada",
+            "D": "retorno ao modelo colonial",
+            "E": "isolamento regional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 68,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A construção de Goiânia contribuiu para:",
+        "alternativas": {
+            "A": "redução da urbanização",
+            "B": "integração territorial do estado",
+            "C": "isolamento político",
+            "D": "declínio econômico",
+            "E": "abandono do setor terciário"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 69,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento demográfico de Goiânia ocorreu principalmente devido:",
+        "alternativas": {
+            "A": "à imigração internacional",
+            "B": "à migração interna regional",
+            "C": "ao crescimento vegetativo negativo",
+            "D": "ao êxodo urbano",
+            "E": "à mineração urbana"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 70,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A história urbana de Goiânia demonstra:",
+        "alternativas": {
+            "A": "ausência de planejamento",
+            "B": "importância do Estado na organização do espaço",
+            "C": "predomínio industrial",
+            "D": "isolamento territorial",
+            "E": "redução do setor terciário"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 71,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A centralização administrativa em Goiânia favoreceu:",
+        "alternativas": {
+            "A": "o esvaziamento urbano",
+            "B": "o fortalecimento do setor de serviços",
+            "C": "a mineração",
+            "D": "a agroexportação",
+            "E": "o comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 72,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O processo histórico goiano evidencia:",
+        "alternativas": {
+            "A": "industrialização precoce",
+            "B": "dependência do litoral",
+            "C": "importância da interiorização",
+            "D": "predomínio do setor secundário",
+            "E": "isolamento permanente"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 73,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A formação da metrópole goianiense revela:",
+        "alternativas": {
+            "A": "homogeneidade social",
+            "B": "processo de integração urbana regional",
+            "C": "declínio populacional",
+            "D": "predomínio rural",
+            "E": "isolamento econômico"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 74,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O papel de Goiânia no estado de Goiás consolidou-se como:",
+        "alternativas": {
+            "A": "centro minerador",
+            "B": "polo administrativo e de serviços",
+            "C": "região agroexportadora",
+            "D": "área industrial pesada",
+            "E": "porto fluvial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 75,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão urbana de Goiânia refletiu:",
+        "alternativas": {
+            "A": "controle rígido do solo",
+            "B": "crescimento populacional acelerado",
+            "C": "industrialização litorânea",
+            "D": "estagnação econômica",
+            "E": "retorno ao campo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 76,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O projeto de interiorização do desenvolvimento nacional beneficiou Goiás por meio:",
+        "alternativas": {
+            "A": "da mineração colonial",
+            "B": "da nova capital estadual",
+            "C": "da cafeicultura",
+            "D": "do comércio marítimo",
+            "E": "da industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 77,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A transformação espacial de Goiás no século XX esteve ligada:",
+        "alternativas": {
+            "A": "à mineração aurífera",
+            "B": "à urbanização e integração territorial",
+            "C": "ao comércio marítimo",
+            "D": "à economia açucareira",
+            "E": "ao extrativismo vegetal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 78,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A modernização administrativa goiana teve como marco:",
+        "alternativas": {
+            "A": "a mineração colonial",
+            "B": "a transferência da capital",
+            "C": "a Proclamação da República",
+            "D": "o Segundo Reinado",
+            "E": "a industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 79,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A dinâmica urbana de Goiânia revela:",
+        "alternativas": {
+            "A": "equilíbrio socioespacial",
+            "B": "processos de segregação",
+            "C": "predomínio rural",
+            "D": "isolamento econômico",
+            "E": "ausência de planejamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 80,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento da Região Metropolitana de Goiânia está associado:",
+        "alternativas": {
+            "A": "à industrialização pesada",
+            "B": "à integração funcional dos municípios",
+            "C": "à mineração urbana",
+            "D": "ao turismo",
+            "E": "ao êxodo urbano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 81,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O processo histórico de Goiás evidencia a importância:",
+        "alternativas": {
+            "A": "do litoral",
+            "B": "da interiorização do território nacional",
+            "C": "da industrialização precoce",
+            "D": "do comércio marítimo",
+            "E": "da mineração petrolífera"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 82,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A formação econômica de Goiás esteve historicamente ligada:",
+        "alternativas": {
+            "A": "à indústria pesada",
+            "B": "à mineração e à agropecuária",
+            "C": "ao comércio marítimo",
+            "D": "à economia cafeeira",
+            "E": "ao turismo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 83,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A consolidação urbana de Goiânia reforçou:",
+        "alternativas": {
+            "A": "o isolamento regional",
+            "B": "o papel da cidade como centro político-administrativo",
+            "C": "a mineração",
+            "D": "a agroexportação",
+            "E": "o declínio populacional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 84,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A história de Goiânia está diretamente associada:",
+        "alternativas": {
+            "A": "ao desenvolvimento portuário",
+            "B": "ao planejamento urbano estatal",
+            "C": "à cafeicultura",
+            "D": "à mineração intensiva",
+            "E": "ao comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 85,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A mudança da capital simbolizou para Goiás:",
+        "alternativas": {
+            "A": "retrocesso político",
+            "B": "modernização e reorganização territorial",
+            "C": "isolamento econômico",
+            "D": "abandono do interior",
+            "E": "declínio urbano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 86,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A integração de Goiás ao mercado nacional intensificou-se com:",
+        "alternativas": {
+            "A": "a mineração colonial",
+            "B": "as vias de transporte e a nova capital",
+            "C": "o comércio marítimo",
+            "D": "a economia açucareira",
+            "E": "a industrialização litorânea"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 87,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento urbano de Goiânia produziu desafios relacionados:",
+        "alternativas": {
+            "A": "à redução populacional",
+            "B": "à infraestrutura e planejamento",
+            "C": "ao isolamento econômico",
+            "D": "à ausência de serviços",
+            "E": "à ruralização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 88,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão da metrópole goianiense evidencia:",
+        "alternativas": {
+            "A": "equilíbrio social",
+            "B": "processos de conurbação",
+            "C": "predomínio rural",
+            "D": "isolamento regional",
+            "E": "declínio econômico"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 89,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O desenvolvimento histórico de Goiás demonstra:",
+        "alternativas": {
+            "A": "dependência do litoral",
+            "B": "importância estratégica do interior",
+            "C": "industrialização precoce",
+            "D": "predomínio do setor secundário",
+            "E": "isolamento permanente"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 90,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A história urbana de Goiânia reflete:",
+        "alternativas": {
+            "A": "ausência de planejamento",
+            "B": "intervenção estatal no espaço urbano",
+            "C": "predomínio industrial",
+            "D": "isolamento territorial",
+            "E": "declínio populacional"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 91,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A ocupação do território goiano integrou-se ao projeto nacional de:",
+        "alternativas": {
+            "A": "industrialização litorânea",
+            "B": "interiorização e integração territorial",
+            "C": "expansão cafeeira",
+            "D": "exploração petrolífera",
+            "E": "economia açucareira"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 92,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A modernização do espaço goiano esteve vinculada:",
+        "alternativas": {
+            "A": "ao comércio marítimo",
+            "B": "à urbanização e aos transportes",
+            "C": "à mineração colonial",
+            "D": "à economia açucareira",
+            "E": "à industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 93,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O papel de Goiânia no estado consolidou-se como:",
+        "alternativas": {
+            "A": "centro minerador",
+            "B": "capital administrativa e polo de serviços",
+            "C": "região agroexportadora",
+            "D": "área industrial pesada",
+            "E": "porto fluvial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 94,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A metropolização de Goiânia evidencia:",
+        "alternativas": {
+            "A": "homogeneização social",
+            "B": "integração urbana regional",
+            "C": "declínio populacional",
+            "D": "predomínio rural",
+            "E": "isolamento econômico"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 95,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A trajetória histórica de Goiás está associada:",
+        "alternativas": {
+            "A": "ao litoral brasileiro",
+            "B": "ao processo de ocupação do interior",
+            "C": "à economia cafeeira",
+            "D": "à industrialização precoce",
+            "E": "ao comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 96,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "A construção de Goiânia contribuiu para redefinir:",
+        "alternativas": {
+            "A": "o papel político do litoral",
+            "B": "a organização territorial de Goiás",
+            "C": "a economia açucareira",
+            "D": "a mineração colonial",
+            "E": "o comércio marítimo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 97,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "O crescimento urbano de Goiânia reforçou desafios ligados:",
+        "alternativas": {
+            "A": "à infraestrutura e mobilidade",
+            "B": "ao isolamento territorial",
+            "C": "à redução populacional",
+            "D": "ao declínio econômico",
+            "E": "à ruralização"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 98,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A expansão da Região Metropolitana de Goiânia está associada:",
+        "alternativas": {
+            "A": "à mineração",
+            "B": "à conurbação e integração funcional",
+            "C": "à economia açucareira",
+            "D": "ao comércio marítimo",
+            "E": "à industrialização pesada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 99,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiás",
+        "enunciado": "O processo histórico de Goiás evidencia a importância estratégica:",
+        "alternativas": {
+            "A": "do litoral",
+            "B": "do interior no território nacional",
+            "C": "da industrialização precoce",
+            "D": "do comércio marítimo",
+            "E": "da mineração petrolífera"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 100,
+        "banca": "Câmara de Goiânia",
+        "ano": 2026,
+        "materia": "História de Goiânia",
+        "enunciado": "A história de Goiânia confirma o planejamento urbano como instrumento de:",
+        "alternativas": {
+            "A": "segregação social",
+            "B": "controle populacional",
+            "C": "integração territorial e desenvolvimento regional",
+            "D": "eliminação do setor terciário",
+            "E": "isolamento econômico"
+        },
+        "correta": "C"
+    }
 
 ]
