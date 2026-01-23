@@ -6864,4 +6864,2011 @@ QUESTOES = [
         },
         "correta": "B"
     },
+    {
+        "id": 89,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A atuação ética do servidor fortalece:",
+        "alternativas": {
+            "A": "a credibilidade institucional",
+            "B": "o interesse privado",
+            "C": "a informalidade",
+            "D": "o autoritarismo",
+            "E": "a burocracia excessiva"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 11,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Qual é o próximo termo da sequência: 1, 3, 7, 15, ...?",
+        "alternativas": {
+            "A": "25",
+            "B": "27",
+            "C": "29",
+            "D": "31"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 12,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Qual fração do grupo tem menos de 20 anos?",
+        "alternativas": {
+            "A": "9/30",
+            "B": "10/30",
+            "C": "11/30",
+            "D": "12/30"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 13,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Número de pessoas que praticam somente caminhada",
+        "alternativas": {
+            "A": "15",
+            "B": "16",
+            "C": "17",
+            "D": "18"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 14,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Qual foi o capital investido?",
+        "alternativas": {
+            "A": "R$29.000,00",
+            "B": "R$30.000,00",
+            "C": "R$31.000,00",
+            "D": "R$32.000,00"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 15,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Percentual aproximado de répteis resgatados",
+        "alternativas": {
+            "A": "5%",
+            "B": "19%",
+            "C": "34%",
+            "D": "43%"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 16,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Mediana das precipitações",
+        "alternativas": {
+            "A": "16,0 mm",
+            "B": "136,5 mm",
+            "C": "158,4 mm",
+            "D": "229,5 mm"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 17,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Produção aproximada de bananas em Anápolis",
+        "alternativas": {
+            "A": "31.597",
+            "B": "32.797",
+            "C": "33.997",
+            "D": "35.197"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 18,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Resto da divisão de 2n+1 por 11",
+        "alternativas": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 19,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Quanto vale o dromedário?",
+        "alternativas": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 20,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Relação entre média, moda e mediana",
+        "alternativas": {
+            "A": "Mediana > Média > Moda",
+            "B": "Mediana > Moda > Média",
+            "C": "Média > Moda > Mediana",
+            "D": "Média > Mediana > Moda"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 21,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Forma de governo republicana caracteriza-se",
+        "alternativas": {
+            "A": "voto censitário",
+            "B": "sucessão hereditária",
+            "C": "caráter eletivo e transitório",
+            "D": "dependência entre poderes"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 22,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Consequência da maior representatividade negra nas mídias",
+        "alternativas": {
+            "A": "limitação da diversidade",
+            "B": "promoção da diversidade",
+            "C": "reforço de estereótipos",
+            "D": "homogeneização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 23,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Política pública criada por Vargas para combater pobreza",
+        "alternativas": {
+            "A": "SUS",
+            "B": "DIRPF",
+            "C": "MEI",
+            "D": "Salário mínimo"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 24,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Desdobramento das guerras do século XXI",
+        "alternativas": {
+            "A": "aumento de refugiados",
+            "B": "estabilização bélica",
+            "C": "convivência diplomática",
+            "D": "queda do petróleo"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 25,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Fenômeno El Niño está associado",
+        "alternativas": {
+            "A": "estabilização global",
+            "B": "regularização das chuvas",
+            "C": "tornados",
+            "D": "aquecimento do Pacífico"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 26,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Fator que favorece conflitos urbanos",
+        "alternativas": {
+            "A": "participação comunitária",
+            "B": "acesso limitado a serviços",
+            "C": "inclusão social",
+            "D": "solidariedade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 27,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Festas típicas de Anápolis",
+        "alternativas": {
+            "A": "Bumba Meu Boi",
+            "B": "Navegantes",
+            "C": "Santo Reis e Divino",
+            "D": "Círio"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Setor de destaque do DAIA",
+        "alternativas": {
+            "A": "farmacêutico e automotivo",
+            "B": "petroquímico",
+            "C": "espacial",
+            "D": "informacional"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 29,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Impacto da localização geográfica de Anápolis",
+        "alternativas": {
+            "A": "isolamento",
+            "B": "dificuldades",
+            "C": "poucos recursos",
+            "D": "rodovias"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 30,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Atualidades",
+        "enunciado": "Impacto da desigualdade salarial de gênero",
+        "alternativas": {
+            "A": "acentuação desigualdades",
+            "B": "ausência masculina",
+            "C": "isonomia",
+            "D": "privilégio feminino"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 31,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Informática",
+        "enunciado": "Compartilhar internet Wi-Fi no Windows",
+        "alternativas": {
+            "A": "VPN",
+            "B": "hotspot móvel",
+            "C": "ethernet",
+            "D": "assistente de foco"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Informática",
+        "enunciado": "Aplicativos de apresentação",
+        "alternativas": {
+            "A": "Impress e PowerPoint",
+            "B": "Keeper e Netbeans",
+            "C": "Calc e Impress",
+            "D": "Netbeans e PowerPoint"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 33,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Informática",
+        "enunciado": "Exemplos de navegadores",
+        "alternativas": {
+            "A": "Firefox e Oracle",
+            "B": "Github e Chrome",
+            "C": "Oracle e Safari",
+            "D": "Opera e Edge"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 34,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Informática",
+        "enunciado": "Forma de acréscimo de bloqueadores",
+        "alternativas": {
+            "A": "extensão",
+            "B": "busca",
+            "C": "mapa",
+            "D": "protocolo"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 35,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Informática",
+        "enunciado": "Mensagens indesejadas por e-mail",
+        "alternativas": {
+            "A": "cookies",
+            "B": "plugins",
+            "C": "spams",
+            "D": "sniffers"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 36,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Legislação",
+        "enunciado": "Obrigação ética do servidor",
+        "alternativas": {
+            "A": "usar função para interesse pessoal",
+            "B": "retardar prestação",
+            "C": "temer hierarquia",
+            "D": "tratar usuários cuidadosamente"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 37,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Legislação",
+        "enunciado": "Direito do administrado",
+        "alternativas": {
+            "A": "advogado obrigatório",
+            "B": "tratamento respeitoso",
+            "C": "sem cópias",
+            "D": "prestar info"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 38,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Legislação",
+        "enunciado": "Diretriz da Lei de Acesso",
+        "alternativas": {
+            "A": "mediante solicitação",
+            "B": "publicidade como regra",
+            "C": "meio impresso",
+            "D": "controle estatal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 39,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Legislação",
+        "enunciado": "Fundamentos da República",
+        "alternativas": {
+            "A": "soberania e autodeterminação",
+            "B": "independência",
+            "C": "dignidade, livre iniciativa e cidadania",
+            "D": "não intervenção"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 40,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Legislação",
+        "enunciado": "Liberdade segundo CF",
+        "alternativas": {
+            "A": "locomoção plena",
+            "B": "reunião",
+            "C": "vida privada",
+            "D": "pensamento"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 41,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Padrão de comparação é",
+        "alternativas": {
+            "A": "downsizing",
+            "B": "benchmarking",
+            "C": "reengenharia",
+            "D": "hierarquia"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 42,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Decidir antecipadamente é",
+        "alternativas": {
+            "A": "comandar",
+            "B": "controlar",
+            "C": "coordenar",
+            "D": "planejar"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 43,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Arranjo físico chama-se",
+        "alternativas": {
+            "A": "conceitualização",
+            "B": "estrutura",
+            "C": "layout",
+            "D": "projeto"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 44,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Ponto mínimo de estoque",
+        "alternativas": {
+            "A": "reposição",
+            "B": "equilíbrio",
+            "C": "baixa",
+            "D": "emergência"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 45,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Funcionário realiza",
+        "alternativas": {
+            "A": "balanço",
+            "B": "movimentação",
+            "C": "inventário",
+            "D": "baixa"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 46,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Reserva orçamentária chama-se",
+        "alternativas": {
+            "A": "liquidação",
+            "B": "empenho",
+            "C": "orçamento",
+            "D": "licitação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 47,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Representação gráfica da estrutura",
+        "alternativas": {
+            "A": "organograma",
+            "B": "funciograma",
+            "C": "fluxograma",
+            "D": "dendrograma"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 48,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Procedimento para contratação",
+        "alternativas": {
+            "A": "empenho",
+            "B": "orçamento",
+            "C": "licitação",
+            "D": "liquidação"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 49,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Linguagem adequada no atendimento",
+        "alternativas": {
+            "A": "coloquial",
+            "B": "culta",
+            "C": "informal",
+            "D": "técnica"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 50,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Membros da instituição são",
+        "alternativas": {
+            "A": "público permanente",
+            "B": "público externo",
+            "C": "público esporádico",
+            "D": "público interno"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 50,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "As pessoas que trabalham em uma instituição (membros, servidores, estagiários, colaboradores e terceirizados) e participam ativamente dela são consideradas, para fins de atendimento ao público como",
+        "alternativas": {
+            "A": "público permanente",
+            "B": "público externo",
+            "C": "público esporádico",
+            "D": "público interno"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 51,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O texto faz referência ao conceito de",
+        "alternativas": {
+            "A": "governabilidade",
+            "B": "governança",
+            "C": "compliance",
+            "D": "transparência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 52,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Dizer que o gestor público tem o compromisso de demonstrar o resultado obtido em relação aos recursos recebidos a quem lhe oferecer, ou seja, prestar contas, se refere diretamente ao conceito de",
+        "alternativas": {
+            "A": "accountability",
+            "B": "descentralização",
+            "C": "empoderamento",
+            "D": "visibilidade"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 53,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Uma das características do orçamento público é que ele deve ser uno, ou seja, deve existir apenas um orçamento para dado exercício financeiro e para determinado ente, contendo todas as receitas e despesas. Tal característica se refere ao princípio orçamentário da",
+        "alternativas": {
+            "A": "exclusividade",
+            "B": "totalidade",
+            "C": "unidade",
+            "D": "universalidade"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 54,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Como é chamado o documento no qual se registram, resumidamente, mas com clareza, as ocorrências de uma reunião de pessoas, para determinado fim?",
+        "alternativas": {
+            "A": "Memorando",
+            "B": "Atestado",
+            "C": "Declaração",
+            "D": "Ata"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 55,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Dentre os tipos de assinatura, aquela que em geral é abreviada, limitada às iniciais ou ao sobrenome, é a assinatura do tipo",
+        "alternativas": {
+            "A": "mecânica",
+            "B": "por extenso",
+            "C": "rubrica",
+            "D": "a rogo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 56,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O conjunto de documentos de um arquivo é chamado de",
+        "alternativas": {
+            "A": "acesso",
+            "B": "acervo",
+            "C": "catálogo",
+            "D": "classificação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 57,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Dentre as funções da administração, aquela que procura distribuir o trabalho, a autoridade e os recursos entre os membros da empresa para que estes alcancem os objetivos estabelecidos eficientemente é",
+        "alternativas": {
+            "A": "organização",
+            "B": "direção",
+            "C": "planejamento",
+            "D": "controle"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 58,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A área funcional que tem como objetivo a administração de comportamentos individuais em função dos objetivos coletivos é a área de",
+        "alternativas": {
+            "A": "pesquisa e desenvolvimento",
+            "B": "logística",
+            "C": "finanças",
+            "D": "gestão de pessoas"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 59,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A lei que é considerada o orçamento público propriamente dito, aprovada anualmente, é a",
+        "alternativas": {
+            "A": "Lei de Diretrizes e Bases",
+            "B": "Lei de Diretrizes Orçamentárias",
+            "C": "Lei Orçamentária Anual",
+            "D": "Plano Plurianual"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 60,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O conjunto de matérias-primas, de produtos em processo e produtos acabados armazenados por uma organização é chamado de",
+        "alternativas": {
+            "A": "estoque",
+            "B": "arranjo físico",
+            "C": "curva ABC",
+            "D": "layout"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 1,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Na frase “Marcos e Joana, já pedi que parem de conversar durante a prova.”, os termos separados por vírgula possuem a função de",
+        "alternativas": {
+            "A": "vocativo",
+            "B": "aposto",
+            "C": "objeto direto",
+            "D": "objeto indireto"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 2,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Há concordância verbal com sujeito coletivo em",
+        "alternativas": {
+            "A": "Os Estados Unidos ainda são a maior potência mundial",
+            "B": "Foi ele que levou os presentes para a festa",
+            "C": "Marisa ou Jéssica ganhará mais tempo",
+            "D": "A multidão ultrapassou o limite"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 3,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Esse conceito refere-se a qual gênero textual?",
+        "alternativas": {
+            "A": "Conto",
+            "B": "Resenha",
+            "C": "Manifesto",
+            "D": "Romance"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 4,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A frase que está de acordo com a linguagem formal e com as regras da regência verbal é",
+        "alternativas": {
+            "A": "Eles voltaram mais cedo para assistir o novo episódio da série",
+            "B": "Antigamente, todos obedeciam os mais velhos",
+            "C": "Quase me esqueci do compromisso que assumi com você",
+            "D": "Atiradores visaram ao alvo do alto de um edifício"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 5,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Há emprego do pronome átono como próclise em",
+        "alternativas": {
+            "A": "Faça-me o favor",
+            "B": "Ontem o vi no teatro",
+            "C": "Convém dar-lhes",
+            "D": "Conformar-nos-emos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 6,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A frase que apresenta emprego correto do sinal indicativo de crase é",
+        "alternativas": {
+            "A": "Ela foi à São Paulo",
+            "B": "Passarei por Brasília à uma hora",
+            "C": "Vou à Bahia",
+            "D": "Deverei ir à Portugal"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 7,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Há recurso da ambiguidade em",
+        "alternativas": {
+            "A": "Ela chegou atrasada",
+            "B": "Ninguém entra duas vezes",
+            "C": "Ela esteve ocupada",
+            "D": "Maria encontrou a dona da loja com a sua irmã"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 8,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O gênero discursivo descrito é",
+        "alternativas": {
+            "A": "o e-mail",
+            "B": "a carta pessoal",
+            "C": "o diário",
+            "D": "a notícia"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 9,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A frase que está de acordo com as regras da linguagem formal é",
+        "alternativas": {
+            "A": "A gente tá muito cansado",
+            "B": "esperá o filho",
+            "C": "permita-me lhe contar",
+            "D": "ela tava"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 10,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A narrativa curta descrita é",
+        "alternativas": {
+            "A": "o conto",
+            "B": "a carta",
+            "C": "o diário",
+            "D": "a crônica"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 11,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O custo para pintar a calçada será de",
+        "alternativas": {
+            "A": "2420,00",
+            "B": "1120,00",
+            "C": "580,00",
+            "D": "400,00"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 12,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A altura da TV de 65 polegadas é aproximadamente",
+        "alternativas": {
+            "A": "73,5",
+            "B": "75,3",
+            "C": "77,8",
+            "D": "79,3"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 13,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Quantas horas o competidor A chegou antes do B?",
+        "alternativas": {
+            "A": "28,3",
+            "B": "33,7",
+            "C": "38,5",
+            "D": "43,2"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 14,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Quais alunos foram aprovados?",
+        "alternativas": {
+            "A": "A,B,D",
+            "B": "A,C,D",
+            "C": "B,C,E",
+            "D": "C,D,E"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 15,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Taxa aproximada em 2050",
+        "alternativas": {
+            "A": "1,37",
+            "B": "1,47",
+            "C": "1,57",
+            "D": "1,67"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 16,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Atalho para recortar",
+        "alternativas": {
+            "A": "Ctrl+X",
+            "B": "Ctrl+C",
+            "C": "Ctrl+V",
+            "D": "Ctrl+D"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 17,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Gerar ZIP",
+        "alternativas": {
+            "A": "conceder acesso",
+            "B": "compartilhar",
+            "C": "enviar para pasta compactada",
+            "D": "enviar para documentos"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 18,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Configuração de idioma do teclado",
+        "alternativas": {
+            "A": "sistema",
+            "B": "aplicativos",
+            "C": "dispositivos",
+            "D": "hora e idioma"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 19,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Resultado da fórmula",
+        "alternativas": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 20,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Extensões de modelo",
+        "alternativas": {
+            "A": "DOT e DOTX",
+            "B": "DOC e DOCX",
+            "C": "DOTX e DOT",
+            "D": "DOCX e DOC"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 21,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Fenômeno político",
+        "alternativas": {
+            "A": "Populismo",
+            "B": "Tenentismo",
+            "C": "Modernismo",
+            "D": "Coronelismo"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 22,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Batismo cultural de Goiânia",
+        "alternativas": {
+            "A": "ocupação",
+            "B": "inauguração simbólica",
+            "C": "pedra fundamental",
+            "D": "decreto"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 23,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Centro histórico tombado",
+        "alternativas": {
+            "A": "Cidade de Goiás",
+            "B": "Pirenópolis",
+            "C": "Goiatuba",
+            "D": "Goiânia"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 24,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Atividades econômicas principais",
+        "alternativas": {
+            "A": "serviços/turismo",
+            "B": "indústria/comércio",
+            "C": "agricultura/pecuária",
+            "D": "mineração"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 25,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Causa dos ataques",
+        "alternativas": {
+            "A": "epidemias",
+            "B": "ideologias extremistas",
+            "C": "pobreza",
+            "D": "direitos humanos"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 26,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Atribuição do presidente da Câmara",
+        "alternativas": {
+            "A": "propor cargos",
+            "B": "intervenção",
+            "C": "contratar",
+            "D": "orçamento"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 27,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Qualificação quantitativa",
+        "alternativas": {
+            "A": "objetivo",
+            "B": "iniciativa",
+            "C": "meta",
+            "D": "indicador"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Zona de Ocupação Sustentável",
+        "alternativas": {
+            "A": "faixa hídrica",
+            "B": "centro",
+            "C": "vias principais",
+            "D": "anel viário"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 29,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Indenizações",
+        "alternativas": {
+            "A": "incorporam",
+            "B": "chefia",
+            "C": "computadas",
+            "D": "regulamento"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 30,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Aposentadoria especial",
+        "alternativas": {
+            "A": "65 anos",
+            "B": "redução 5 anos",
+            "C": "lei complementar",
+            "D": "emenda"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 31,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Planejar é",
+        "alternativas": {
+            "A": "organização",
+            "B": "comando",
+            "C": "planejamento",
+            "D": "direção"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 32,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Conjunto de documentos",
+        "alternativas": {
+            "A": "Acervo",
+            "B": "Depósito",
+            "C": "Coleção",
+            "D": "Catálogo"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 33,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Controle de mercadorias",
+        "alternativas": {
+            "A": "despesas",
+            "B": "estoques",
+            "C": "resultados",
+            "D": "atividades"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 34,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Fazer coisas por meio das pessoas",
+        "alternativas": {
+            "A": "coordenação",
+            "B": "planejamento",
+            "C": "direção",
+            "D": "administração"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 35,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Departamento de recursos",
+        "alternativas": {
+            "A": "RH",
+            "B": "logística",
+            "C": "financeiro",
+            "D": "materiais"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 36,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Prestação de contas",
+        "alternativas": {
+            "A": "Accountability",
+            "B": "Governança",
+            "C": "Governabilidade",
+            "D": "Benchmarking"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 37,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Documento decisório",
+        "alternativas": {
+            "A": "Convocação",
+            "B": "Despacho",
+            "C": "Convênio",
+            "D": "Ofício"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 38,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Meio de comunicação",
+        "alternativas": {
+            "A": "canal",
+            "B": "emissor",
+            "C": "receptor",
+            "D": "fio"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 39,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Escolha de fornecedor",
+        "alternativas": {
+            "A": "contrato",
+            "B": "empenho",
+            "C": "proposta",
+            "D": "licitação"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 40,
+        "banca": "Concurso Público",
+        "ano": 2026,
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Atendimento telefônico",
+        "alternativas": {
+            "A": "sotaque",
+            "B": "intimidade",
+            "C": "pronúncia",
+            "D": "anotação"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 1,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Nesta tirinha, a quebra de expectativa que gera o humor resulta da associação entre a linguagem verbal e a linguagem não verbal. A frase “Me passa a manteiga?” colabora para a construção do sentido geral da tira, explicitando o emprego da",
+        "alternativas": {
+            "A": "intertextualidade",
+            "B": "ironia",
+            "C": "literalidade",
+            "D": "polissemia"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 2,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Na tirinha, verifica-se um uso linguístico próprio de situações comunicativas informais, em desacordo com as regras da norma-padrão para a língua escrita, no emprego do",
+        "alternativas": {
+            "A": "gerúndio no primeiro quadrinho",
+            "B": "pronome oblíquo no primeiro quadrinho",
+            "C": "verbo “passar” no primeiro quadrinho",
+            "D": "adjetivo “complexo” no último quadrinho"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 3,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Segundo a perspectiva do eu poético no poema,",
+        "alternativas": {
+            "A": "a língua portuguesa apresenta uma única forma de uso",
+            "B": "a variante europeia do português é mais culta e correta",
+            "C": "o português brasileiro é uma corruptela da forma lusitana",
+            "D": "a variação é uma marca da formação cultural brasileira"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 4,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "No poema, a palavra “macaquear” assume o valor semântico de",
+        "alternativas": {
+            "A": "aplicar",
+            "B": "ignorar",
+            "C": "imitar",
+            "D": "organizar"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 5,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A vírgula após “assim” justifica-se pelo mesmo fenômeno sintático que ocorre em",
+        "alternativas": {
+            "A": "Maria, embora estivesse chovendo, foi ao clube",
+            "B": "Meninos, estudem bastante",
+            "C": "Rio de Janeiro, fevereiro de 2024",
+            "D": "Pedro, Paulo e André foram à escola"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 6,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A forma verbal destacada flexiona-se no plural para",
+        "alternativas": {
+            "A": "concordar com o sujeito paciente",
+            "B": "demonstrar voz ativa",
+            "C": "estabelecer relação com o objeto direto",
+            "D": "explicitar sujeito indeterminado"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 7,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "O texto apresenta características do gênero",
+        "alternativas": {
+            "A": "anedota",
+            "B": "artigo científico",
+            "C": "artigo de opinião",
+            "D": "artigo autobiográfico"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 8,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Outra redação correta do trecho é",
+        "alternativas": {
+            "A": "ligado ao contexto cultural ... a situação onde foi criado",
+            "B": "ligado ao contexto cultural ... à situação em que foi criado",
+            "C": "ligado no contexto cultural ... aonde foi criado",
+            "D": "ligado ao contexto cultural ... a situação na qual foi criado"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 9,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Colocando no plural, tem-se",
+        "alternativas": {
+            "A": "não houvessem vilões",
+            "B": "não houvesse vilões",
+            "C": "não houvessem alguns vilões",
+            "D": "não houvessem uns vilões"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 10,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A oralidade no anúncio objetiva",
+        "alternativas": {
+            "A": "criticar a oralidade",
+            "B": "destacar a norma-padrão",
+            "C": "distanciar registros",
+            "D": "aproximar interlocutor"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 11,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Qual o valor da entrada?",
+        "alternativas": {
+            "A": "R$ 700,00",
+            "B": "R$ 650,00",
+            "C": "R$ 600,00",
+            "D": "R$ 550,00"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 12,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Quantos elementos tem o conjunto simétrico?",
+        "alternativas": {
+            "A": "12",
+            "B": "10",
+            "C": "08",
+            "D": "06"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 13,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Número de aprovados",
+        "alternativas": {
+            "A": "igual",
+            "B": "menor",
+            "C": "maior",
+            "D": "indeterminado"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 14,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Valores lógicos de q",
+        "alternativas": {
+            "A": "V,V,F,F",
+            "B": "F,V,F,V",
+            "C": "V,F,V,F",
+            "D": "F,F,V,V"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 15,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Dedução correta",
+        "alternativas": {
+            "A": "R.J. é médico",
+            "B": "P.K. é brasileiro",
+            "C": "M.V. é uruguaio",
+            "D": "o médico é uruguaio"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 16,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Atalho para exclusão definitiva",
+        "alternativas": {
+            "A": "CTRL+Delete",
+            "B": "SHIFT+Delete",
+            "C": "ALT+Delete",
+            "D": "TAB+Delete"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 17,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Extensões de imagens",
+        "alternativas": {
+            "A": "ODS e PNG",
+            "B": "DOC e BMP",
+            "C": "XLS e PNG",
+            "D": "TIFF e BMP"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 18,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Opção de verificação ortográfica",
+        "alternativas": {
+            "A": "exibir sugestões",
+            "B": "realçar palavras erradas",
+            "C": "inserir espaço",
+            "D": "ponto automático"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 19,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Configuração de associação",
+        "alternativas": {
+            "A": "apps para sites",
+            "B": "mapas offline",
+            "C": "apps padrão",
+            "D": "inicialização"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 20,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Valores estatísticos",
+        "alternativas": {
+            "A": "3,0,1",
+            "B": "3,1,1",
+            "C": "3,0,3",
+            "D": "3,1,3"
+        },
+        "correta": "A"
+    },
+        {
+        "id": 21,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Tipo de improbidade",
+        "alternativas": {
+            "A": "enriquecimento ilícito",
+            "B": "prejuízo ao erário",
+            "C": "benefício indevido",
+            "D": "princípios"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 22,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Publicidade dos atos administrativos garante",
+        "alternativas": {
+            "A": "sigilo",
+            "B": "transparência",
+            "C": "celeridade",
+            "D": "hierarquia"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 23,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento que registra decisões de reunião",
+        "alternativas": {
+            "A": "memorando",
+            "B": "ata",
+            "C": "ofício",
+            "D": "declaração"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 24,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Conjunto de documentos arquivados denomina-se",
+        "alternativas": {
+            "A": "catálogo",
+            "B": "coleção",
+            "C": "acervo",
+            "D": "registro"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 25,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Função administrativa responsável por definir objetivos",
+        "alternativas": {
+            "A": "controle",
+            "B": "organização",
+            "C": "direção",
+            "D": "planejamento"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 26,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Controle de materiais em almoxarifado denomina-se",
+        "alternativas": {
+            "A": "layout",
+            "B": "estoque",
+            "C": "arquivo",
+            "D": "fluxograma"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 27,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento usado para comunicação interna rápida",
+        "alternativas": {
+            "A": "ofício",
+            "B": "memorando",
+            "C": "edital",
+            "D": "relatório"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 28,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Lei que contém o orçamento anual",
+        "alternativas": {
+            "A": "PPA",
+            "B": "LDO",
+            "C": "LOA",
+            "D": "LRF"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 29,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Princípio que exige atuação sem favorecimento pessoal",
+        "alternativas": {
+            "A": "legalidade",
+            "B": "publicidade",
+            "C": "moralidade",
+            "D": "impessoalidade"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 30,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Assinatura abreviada é chamada de",
+        "alternativas": {
+            "A": "a rogo",
+            "B": "rubrica",
+            "C": "por extenso",
+            "D": "digital"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 31,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Atendimento eficiente ao público requer",
+        "alternativas": {
+            "A": "autoritarismo",
+            "B": "indiferença",
+            "C": "cordialidade",
+            "D": "rigidez"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 32,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento expedido para autoridades externas",
+        "alternativas": {
+            "A": "ata",
+            "B": "memorando",
+            "C": "ofício",
+            "D": "relatório"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 33,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Processo formal de contratação pública é a",
+        "alternativas": {
+            "A": "adjudicação",
+            "B": "licitação",
+            "C": "homologação",
+            "D": "ratificação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 34,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento decisório no processo administrativo",
+        "alternativas": {
+            "A": "parecer",
+            "B": "despacho",
+            "C": "edital",
+            "D": "requerimento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 35,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Área responsável pela gestão de pessoas",
+        "alternativas": {
+            "A": "financeiro",
+            "B": "compras",
+            "C": "RH",
+            "D": "arquivo"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 36,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Prestação de contas denomina-se",
+        "alternativas": {
+            "A": "compliance",
+            "B": "accountability",
+            "C": "benchmarking",
+            "D": "governabilidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 37,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Meio de comunicação entre emissor e receptor",
+        "alternativas": {
+            "A": "canal",
+            "B": "ruído",
+            "C": "código",
+            "D": "mensagem"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 38,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento comprobatório simples chama-se",
+        "alternativas": {
+            "A": "ata",
+            "B": "declaração",
+            "C": "relatório",
+            "D": "edital"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 39,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Conjunto de bens armazenados é denominado",
+        "alternativas": {
+            "A": "layout",
+            "B": "curva ABC",
+            "C": "estoque",
+            "D": "arranjo físico"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 40,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Princípio que exige rapidez e economia",
+        "alternativas": {
+            "A": "legalidade",
+            "B": "moralidade",
+            "C": "publicidade",
+            "D": "eficiência"
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 41,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento usado para convocar reunião",
+        "alternativas": {
+            "A": "convocação",
+            "B": "ata",
+            "C": "relatório",
+            "D": "declaração"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 42,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Arquivo de uso corrente chama-se",
+        "alternativas": {
+            "A": "intermediário",
+            "B": "permanente",
+            "C": "corrente",
+            "D": "histórico"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 43,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Área responsável por compras",
+        "alternativas": {
+            "A": "RH",
+            "B": "logística",
+            "C": "financeiro",
+            "D": "patrimônio"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 44,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento formal dirigido a órgão externo",
+        "alternativas": {
+            "A": "memorando",
+            "B": "ata",
+            "C": "ofício",
+            "D": "comunicado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 45,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Conjunto de bens públicos chama-se",
+        "alternativas": {
+            "A": "estoque",
+            "B": "patrimônio",
+            "C": "acervo",
+            "D": "arquivo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 46,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento para relatar atividades chama-se",
+        "alternativas": {
+            "A": "ata",
+            "B": "ofício",
+            "C": "relatório",
+            "D": "memorando"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 47,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Princípio que proíbe promoção pessoal",
+        "alternativas": {
+            "A": "moralidade",
+            "B": "legalidade",
+            "C": "publicidade",
+            "D": "impessoalidade"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 48,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento interno de orientação chama-se",
+        "alternativas": {
+            "A": "portaria",
+            "B": "memorando",
+            "C": "edital",
+            "D": "ata"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 49,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Controle físico de bens denomina-se",
+        "alternativas": {
+            "A": "inventário",
+            "B": "licitação",
+            "C": "tombamento",
+            "D": "registro"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 50,
+        "banca": "Concurso Público",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Documento que comprova entrega de material",
+        "alternativas": {
+            "A": "requisição",
+            "B": "nota fiscal",
+            "C": "recibo",
+            "D": "empenho"
+        },
+        "correta": "C"
+    }
 ]
