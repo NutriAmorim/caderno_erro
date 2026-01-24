@@ -7595,566 +7595,594 @@ QUESTOES = [
     },
     {
         "id": 1,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Na frase “Marcos e Joana, já pedi que parem de conversar durante a prova.”, os termos separados por vírgula possuem a função de",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A vírgula é um sinal de pontuação utilizado para indicar pequenas pausas no processo de leitura, além de separar termos no enunciado para evitar problemas de interpretação, como ambiguidade. Nesse sentido, na frase: “Marcos e Joana, já pedi que parem de conversar durante a prova.”, os termos separados por vírgula possuem a função de",
         "alternativas": {
-            "A": "vocativo",
-            "B": "aposto",
-            "C": "objeto direto",
-            "D": "objeto indireto"
+            "A": "vocativo.",
+            "B": "aposto.",
+            "C": "objeto direto.",
+            "D": "objeto indireto."
         },
         "correta": "A"
     },
     {
         "id": 2,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Há concordância verbal com sujeito coletivo em",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Há concordância verbal com sujeito coletivo em:",
         "alternativas": {
-            "A": "Os Estados Unidos ainda são a maior potência mundial",
-            "B": "Foi ele que levou os presentes para a festa",
-            "C": "Marisa ou Jéssica ganhará mais tempo",
-            "D": "A multidão ultrapassou o limite"
+            "A": "“Os Estados Unidos ainda são a maior potência mundial”.",
+            "B": "“Foi ele que levou os presentes para a festa”.",
+            "C": "“Marisa ou Jéssica ganhará mais tempo”.",
+            "D": "“A multidão ultrapassou o limite”."
         },
         "correta": "D"
     },
     {
         "id": 3,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Esse conceito refere-se a qual gênero textual?",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Leia o texto a seguir. Gênero que combina a apresentação das características essenciais de uma dada obra (filme, livro, peça de teatro etc.) com comentários e avaliações críticas sobre sua qualidade. Esse conceito refere-se a qual gênero textual?",
         "alternativas": {
-            "A": "Conto",
-            "B": "Resenha",
-            "C": "Manifesto",
-            "D": "Romance"
+            "A": "Conto.",
+            "B": "Resenha.",
+            "C": "Manifesto.",
+            "D": "Romance."
         },
         "correta": "B"
     },
     {
         "id": 4,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "A frase que está de acordo com a linguagem formal e com as regras da regência verbal é",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A frase que está de acordo com a linguagem formal e com as regras da regência verbal é:",
         "alternativas": {
-            "A": "Eles voltaram mais cedo para assistir o novo episódio da série",
-            "B": "Antigamente, todos obedeciam os mais velhos",
-            "C": "Quase me esqueci do compromisso que assumi com você",
-            "D": "Atiradores visaram ao alvo do alto de um edifício"
+            "A": "“Eles voltaram mais cedo para assistir o novo episódio da série”.",
+            "B": "“Antigamente, todos obedeciam os mais velhos”.",
+            "C": "“Quase me esqueci do compromisso que assumi com você”.",
+            "D": "“Atiradores visaram ao alvo do alto de um edifício”."
         },
-        "correta": "C"
+        "correta": "D"
     },
     {
         "id": 5,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Há emprego do pronome átono como próclise em",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Há emprego do pronome átono como próclise em:",
         "alternativas": {
-            "A": "Faça-me o favor",
-            "B": "Ontem o vi no teatro",
-            "C": "Convém dar-lhes",
-            "D": "Conformar-nos-emos"
+            "A": "“Faça-me o favor de não chegar atrasado para a reunião”.",
+            "B": "“Ontem o vi no teatro”.",
+            "C": "“Convém dar-lhes o aviso agora mesmo”.",
+            "D": "“Conformar-nos-emos com a situação”."
         },
         "correta": "B"
     },
     {
         "id": 6,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "A frase que apresenta emprego correto do sinal indicativo de crase é",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A frase que apresenta emprego correto do sinal indicativo de crase é:",
         "alternativas": {
-            "A": "Ela foi à São Paulo",
-            "B": "Passarei por Brasília à uma hora",
-            "C": "Vou à Bahia",
-            "D": "Deverei ir à Portugal"
+            "A": "“Ela foi à São Paulo no ano passado”.",
+            "B": "“Passarei por Brasília à uma hora qualquer”.",
+            "C": "“Vou à Bahia ainda este ano”.",
+            "D": "“Deverei ir à Portugal no próximo ano”."
         },
         "correta": "C"
     },
     {
         "id": 7,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Há recurso da ambiguidade em",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Há recurso da ambiguidade em:",
         "alternativas": {
-            "A": "Ela chegou atrasada",
-            "B": "Ninguém entra duas vezes",
-            "C": "Ela esteve ocupada",
-            "D": "Maria encontrou a dona da loja com a sua irmã"
+            "A": "“Ela chegou atrasada, mais uma vez, ao trabalho”.",
+            "B": "“Ninguém entra duas vezes no mesmo rio”.",
+            "C": "“Ela esteve ocupada durante toda a tarde”.",
+            "D": "“Maria encontrou a dona da loja com a sua irmã”."
         },
         "correta": "D"
     },
     {
         "id": 8,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "O gênero discursivo descrito é",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Leia o texto a seguir. Este gênero discursivo surgiu com o advento da internet. Caracteriza-se por permitir uma comunicação escrita muito rápida entre interlocutores conectados em rede virtual. O gênero discursivo descrito é",
         "alternativas": {
-            "A": "o e-mail",
-            "B": "a carta pessoal",
-            "C": "o diário",
-            "D": "a notícia"
+            "A": "o e-mail/a mensagem eletrônica.",
+            "B": "a carta pessoal.",
+            "C": "o diário.",
+            "D": "a notícia."
         },
         "correta": "A"
     },
+
     {
         "id": 9,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "A frase que está de acordo com as regras da linguagem formal é",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A frase que está de acordo com as regras da linguagem formal é:",
         "alternativas": {
-            "A": "A gente tá muito cansado",
-            "B": "esperá o filho",
-            "C": "permita-me lhe contar",
-            "D": "ela tava"
+            "A": "“A gente tá muito cansado, desde semana passada”.",
+            "B": "“Ele foi até a esquina esperá o filho que chegava do trabalho”.",
+            "C": "“Se o senhor não se lembra, permita-me lhe contar”.",
+            "D": "“Quando chegaram, ela tava na cozinha preparando o almoço”."
         },
         "correta": "C"
     },
     {
         "id": 10,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "A narrativa curta descrita é",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A narrativa curta que apresenta os mesmos elementos do romance (narrador, personagem, enredo, tempo e espaço), e diferencia-se do romance pela sua concisão, linearidade e unidade, construindo uma história focada em um conflito básico e que apresenta o desenvolvimento e a resolução do conflito, é",
         "alternativas": {
-            "A": "o conto",
-            "B": "a carta",
-            "C": "o diário",
-            "D": "a crônica"
+            "A": "o conto.",
+            "B": "a carta pessoal.",
+            "C": "o diário.",
+            "D": "a crônica."
         },
         "correta": "A"
     },
 
+
     {
         "id": 11,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "O custo para pintar a calçada será de",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "imagem_enunciado": "dados/img/img.png",
+        "enunciado": "Uma calçada foi construída ao redor de uma casa, cuja vista superior está representada na figura a seguir. Um pintor cobra 20,00 reais para pintar cada metro quadrado da calçada. O custo para contratar esse serviço será de",
         "alternativas": {
-            "A": "2420,00",
-            "B": "1120,00",
-            "C": "580,00",
-            "D": "400,00"
+            "A": "2.420,00 reais.",
+            "B": "1.120,00 reais.",
+            "C": "580,00 reais.",
+            "D": "400,00 reais."
         },
-        "correta": "A"
+        "correta": "B"
     },
     {
         "id": 12,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "A altura da TV de 65 polegadas é aproximadamente",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Uma TV de 40 polegadas possui uma tela retangular de 89,0 cm de largura por 50,0 cm de altura. Se a razão entre as áreas das telas de uma TV de 65 polegadas e outra de 40 polegadas vale 2,5 e a largura de uma TV de 65 polegadas vale 143,0 cm, então a altura dessa TV é de, aproximadamente,",
         "alternativas": {
-            "A": "73,5",
-            "B": "75,3",
-            "C": "77,8",
-            "D": "79,3"
+            "A": "73,5 cm.",
+            "B": "75,3 cm.",
+            "C": "77,8 cm.",
+            "D": "79,3 cm."
         },
         "correta": "C"
     },
     {
         "id": 13,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Quantas horas o competidor A chegou antes do B?",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Dois competidores estão fazendo uma trilha na selva e partiram do mesmo ponto em direção à linha de chegada. O competidor A percorreu 30 km por dia e gastou 9 dias para cruzar a linha de chegada. Se o competidor B caminhou 25 km por dia, quantas horas o competidor A chegou antes do B?",
         "alternativas": {
-            "A": "28,3",
-            "B": "33,7",
-            "C": "38,5",
-            "D": "43,2"
+            "A": "28,3.",
+            "B": "33,7.",
+            "C": "38,5.",
+            "D": "43,2."
         },
         "correta": "D"
     },
     {
         "id": 14,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Quais alunos foram aprovados?",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "imagem_enunciado": "dados/img/img5.png",
+        "enunciado": "Em uma disciplina na universidade, o professor avaliou sua turma de cinco alunos por meio de três provas, cujos resultados estão na tabela a seguir. O critério utilizado para aprovação na disciplina foi o seguinte: aqueles que obtivessem média maior do que 6 ou mediana maior do que ou igual a 7 estariam aprovados. Quais foram os alunos aprovados nessa disciplina?",
         "alternativas": {
-            "A": "A,B,D",
-            "B": "A,C,D",
-            "C": "B,C,E",
-            "D": "C,D,E"
+            "A": "A, B e D.",
+            "B": "A, C e D.",
+            "C": "B, C e E.",
+            "D": "C, D e E."
         },
         "correta": "C"
     },
     {
         "id": 15,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Taxa aproximada em 2050",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "imagem_enunciado": "dados/img/img6.png",
+        "enunciado": "Um estudo realizado pela revista “The Lancet” revela que a taxa de fertilidade mundial se comportará de acordo com o gráfico a seguir. Se a taxa de fertilidade no Brasil em 2017 era de 1,74 filhos por mulher e se essa taxa decrescer de acordo com a tendência da taxa mundial, qual será, aproximadamente, a taxa de fertilidade no Brasil em 2050?",
         "alternativas": {
-            "A": "1,37",
-            "B": "1,47",
-            "C": "1,57",
-            "D": "1,67"
+            "A": "1,37.",
+            "B": "1,47.",
+            "C": "1,57.",
+            "D": "1,67."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 16,
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "A atividade 'recortar' pode ser empregada em aplicativos de edição de textos. No sistema Windows®, um atalho para executar essa atividade via teclado é uma combinação de teclas (o símbolo '+' denota que as teclas devem ser pressionadas simultaneamente), a saber:",
+        "alternativas": {
+                "A": "Ctrl + X.",
+                "B": "Ctrl + C.",
+                "C": "Ctrl + V.",
+                "D": "Ctrl + D."
         },
         "correta": "A"
     },
 
     {
-        "id": 16,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Atalho para recortar",
-        "alternativas": {
-            "A": "Ctrl+X",
-            "B": "Ctrl+C",
-            "C": "Ctrl+V",
-            "D": "Ctrl+D"
-        },
-        "correta": "A"
-    },
-    {
         "id": 17,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Gerar ZIP",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "Arquivos do tipo ZIP são amplamente utilizados, sobretudo quando se lida com questões de armazenagem de dados. No sistema Windows®, tal como na versão Windows 10, uma forma para gerar um arquivo do tipo ZIP, a partir de dois outros arquivos, é selecionar ambos os arquivos, clicar no botão direito do mouse para, em seguida, escolher a opção de",
         "alternativas": {
-            "A": "conceder acesso",
-            "B": "compartilhar",
-            "C": "enviar para pasta compactada",
-            "D": "enviar para documentos"
+                "A": "conceder acesso a pessoas específicas.",
+                "B": "conceder compartilhamento de pastas.",
+                "C": "enviar para pasta compactada.",
+                "D": "enviar para documentos."
         },
         "correta": "C"
     },
+
     {
         "id": 18,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Configuração de idioma do teclado",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "Quando o teclado está configurado para outra língua, o usuário possivelmente terá dificuldades para acentuar palavras, pontuar o texto e usar caracteres particulares da língua portuguesa, tal como o emprego do cedilha. Dentre as configurações de versões recentes do Windows®, tal como o Windows 10, o grupo de configurações para essa configuração de teclado é denominado de",
         "alternativas": {
-            "A": "sistema",
-            "B": "aplicativos",
-            "C": "dispositivos",
-            "D": "hora e idioma"
+                "A": "sistema.",
+                "B": "aplicativos.",
+                "C": "dispositivos.",
+                "D": "hora e idioma."
         },
         "correta": "D"
     },
+
     {
         "id": 19,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Resultado da fórmula",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "A presença de fórmulas é típica em planilhas eletrônicas. Considere a seguinte fórmula na célula A3 de uma planilha eletrônica: =TETO(3,01;1) – TETO(3,01;2). O valor, em A3, resultante do cálculo dessa fórmula é",
         "alternativas": {
-            "A": "-1",
-            "B": "0",
-            "C": "1",
-            "D": "2"
+                "A": "–1.",
+                "B": "0.",
+                "C": "1.",
+                "D": "2."
         },
         "correta": "B"
     },
+
     {
         "id": 20,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Extensões de modelo",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "Na edição de texto via software Word, há arquivos do tipo modelo que, usualmente, possuem formatações que serão aplicadas a novos documentos criados a partir deles, o que contribui para a padronização de documentos. As extensões de arquivos do tipo modelo para versões 97-2003 do Word e versões posteriores do Word são, respectivamente,",
         "alternativas": {
-            "A": "DOT e DOTX",
-            "B": "DOC e DOCX",
-            "C": "DOTX e DOT",
-            "D": "DOCX e DOC"
+                "A": "DOT e DOTX.",
+                "B": "DOC e DOCX.",
+                "C": "DOTX e DOT.",
+                "D": "DOCX e DOC."
         },
         "correta": "A"
     },
+
 
     {
         "id": 21,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Fenômeno político",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "É um fenômeno sociopolítico típico da Primeira República, embora não possua limites temporais claramente definidos. Caracteriza-se pela continuidade da hipertrofia do poder privado, já observada em períodos republicanos anteriores. Podemos afirmar, portanto, que é a expressão de uma relação de compromisso entre o Estado e a estrutura de mando local.",
         "alternativas": {
-            "A": "Populismo",
-            "B": "Tenentismo",
-            "C": "Modernismo",
-            "D": "Coronelismo"
+                "A": "Populismo.",
+                "B": "Tenentismo.",
+                "C": "Modernismo.",
+                "D": "Coronelismo."
         },
         "correta": "D"
     },
+
     {
         "id": 22,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Batismo cultural de Goiânia",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "O batismo cultural de Goiânia, realizado em 1942, representou",
         "alternativas": {
-            "A": "ocupação",
-            "B": "inauguração simbólica",
-            "C": "pedra fundamental",
-            "D": "decreto"
+                "A": "o início da ocupação da capital.",
+                "B": "a inauguração simbólica da cidade.",
+                "C": "o lançamento da pedra fundamental da cidade.",
+                "D": "a assinatura do decreto de transferência da capital para Goiânia."
         },
         "correta": "B"
     },
+
     {
         "id": 23,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Centro histórico tombado",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "Qual cidade do Estado de Goiás tem o seu centro histórico tombado como Patrimônio Cultural Mundial pela UNESCO?",
         "alternativas": {
-            "A": "Cidade de Goiás",
-            "B": "Pirenópolis",
-            "C": "Goiatuba",
-            "D": "Goiânia"
+                "A": "Cidade de Goiás.",
+                "B": "Pirenópolis.",
+                "C": "Goiatuba.",
+                "D": "Goiânia."
         },
         "correta": "A"
     },
+
     {
         "id": 24,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Atividades econômicas principais",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "As duas atividades econômicas mais importantes da cidade de Goiatuba são",
         "alternativas": {
-            "A": "serviços/turismo",
-            "B": "indústria/comércio",
-            "C": "agricultura/pecuária",
-            "D": "mineração"
+                "A": "os serviços e o turismo.",
+                "B": "a indústria e o comércio.",
+                "C": "a agricultura e a pecuária.",
+                "D": "a mineração e a metalurgia."
         },
         "correta": "C"
     },
+
     {
         "id": 25,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Causa dos ataques",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "imagem_enunciado": "dados/img/img7.png",
+        "enunciado": "Dentre os elementos contidos na imagem e os relatos apresentados no texto, um deles, presente nos dois textos, indica uma das causas do aumento da frequência de episódios de ataques violentos em escolas brasileiras.",
         "alternativas": {
-            "A": "epidemias",
-            "B": "ideologias extremistas",
-            "C": "pobreza",
-            "D": "direitos humanos"
+                "A": "da intensificação das epidemias.",
+                "B": "do avanço de ideologias extremistas.",
+                "C": "do crescimento da pobreza no Brasil.",
+                "D": "do fortalecimento dos direitos humanos."
         },
         "correta": "B"
     },
 
     {
         "id": 26,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Atribuição do presidente da Câmara",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Segundo a Lei Orgânica do Município da Goiatuba, dentre outras atribuições, cabe ao presidente da Câmara de Vereadores",
         "alternativas": {
-            "A": "propor cargos",
-            "B": "intervenção",
-            "C": "contratar",
-            "D": "orçamento"
+                "A": "propor projetos que criem ou extingam cargos nos serviços da Câmara e fixem os respectivos vencimentos.",
+                "B": "solicitar, por decisão da maioria absoluta da Câmara, a intervenção no Município nos casos admitidos pelas Constituições Estadual e Federal.",
+                "C": "contratar serviços de terceiros, na forma da lei, por tempo determinado, para atender à necessidade temporária de excepcional interesse público.",
+                "D": "elaborar, em conformidade com a legislação federal e estadual, a proposta orçamentária do Poder Legislativo, encaminhando-a ao Prefeito."
         },
-        "correta": "A"
+        "correta": "D"
     },
+
     {
         "id": 27,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Qualificação quantitativa",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Para efeito das Disposições do Plano Plurianual (2022-2025), a qualificação do objeto, expressa quantitativamente ou qualitativamente, é chamada de",
         "alternativas": {
-            "A": "objetivo",
-            "B": "iniciativa",
-            "C": "meta",
-            "D": "indicador"
-        },
-        "correta": "C"
-    },
-    {
-        "id": 28,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Zona de Ocupação Sustentável",
-        "alternativas": {
-            "A": "faixa hídrica",
-            "B": "centro",
-            "C": "vias principais",
-            "D": "anel viário"
-        },
-        "correta": "D"
-    },
-    {
-        "id": 29,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Indenizações",
-        "alternativas": {
-            "A": "incorporam",
-            "B": "chefia",
-            "C": "computadas",
-            "D": "regulamento"
-        },
-        "correta": "D"
-    },
-    {
-        "id": 30,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Aposentadoria especial",
-        "alternativas": {
-            "A": "65 anos",
-            "B": "redução 5 anos",
-            "C": "lei complementar",
-            "D": "emenda"
+                "A": "objetivo.",
+                "B": "iniciativa.",
+                "C": "meta.",
+                "D": "indicador."
         },
         "correta": "C"
     },
 
     {
-        "id": 31,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Planejar é",
+        "id": 28,
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "De acordo com o Plano Diretor de Goiatuba, Zona de Ocupação Sustentável é",
         "alternativas": {
-            "A": "organização",
-            "B": "comando",
-            "C": "planejamento",
-            "D": "direção"
+                "A": "a faixa de cem metros bilateral, ao longo dos corpos hídricos pertencentes à Macrozona de Ordenamento Urbano.",
+                "B": "o território que engloba o tecido urbano consolidado, representado pela Região de Planejamento Centro.",
+                "C": "a área limítrofe às vias de maior porte e de serviços consolidados na cidade e para as quais será induzido um maior aproveitamento do solo urbano.",
+                "D": "a área localizada ao longo do anel viário existente e das vias estruturantes projetadas, nas quais serão admitidas atividades econômicas."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 29,
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "As indenizações, que são vantagens pagas além do vencimento,",
+        "alternativas": {
+                "A": "incorporam-se à remuneração e servirão de base para o cálculo de outros adicionais ou vantagens.",
+                "B": "são retribuições pelo exercício de função de confiança, chefia e assessoramento ou por curso de treinamento.",
+                "C": "serão computadas para efeito de concessão de quaisquer outros acréscimos pecuniários, sob o mesmo título ou idêntico fundamento.",
+                "D": "terão os valores e as condições de concessão das indenizações estabelecidos em regulamento."
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 30,
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Segundo a Constituição Federal, os servidores cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes,",
+        "alternativas": {
+                "A": "serão aposentados compulsoriamente aos sessenta e cinco anos de idade.",
+                "B": "terão a idade mínima de aposentadoria reduzida em cinco anos.",
+                "C": "poderão ter tempo e idade de aposentadoria diferenciados, por lei complementar.",
+                "D": "deverão ter os proventos de aposentadoria fixados por emenda constitucional."
         },
         "correta": "C"
     },
+
+
+    {
+        "id": 31,
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Em administração, aquilo que envolve mais do que querer algo e significa fazer planos, traçar metas e, principalmente, selecionar os meios para conseguir alcançar os objetivos é",
+        "alternativas": {
+                "A": "a organização.",
+                "B": "o comando.",
+                "C": "o planejamento.",
+                "D": "a direção."
+        },
+        "correta": "C"
+    },
+
     {
         "id": 32,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Conjunto de documentos",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Como é chamado o conjunto de documentos de um arquivo?",
         "alternativas": {
-            "A": "Acervo",
-            "B": "Depósito",
-            "C": "Coleção",
-            "D": "Catálogo"
+                "A": "Acervo.",
+                "B": "Depósito.",
+                "C": "Coleção.",
+                "D": "Catálogo."
         },
         "correta": "A"
     },
+
     {
         "id": 33,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Controle de mercadorias",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "O controle importante para verificar as entradas e saídas de mercadoria ou material da empresa é o controle de",
         "alternativas": {
-            "A": "despesas",
-            "B": "estoques",
-            "C": "resultados",
-            "D": "atividades"
+                "A": "despesas.",
+                "B": "estoques.",
+                "C": "resultados.",
+                "D": "atividades."
         },
         "correta": "B"
     },
+
     {
         "id": 34,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Fazer coisas por meio das pessoas",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Fazer coisas com e por meio das pessoas se refere à definição de",
         "alternativas": {
-            "A": "coordenação",
-            "B": "planejamento",
-            "C": "direção",
-            "D": "administração"
+                "A": "coordenação.",
+                "B": "planejamento.",
+                "C": "direção.",
+                "D": "administração."
         },
         "correta": "D"
     },
+
     {
         "id": 35,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Departamento de recursos",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "O departamento da organização cujas funções se dividem em planejamento, aquisição, controle e distribuição dos recursos é o departamento",
         "alternativas": {
-            "A": "RH",
-            "B": "logística",
-            "C": "financeiro",
-            "D": "materiais"
+                "A": "de recursos humanos.",
+                "B": "de logística.",
+                "C": "financeiro.",
+                "D": "de materiais."
         },
         "correta": "D"
     },
+
     {
         "id": 36,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Prestação de contas",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Como é chamada a prestação de contas dos resultados das ações governamentais à sociedade?",
         "alternativas": {
-            "A": "Accountability",
-            "B": "Governança",
-            "C": "Governabilidade",
-            "D": "Benchmarking"
+                "A": "Accountability.",
+                "B": "Governança.",
+                "C": "Governabilidade.",
+                "D": "Benchmarking."
         },
         "correta": "A"
     },
+
     {
         "id": 37,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Documento decisório",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Qual é o documento que emite decisão, por autoridade competente, dando andamento ou solução a um pedido?",
         "alternativas": {
-            "A": "Convocação",
-            "B": "Despacho",
-            "C": "Convênio",
-            "D": "Ofício"
+                "A": "Convocação.",
+                "B": "Despacho.",
+                "C": "Convênio.",
+                "D": "Ofício."
         },
         "correta": "B"
     },
+
     {
         "id": 38,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Meio de comunicação",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "O meio que utilizamos para veicular uma mensagem é chamado de",
         "alternativas": {
-            "A": "canal",
-            "B": "emissor",
-            "C": "receptor",
-            "D": "fio"
+                "A": "canal.",
+                "B": "emissor.",
+                "C": "receptor.",
+                "D": "fio."
         },
         "correta": "A"
     },
+
     {
         "id": 39,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Escolha de fornecedor",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Em regra, o processo legal que estabelece como se dará a escolha do fornecedor que venderá bens ou serviços ao setor público é chamado de",
         "alternativas": {
-            "A": "contrato",
-            "B": "empenho",
-            "C": "proposta",
-            "D": "licitação"
+                "A": "contrato.",
+                "B": "empenho.",
+                "C": "proposta.",
+                "D": "licitação."
         },
         "correta": "D"
     },
+
     {
         "id": 40,
-        "banca": "Concurso Público",
-        "ano": 2026,
-        "materia": "Auxiliar Administrativo",
-        "enunciado": "Atendimento telefônico",
+        "banca": "AUX.ADM UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Específicos",
+        "enunciado": "Para o atendimento telefônico, a voz é um fator relevante, juntamente com o volume, o ritmo e",
         "alternativas": {
-            "A": "sotaque",
-            "B": "intimidade",
-            "C": "pronúncia",
-            "D": "anotação"
+                "A": "o sotaque.",
+                "B": "a intimidade.",
+                "C": "a pronúncia.",
+                "D": "a anotação."
         },
         "correta": "C"
     },
