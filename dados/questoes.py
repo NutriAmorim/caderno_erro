@@ -8312,7 +8312,7 @@ QUESTOES = [
             "C": "R$ 600,00",
             "D": "R$ 550,00"
         },
-        "correta": "A"
+        "correta": "B"
     },
     {
         "id": 12,
@@ -8461,10 +8461,10 @@ QUESTOES = [
     },
     {
         "id": 22,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Publicidade dos atos administrativos garante",
+        "enunciado": "A Lei n° 9.784/1999 estabelece normas básicas sobre o processo administrativo no âmbito da administração federal direta e indireta, visando, em especial, a proteção dos direitos dos administrados e ao melhor cumprimento dos fins da administração. Nos termos do § 2º do art. 1º, a unidade de atuação integrante da estrutura da administração direta e da estrutura da administração indireta é",
         "alternativas": {
             "A": "sigilo",
             "B": "transparência",
@@ -8475,10 +8475,10 @@ QUESTOES = [
     },
     {
         "id": 23,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento que registra decisões de reunião",
+        "enunciado": "A Lei n° 12.527/2011 mais conhecida como Lei de Acesso à Informação, pelas disposições do art. 4º, para os efeitos desta lei, a qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados, refere-se à",
         "alternativas": {
             "A": "memorando",
             "B": "ata",
@@ -8489,10 +8489,10 @@ QUESTOES = [
     },
     {
         "id": 24,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Conjunto de documentos arquivados denomina-se",
+        "enunciado": "A Lei n° 8.112/1990 institui o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias, inclusive as em regime especial, e das fundações públicas federais. A mesma lei prevê diversas formas de provimento de cargo público. A investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental verificada em inspeção médica refere-se à",
         "alternativas": {
             "A": "catálogo",
             "B": "coleção",
@@ -8503,368 +8503,374 @@ QUESTOES = [
     },
     {
         "id": 25,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Função administrativa responsável por definir objetivos",
+        "enunciado": "Leia o texto a seguir. A Súmula Vinculante 14 do Supremo Tribunal Federal, estabelece que: “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.” A Súmula refere-se ao princípio constitucional",
         "alternativas": {
-            "A": "controle",
-            "B": "organização",
-            "C": "direção",
-            "D": "planejamento"
-        },
-        "correta": "D"
-    },
-    {
-        "id": 26,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Controle de materiais em almoxarifado denomina-se",
-        "alternativas": {
-            "A": "layout",
-            "B": "estoque",
-            "C": "arquivo",
-            "D": "fluxograma"
-        },
-        "correta": "B"
-    },
-    {
-        "id": 27,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Documento usado para comunicação interna rápida",
-        "alternativas": {
-            "A": "ofício",
-            "B": "memorando",
-            "C": "edital",
-            "D": "relatório"
-        },
-        "correta": "B"
-    },
-    {
-        "id": 28,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Lei que contém o orçamento anual",
-        "alternativas": {
-            "A": "PPA",
-            "B": "LDO",
-            "C": "LOA",
-            "D": "LRF"
+            "A": "da legalidade expressa.",
+            "B": "da presunção da inocência.",
+            "C": "da ampla defesa.",
+            "D": "do juízo natural."
         },
         "correta": "C"
     },
+
     {
-        "id": 29,
-        "banca": "Concurso Público",
+        "id": 26,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Princípio que exige atuação sem favorecimento pessoal",
+        "enunciado": "Leia o texto a seguir. (...) são direitos fundamentais do homem, caracterizando-se como verdadeiras liberdades positivas, de observância obrigatória em um Estado de Direito, tendo por finalidade a melhoria de condições de vida aos hipossuficientes, visando à concretização da igualdade social, e são consagrados como fundamentos do Estado democrático. MORAES, Alexandre de. Direito Constitucional. 39 ed. Grupo GEN, 2023. O trecho acima conceitua os direitos constitucionais",
         "alternativas": {
-            "A": "legalidade",
-            "B": "publicidade",
-            "C": "moralidade",
-            "D": "impessoalidade"
+            "A": "políticos.",
+            "B": "culturais.",
+            "C": "individuais.",
+            "D": "sociais."
         },
         "correta": "D"
     },
+
     {
-        "id": 30,
-        "banca": "Concurso Público",
+        "id": 27,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Assinatura abreviada é chamada de",
+        "enunciado": "A Constituição Federal de 1988 elenca, nos primeiros quatro artigos de seu texto, os princípios fundamentais da ordem constitucional. Assim, nos termos do art. 3º, constitui objetivo fundamental da República Federativa do Brasil",
         "alternativas": {
-            "A": "a rogo",
-            "B": "rubrica",
-            "C": "por extenso",
-            "D": "digital"
+            "A": "buscar a integração econômica, política, social e cultural dos povos da América Latina para o progresso regional.",
+            "B": "erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "C": "assegurar o livre exercício dos cultos religiosos e garantir a proteção aos locais de culto e a suas liturgias.",
+            "D": "promover a cooperação entre os povos e igualdade entre os Estados para o progresso da humanidade."
         },
         "correta": "B"
     },
 
     {
-        "id": 31,
-        "banca": "Concurso Público",
+        "id": 28,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Atendimento eficiente ao público requer",
+        "enunciado": "Leia o texto a seguir. Esse dever impõe ao agente público o desempenho de suas atribuições sob pautas que indicam atitudes retas, leais, justas e honestas, notas marcantes da integridade do caráter do homem. É nesse sentido do reto, do leal, do justo e do honesto que deve orientar-se o agente público no desempenho do cargo, função ou emprego junto ao Estado ou entidade por ele criada, sob pena de ilegitimidade de suas ações. O administrador, em obediência a essa orientação, deve buscar o melhor para a Administração Pública. Assim, entre duas opções permitidas pela lei, deve o agente público escolher a mais vantajosa, a melhor. GASPARINI, Diogénes. Direito administrativo. 17 ed. Editora Saraiva, 2019. O agente público, no exercício do cargo, emprego e função pública tem deveres para com a Administração Pública. O trecho acima descreve o dever de",
         "alternativas": {
-            "A": "autoritarismo",
-            "B": "indiferença",
-            "C": "cordialidade",
-            "D": "rigidez"
+            "A": "probidade.",
+            "B": "eficiência.",
+            "C": "impessoalidade.",
+            "D": "legalidade."
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 29,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "O inc. XVI do art. 37 da Constituição Federal de 1988, traz expressamente a vedação de acúmulo remunerado de cargos públicos, exceto, quando houver compatibilidade de horários, nos casos de",
+        "alternativas": {
+            "A": "dois cargos técnicos administrativos de áreas distintas.",
+            "B": "um cargo de profissional de saúde com outro administrativo de área distinta.",
+            "C": "um cargo de professor com outro técnico ou científico.",
+            "D": "dois cargos de professor com outro técnico da área da saúde."
         },
         "correta": "C"
+    },
+
+    {
+        "id": 30,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "A Lei n° 11.892/2008 institui a Rede Federal de Educação Profissional, Científica e Tecnológica e cria os Institutos Federais de Educação, Ciência e Tecnologia. Nos termos do art. 11 da referida lei, os Institutos Federais terão como órgão executivo a reitoria, composta por",
+        "alternativas": {
+            "A": "um reitor e quatro gerentes administrativos setoriais.",
+            "B": "um reitor e dois pró-reitores.",
+            "C": "um diretor-geral e três reitores.",
+            "D": "um reitor e cinco pró-reitores."
+        },
+        "correta": "D"
+    },
+
+    {
+        "id": 31,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "No processo administrativo, a função que tem como objetivo colocar em prática o que foi definido, alocando recursos e dividindo o trabalho é",
+        "alternativas": {
+            "A": "a organização.",
+            "B": "o planejamento.",
+            "C": "a direção.",
+            "D": "o controle."
+        },
+        "correta": "A"
     },
     {
         "id": 32,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento expedido para autoridades externas",
+        "enunciado": "Qual a função no processo administrativo que envolve a definição de padrões de performance, comparação dos resultados e implementação de ações corretivas necessárias?",
         "alternativas": {
-            "A": "ata",
-            "B": "memorando",
-            "C": "ofício",
-            "D": "relatório"
+            "A": "Planejamento estratégico.",
+            "B": "Metas.",
+            "C": "Organização.",
+            "D": "Controle."
         },
-        "correta": "C"
+        "correta": "D"
     },
     {
         "id": 33,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Processo formal de contratação pública é a",
+        "enunciado": "Leia o texto a seguir. Entre as principais atividades desta área de gestão, estão o transporte, a movimentação de materiais, o armazenamento, o processamento de pedidos e o gerenciamento de informações. O texto refere-se",
         "alternativas": {
-            "A": "adjudicação",
-            "B": "licitação",
-            "C": "homologação",
-            "D": "ratificação"
+            "A": "ao estoque.",
+            "B": "à logística.",
+            "C": "ao setor de produção.",
+            "D": "à tecnologia da informação."
         },
         "correta": "B"
     },
     {
         "id": 34,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento decisório no processo administrativo",
+        "enunciado": "O conceito de estoque de segurança na gestão de materiais está relacionado",
         "alternativas": {
-            "A": "parecer",
-            "B": "despacho",
-            "C": "edital",
-            "D": "requerimento"
-        },
-        "correta": "B"
-    },
-    {
-        "id": 35,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Área responsável pela gestão de pessoas",
-        "alternativas": {
-            "A": "financeiro",
-            "B": "compras",
-            "C": "RH",
-            "D": "arquivo"
+            "A": "à quantidade de produtos especificados no pedido de compra.",
+            "B": "à quantidade de produtos não especificados no pedido de compra.",
+            "C": "à quantidade mínima de produtos no estoque.",
+            "D": "à quantidade máxima de produtos no estoque."
         },
         "correta": "C"
     },
+
     {
-        "id": 36,
-        "banca": "Concurso Público",
+        "id": 35,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Prestação de contas denomina-se",
+        "enunciado": "As leis que estabelecem o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais são de iniciativa do",
         "alternativas": {
-            "A": "compliance",
-            "B": "accountability",
-            "C": "benchmarking",
-            "D": "governabilidade"
+            "A": "Poder Executivo.",
+            "B": "Poder Legislativo.",
+            "C": "Congresso Nacional.",
+            "D": "Senado Federal."
         },
-        "correta": "B"
+        "correta": "A"
+    },
+    {
+        "id": 36,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Qual instância é responsável pela apreciação dos projetos de Lei Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA), após iniciados?",
+        "alternativas": {
+            "A": "A Advocacia Pública.",
+            "B": "A Defensoria Pública.",
+            "C": "O Tribunal de Contas da União.",
+            "D": "O Congresso Nacional."
+        },
+        "correta": "D"
     },
     {
         "id": 37,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Meio de comunicação entre emissor e receptor",
+        "enunciado": "As licitações de âmbito internacional terão, em virtude de lei",
         "alternativas": {
-            "A": "canal",
-            "B": "ruído",
-            "C": "código",
-            "D": "mensagem"
+            "A": "os editais ajustados às diretrizes da política monetária e do comércio exterior.",
+            "B": "as garantias de pagamento ao licitante brasileiro diferentes daquelas dos licitantes estrangeiros.",
+            "C": "as propostas como inibidoras da participação de empresas de outros países.",
+            "D": "os pagamentos aos licitantes brasileiros diferentes àquelas oferecidas ao licitante estrangeiro."
         },
         "correta": "A"
     },
     {
         "id": 38,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento comprobatório simples chama-se",
+        "enunciado": "A Lei n° 14.133/2021 (Lei de Licitações e Contratos Administrativos) aplica-se, dentre outros à",
         "alternativas": {
-            "A": "ata",
-            "B": "declaração",
-            "C": "relatório",
-            "D": "edital"
-        },
-        "correta": "B"
-    },
-    {
-        "id": 39,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Conjunto de bens armazenados é denominado",
-        "alternativas": {
-            "A": "layout",
-            "B": "curva ABC",
-            "C": "estoque",
-            "D": "arranjo físico"
+            "A": "operação de crédito, interno ou externo.",
+            "B": "contratação de agente financeiro.",
+            "C": "concessão e permissão de uso de bens públicos.",
+            "D": "prestação de serviços, exceto, técnico-profissionais especializado."
         },
         "correta": "C"
     },
     {
-        "id": 40,
-        "banca": "Concurso Público",
+        "id": 39,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Princípio que exige rapidez e economia",
+        "enunciado": "O pregão na forma eletrônica é uma modalidade da licitação e sua realização observa algumas etapas sucessivas. Qual é a primeira etapa desta modalidade?",
         "alternativas": {
-            "A": "legalidade",
-            "B": "moralidade",
-            "C": "publicidade",
-            "D": "eficiência"
+            "A": "Publicação do aviso de edital.",
+            "B": "Planejamento da contratação.",
+            "C": "Apresentação de propostas e de documentos de habilitação.",
+            "D": "Abertura da sessão pública e envio de lances ou fase competitiva."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 40,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "No processo de licitação, a modalidade pregão é exigida da parte do licitante, para sua habilitação, mediante comprovação, dentre outros",
+        "alternativas": {
+            "A": "o Cadastro de Pessoa Física (CPF) e comprovante de isenção fiscal.",
+            "B": "o compromisso público e não particular de constituição de consórcio.",
+            "C": "a qualificação ambiental.",
+            "D": "a regularidade fiscal e trabalhista."
         },
         "correta": "D"
     },
-
     {
         "id": 41,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento usado para convocar reunião",
+        "enunciado": "O acervo de arquivos de determinada unidade organizacional é constituído por",
         "alternativas": {
-            "A": "convocação",
-            "B": "ata",
-            "C": "relatório",
-            "D": "declaração"
+            "A": "documentos produzidos e recebidos.",
+            "B": "documentos produzidos e encaminhados.",
+            "C": "documentos recebidos e inutilizados.",
+            "D": "documentos recebidos e encaminhados."
         },
         "correta": "A"
     },
     {
         "id": 42,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Arquivo de uso corrente chama-se",
+        "enunciado": "Os documentos públicos em curso ou que, mesmo sem movimentação, constituam objeto de consultas frequentes são identificados como",
         "alternativas": {
-            "A": "intermediário",
-            "B": "permanente",
-            "C": "corrente",
-            "D": "histórico"
-        },
-        "correta": "C"
-    },
-    {
-        "id": 43,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Área responsável por compras",
-        "alternativas": {
-            "A": "RH",
-            "B": "logística",
-            "C": "financeiro",
-            "D": "patrimônio"
+            "A": "documentos intermediários.",
+            "B": "documentos correntes.",
+            "C": "documentos permanentes.",
+            "D": "documentos informativos."
         },
         "correta": "B"
     },
     {
-        "id": 44,
-        "banca": "Concurso Público",
+        "id": 43,
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento formal dirigido a órgão externo",
+        "enunciado": "Qual o princípio da Administração Pública exige que a atividade administrativa seja pautada pela lei, mas também pela boa-fé, lealdade e probidade, obedecendo, também a lei ética da própria instituição, ou seja, o administrador público precisa seguir padrões éticos?",
         "alternativas": {
-            "A": "memorando",
-            "B": "ata",
-            "C": "ofício",
-            "D": "comunicado"
+            "A": "Legalidade.",
+            "B": "Impessoalidade.",
+            "C": "Eficiência.",
+            "D": "Moralidade."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 44,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Uma das ferramentas da Gestão da Qualidade é o PDCA. Esta ferramenta é conceituada por ser um",
+        "alternativas": {
+            "A": "diagrama de causa e efeito desenvolvido para representar a relação entre o efeito e todas as possibilidades que podem contribuir para sua ocorrência.",
+            "B": "método de geração coletiva de novas ideias pela contribuição e pela participação de diversos indivíduos inseridos em um grupo, sendo estruturado de maneira rígida em torno de um determinado objetivo.",
+            "C": "ciclo de melhoria contínua, visando identificar e organizar as atividades de um processo de solução de problemas, a fim de garantir o desenvolvimento de uma atividade planejada.",
+            "D": "estudo da possível relação entre duas variáveis, sendo construído por eixo horizontal, que representa os valores medidos de uma variável e um eixo vertical, representando valores de outra variável."
         },
         "correta": "C"
     },
     {
         "id": 45,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Conjunto de bens públicos chama-se",
+        "enunciado": "Leia o texto a seguir. Padronização de procedimentos, eliminação de atividades desnecessárias, otimização de processos e recursos, redução de custos, maximização de resultados, racionalização na distribuição de tarefas, elaboração de manuais e formulários, melhor distribuição do espaço através da otimização do layout. No texto constam as finalidades de uma das áreas da administração. Tais finalidades listadas são da área de",
         "alternativas": {
-            "A": "estoque",
-            "B": "patrimônio",
-            "C": "acervo",
-            "D": "arquivo"
+            "A": "organização, sistemas e métodos.",
+            "B": "planejamento nas esferas estratégicas, táticas e operacionais.",
+            "C": "controle organizacional, auditoria e controladoria.",
+            "D": "tecnologia, processos e informação."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 46,
+        "banca": "AUX.ADM UFG",
+        "ano": 2024,
+        "materia": "Assistente em Administração",
+        "enunciado": "Leia o texto a seguir. [...] são um conjunto de tecnologias que disponibiliza os meios necessários à operação do processo decisório em qualquer organização por meio do tratamento dos dados disponíveis. O texto trata-se do conceito de",
+        "alternativas": {
+            "A": "Sistemas de Informática para Gestores.",
+            "B": "Sistemas de Informações Gerenciais.",
+            "C": "Sistemas de Tecnologia de Dados.",
+            "D": "Sistemas de Transição de Dados."
         },
         "correta": "B"
     },
     {
-        "id": 46,
-        "banca": "Concurso Público",
-        "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Documento para relatar atividades chama-se",
-        "alternativas": {
-            "A": "ata",
-            "B": "ofício",
-            "C": "relatório",
-            "D": "memorando"
-        },
-        "correta": "C"
-    },
-    {
         "id": 47,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Princípio que proíbe promoção pessoal",
+        "enunciado": "Quais são os principais recursos da área de Tecnologia da Informação?",
         "alternativas": {
-            "A": "moralidade",
-            "B": "legalidade",
-            "C": "publicidade",
-            "D": "impessoalidade"
+            "A": "Recursos de software, recursos de aplicativos e recursos de hardware.",
+            "B": "Dispositivos de entrada, dispositivo de saída e dispositivo de processamento.",
+            "C": "Dispositivo de saída, dispositivos de sistema e dispositivos de entrada.",
+            "D": "Recursos de hardware, recursos de software e recursos de rede."
         },
         "correta": "D"
     },
     {
         "id": 48,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento interno de orientação chama-se",
+        "enunciado": "Leia o texto a seguir. [...] é a função administrativa que se refere às relações (papéis) interpessoais dos gestores com seus subordinados. Depende de liderança, de comunicação e de motivação. [...] aciona e dinamiza a empresa a funcionar. O texto mencionado refere-se a qual função do processo administrativo?",
         "alternativas": {
-            "A": "portaria",
-            "B": "memorando",
-            "C": "edital",
-            "D": "ata"
+            "A": "Direção.",
+            "B": "Organização.",
+            "C": "Controle.",
+            "D": "Eficiência."
         },
         "correta": "A"
     },
     {
         "id": 49,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Controle físico de bens denomina-se",
+        "enunciado": "De acordo com o decreto que regulamenta a licitação, na modalidade pregão, na forma eletrônica (Decreto n° 10.024/2019), caberá ao pregoeiro, dentre outras atribuições",
         "alternativas": {
-            "A": "inventário",
-            "B": "licitação",
-            "C": "tombamento",
-            "D": "registro"
+            "A": "remeter, no prazo estabelecido, exclusivamente via sistema, os documentos de habilitação e a proposta e, quando necessário, os documentos complementares.",
+            "B": "solicitar o cancelamento da chave de identificação ou da senha de acesso por interesse próprio.",
+            "C": "sanear erros ou falhas que não alterem a substância das propostas, dos documentos de habilitação e sua validade jurídica.",
+            "D": "responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pelo sistema ou de sua desconexão."
         },
-        "correta": "A"
+        "correta": "C"
     },
     {
         "id": 50,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Documento que comprova entrega de material",
+        "enunciado": "De acordo com a Lei de Licitações e Contratos Administrativos o que é “melhor técnica ou conteúdo artístico”?",
         "alternativas": {
-            "A": "requisição",
-            "B": "nota fiscal",
-            "C": "recibo",
-            "D": "empenho"
+            "A": "Uma das modalidades de licitação.",
+            "B": "Um dos critérios de julgamento das propostas.",
+            "C": "Uma das etapas da habilitação.",
+            "D": "Um dos sistemas de compras e padronização."
         },
-        "correta": "C"
-    }
+        "correta": "B"
+    },
+
 ]
