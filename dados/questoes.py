@@ -2419,7 +2419,7 @@ QUESTOES = [
         },
         "correta": "C"
     },
-    # Questões – Mentalidade Criativa e Empreendedora (continuação)
+# Questões – Mentalidade Criativa e Empreendedora (continuação)
     {
         "id": 11,
         "banca": "UNICESUMAR",
@@ -8160,10 +8160,11 @@ QUESTOES = [
     },
     {
         "id": 1,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Nesta tirinha, a quebra de expectativa que gera o humor resulta da associação entre a linguagem verbal e a linguagem não verbal. A frase “Me passa a manteiga?” colabora para a construção do sentido geral da tira, explicitando o emprego da",
+        "imagem_enunciado": "dados/img/img1.png",
+        "enunciado": "Nesta tirinha, a quebra de expectativa que gera o humor resulta da associação entre a linguagem verbal e a linguagem não verbal. A frase \"Me passa a manteiga?\" colabora para a construção do sentido geral da tira, explicitando o emprego da",
         "alternativas": {
             "A": "intertextualidade",
             "B": "ironia",
@@ -8174,24 +8175,24 @@ QUESTOES = [
     },
     {
         "id": 2,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
+        "materia": "Auxiliar Administrativo",
         "enunciado": "Na tirinha, verifica-se um uso linguístico próprio de situações comunicativas informais, em desacordo com as regras da norma-padrão para a língua escrita, no emprego do",
         "alternativas": {
             "A": "gerúndio no primeiro quadrinho",
             "B": "pronome oblíquo no primeiro quadrinho",
-            "C": "verbo “passar” no primeiro quadrinho",
-            "D": "adjetivo “complexo” no último quadrinho"
+            "C": "verbo \"passar\" no primeiro quadrinho",
+            "D": "adjetivo \"complexo\" no último quadrinho"
         },
         "correta": "C"
     },
     {
         "id": 3,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Segundo a perspectiva do eu poético no poema,",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Leia o Texto 2 para responder às questões 03 e 04.\n\nTexto 2\nEvocação do Recife\n\nA vida não me chegava pelos jornais nem pelos livros\nVinha da boca do povo na língua errada do povo\nLíngua certa do povo\nPorque ele é que fala gostoso o português do Brasil\nAo passo que nós\nO que fazemos\nÉ macaquear\nA sintaxe lusíada…\n\nNesse poema, o eu poético apresenta uma reflexão acerca das variações linguísticas próprias do português brasileiro em relação ao português europeu. Segundo a perspectiva do eu poético,",
         "alternativas": {
             "A": "a língua portuguesa apresenta uma única forma de uso",
             "B": "a variante europeia do português é mais culta e correta",
@@ -8202,10 +8203,10 @@ QUESTOES = [
     },
     {
         "id": 4,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "No poema, a palavra “macaquear” assume o valor semântico de",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "O gênero textual poema é marcado, muitas vezes, pela recorrência ao sentido figurado das palavras. No poema lido, a palavra \"macaquear\" assume o valor semântico de",
         "alternativas": {
             "A": "aplicar",
             "B": "ignorar",
@@ -8216,10 +8217,10 @@ QUESTOES = [
     },
     {
         "id": 5,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "A vírgula após “assim” justifica-se pelo mesmo fenômeno sintático que ocorre em",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Leia o Texto 3 para responder às questões 05 e 06.\n\nTexto 3\n\nA característica da relação do adulto com o velho é a falta de\nreciprocidade que se pode traduzir numa tolerância sem o calor\nda sinceridade. Não se discute com o velho, não se confrontam\nopiniões com as dele, negando-lhe a oportunidade de\ndesenvolver o que só se permite aos amigos: a alteridade, a\ncontradição, o afrontamento e mesmo o conflito. Quantas\nrelações humanas são pobres e banais porque deixamos que o\noutro se expresse de modo repetitivo e porque nos desviamos\ndas áreas de atrito, dos pontos vitais, de tudo o que em nosso\nconfronto pudesse causar o crescimento e a dor! Se a tolerância\ncom os velhos é entendida assim, como uma abdicação do\ndiálogo, melhor seria dar-lhe o nome de banimento ou\ndiscriminação.\n\nBOSI, Ecléa. Memória e sociedade: lembranças de velhos. 1994.\n\nNo período “Se a tolerância com os velhos é entendida assim, como uma abdicação do diálogo, melhor seria dar-lhe o nome de banimento ou discriminação”, a vírgula utilizada depois da palavra “assim” justifica-se pelo mesmo fenômeno sintático que exige o emprego da(s) vírgula(s) que ocorre(m) em:",
         "alternativas": {
             "A": "Maria, embora estivesse chovendo, foi ao clube",
             "B": "Meninos, estudem bastante",
@@ -8230,25 +8231,24 @@ QUESTOES = [
     },
     {
         "id": 6,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "A forma verbal destacada flexiona-se no plural para",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "No período “Não se discute com o velho, não se confrontam opiniões com as dele...”, a forma verbal destacada flexiona-se no plural, para",
         "alternativas": {
             "A": "concordar com o sujeito paciente",
-            "B": "demonstrar voz ativa",
+            "B": "demonstrar a voz ativa da forma verbal",
             "C": "estabelecer relação com o objeto direto",
-            "D": "explicitar sujeito indeterminado"
+            "D": "explicitar um caso de sujeito indeterminado"
         },
         "correta": "A"
     },
-
     {
         "id": 7,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "O texto apresenta características do gênero",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Leia o Texto 4 para responder às questões de 07 a 09.\n\nTexto 4\n\nA fronteira tênue entre heróis e vilões\n\nO conceito de herói está profundamente ligado à cultura que o\ncriou e a quando foi criado, o que significa que ele varia muito\nde lugar para lugar e de época para época. Mesmo assim, a\nfigura do herói aparece nas mais diversas sociedades e eras,\nsempre atendendo a critérios morais e desejos em comum de\ndeterminado povo. Apesar do protagonismo do herói, o que\nseria dele se não houvesse um vilão? Nas narrativas, o vilão\ncostuma ser o antagonista. Os vilões representam aquilo que é\nerrado, injusto, que foge à moral defendida pelo herói. Por não\ncarregar o protagonismo das histórias, o vilão costuma ser um\npersonagem sem profundidade, sem dilemas, sem uma história\nque nos explique o porquê de suas ações. E isso reforça sua\nvilania. Conhecer a história de alguém é um processo\nhumanizador, capaz até de revogar a alcunha de vilão e conferir\nao personagem o título de herói, ou só de uma pessoa comum\nque tem seus defeitos e qualidades. Assim, uma maneira de\nfabricar vilões é não deixar suas histórias serem contadas, é\ncriar uma imagem sobre esses personagens e mantê-los em\nsilêncio.\n\nMIRANDA, Lucas Mascarenhas de. A fronteira tênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: <https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/>. Acesso em: 26 fev. 2024. [Adaptado].\n\nDe acordo com os aspectos composicionais e com a finalidade comunicativa, esse texto apresenta características do gênero textual",
         "alternativas": {
             "A": "anedota",
             "B": "artigo científico",
@@ -8259,24 +8259,24 @@ QUESTOES = [
     },
     {
         "id": 8,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Outra redação correta do trecho é",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Outra elaboração do trecho sobre o conceito de herói, também de acordo com a norma-padrão, está identificada em:",
         "alternativas": {
-            "A": "ligado ao contexto cultural ... a situação onde foi criado",
-            "B": "ligado ao contexto cultural ... à situação em que foi criado",
-            "C": "ligado no contexto cultural ... aonde foi criado",
-            "D": "ligado ao contexto cultural ... a situação na qual foi criado"
+            "A": "ligado ao contexto cultural que o criou e a situação onde foi criado",
+            "B": "ligado ao contexto cultural que o criou e à situação em que foi criado",
+            "C": "ligado no contexto cultural que o criou e a situação aonde foi criado",
+            "D": "ligado ao contexto cultural que o criou e a situação na qual foi criado"
         },
         "correta": "B"
     },
     {
         "id": 9,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Colocando no plural, tem-se",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Reescrevendo a frase no plural, de acordo com a norma-padrão, tem-se",
         "alternativas": {
             "A": "não houvessem vilões",
             "B": "não houvesse vilões",
@@ -8287,40 +8287,39 @@ QUESTOES = [
     },
     {
         "id": 10,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "A oralidade no anúncio objetiva",
+        "materia": "Auxiliar Administrativo",
+        "imagem_enunciado": "dados/img/img2.png",
+        "enunciado": "Nesse anúncio publicitário, o emprego do verbo \"ter\" no lugar de \"haver\" objetiva",
         "alternativas": {
-            "A": "criticar a oralidade",
+            "A": "criticar o emprego da oralidade",
             "B": "destacar a norma-padrão",
             "C": "distanciar registros",
-            "D": "aproximar interlocutor"
+            "D": "aproximar o interlocutor"
         },
         "correta": "D"
-    },
-
-    {
+        },
+        {
         "id": 11,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Qual o valor da entrada?",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Um televisor que custa 5.750,00 à vista foi parcelado em uma entrada e duas parcelas. A primeira parcela de 2.310,00 deve ser paga com trinta dias e a segunda parcela, no valor de R$ 3.630,00 deveria ser paga com sessenta dias após a compra. Se a taxa de juros compostos cobrada pela loja é de 10%, qual é o valor da entrada?",
         "alternativas": {
             "A": "R$ 700,00",
             "B": "R$ 650,00",
             "C": "R$ 600,00",
             "D": "R$ 550,00"
         },
-        "correta": "D"
+        "correta": "A"
     },
-
     {
         "id": 12,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Quantos elementos tem o conjunto simétrico?",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "A diferença simétrica entre os conjuntos A e B é um novo conjunto denotado por AΔB e definido por AΔB = (A-B) U (B-A), onde A-B representa a diferença entre os conjuntos A e B e B-A representa a diferença entre os conjuntos B e A. Qual é o número de elementos no conjunto {1, 2, 3, 4, 5, 6, 7}Δ{0, 2, 4, 6, 8, 10, 12}?",
         "alternativas": {
             "A": "12",
             "B": "10",
@@ -8329,58 +8328,55 @@ QUESTOES = [
         },
         "correta": "C"
     },
-
     {
         "id": 13,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Número de aprovados",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Para ser aprovado em um exame, o candidato precisa ter uma nota maior ou igual a 6,0. Uma turma com 15 candidatos realizou esse exame, e todos tiraram uma nota diferente da outra. Se a mediana dessa turma foi 6,0, então o número de candidatos aprovados",
         "alternativas": {
-            "A": "igual",
-            "B": "menor",
-            "C": "maior",
-            "D": "indeterminado"
+            "A": "foi igual",
+            "B": "foi menor",
+            "C": "foi maior",
+            "D": "não pode ser deduzido"
         },
         "correta": "A"
     },
-
     {
         "id": 14,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Valores lógicos de q",
+        "materia": "Auxiliar Administrativo",
+         "imagem_enunciado": "dados/img/img3.png",
+        "enunciado": "A tabela verdade representada acima demonstra a bicondicional entre as proposições p e q. Os valores lógicos de q que completam a tabela corretamente, de cima para baixo, são respectivamente:",
         "alternativas": {
-            "A": "V,V,F,F",
-            "B": "F,V,F,V",
-            "C": "V,F,V,F",
-            "D": "F,F,V,V"
+            "A": "V, V, F, F",
+            "B": "F, V, F, V",
+            "C": "V, F, V, F",
+            "D": "F, F, V, V"
         },
         "correta": "D"
     },
-
     {
         "id": 15,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
-        "materia": "Assistente em Administração",
-        "enunciado": "Dedução correta",
+        "materia": "Auxiliar Administrativo",
+        "enunciado": "Três pessoas, de iniciais M.V., R.J. e P.K. têm nacionalidades diferentes; argentino, brasileiro e uruguaio. Eles também possuem profissões diferentes; engenheiro, médico e enfermeiro. Sabe-se que: o engenheiro é brasileiro; o enfermeiro não é argentino; R.J. não é uruguaio nem engenheiro e M.V. não é enfermeiro. Sendo assim, deduzimos que:",
         "alternativas": {
             "A": "R.J. é médico",
             "B": "P.K. é brasileiro",
             "C": "M.V. é uruguaio",
             "D": "o médico é uruguaio"
         },
-        "correta": "D"
+        "correta": "A"
     },
-
     {
         "id": 16,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Atalho para exclusão definitiva",
+        "enunciado": "Sobre as técnicas de atalho do sistema operacional Windows em versões mais recentes, tais como as versões 10 e 11, a exclusão definitiva de arquivos selecionados é obtida pela combinação das teclas",
         "alternativas": {
             "A": "CTRL+Delete",
             "B": "SHIFT+Delete",
@@ -8392,10 +8388,10 @@ QUESTOES = [
 
     {
         "id": 17,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Extensões de imagens",
+        "enunciado": "Leia o caso a seguir. Um profissional lida com o desenvolvimento de interfaces para empresas e habitua guardar as suas novas criações em um diretório dedicado. Na última semana, foram identificados vários arquivos no diretório de novas criações, e foi observada uma variedade de extensões de arquivos. Dentre os arquivos identificados, aqueles que são originalmente do tipo imagem têm, por exemplo, as extensões",
         "alternativas": {
             "A": "ODS e PNG",
             "B": "DOC e BMP",
@@ -8407,10 +8403,10 @@ QUESTOES = [
 
     {
         "id": 18,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Opção de verificação ortográfica",
+        "enunciado": "No painel de controle do Windows, há opções de configuração ligadas à digitação de texto. Uma opção própria à verificação ortográfica é",
         "alternativas": {
             "A": "exibir sugestões",
             "B": "realçar palavras erradas",
@@ -8422,10 +8418,10 @@ QUESTOES = [
 
     {
         "id": 19,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Configuração de associação",
+        "enunciado": "Sobre a configuração de aplicativos instalados no sistema Windows, há a associação entre aplicativos e tipos de arquivo. Por exemplo, se a extensão do arquivo indicar que ele é um arquivo de foto (imagem), o arquivo poderá ser automaticamente aberto por um aplicativo específico para a visualização de fotos, ao clicar duas vezes no nome do arquivo via um aplicativo do tipo explorador de arquivos. Essa associação entre o tipo de arquivo e o aplicativo é efetuada na configuração denominada",
         "alternativas": {
             "A": "apps para sites",
             "B": "mapas offline",
@@ -8437,24 +8433,24 @@ QUESTOES = [
 
     {
         "id": 20,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Valores estatísticos",
+        "enunciado": "Um usuário criou uma planilha eletrônica Excel em branco, e digitou apenas o seguinte conteúdo: célula A1 com \"33\"; célula A2 com \"12\"; e célula A3 com \"=A1*A2\". As aspas não fazem parte do conteúdo das células. Ao selecionar o menu “Revisão” e depois selecionar “Estatística da pasta de trabalho”, os valores exibidos para os itens ‘Células com dados’, ‘Tabelas’ e ‘Fórmulas’ são os números, respectivamente:",
         "alternativas": {
-            "A": "3,0,1",
-            "B": "3,1,1",
-            "C": "3,0,3",
-            "D": "3,1,3"
+            "A": "3,0 e 1",
+            "B": "3,1 e 1",
+            "C": "3,0 e 3",
+            "D": "3,1 e 3"
         },
         "correta": "A"
     },
-        {
+    {
         "id": 21,
-        "banca": "Concurso Público",
+        "banca": "AUX.ADM UFG",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "enunciado": "Tipo de improbidade",
+        "enunciado": "Leia o caso a seguir. A.J., técnico tributário do Estado Z, realizou pagamentos via pix, sem observar as normas legais e regulamentares. Por constituírem ato de improbidade administrativa, as operações financeiras resultaram em perda efetiva para os cofres públicos. Com base nas disposições da Lei n° 8.429/1992, o ato praticado por A.J. constitui improbidade administrativa que",
         "alternativas": {
             "A": "enriquecimento ilícito",
             "B": "prejuízo ao erário",

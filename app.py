@@ -35,7 +35,15 @@ if st.session_state.indice < len(questoes):
 
     st.markdown(f"### Questão {st.session_state.indice + 1}/{len(questoes)}")
     st.markdown(f"**{q['banca']} | {q['ano']} | {q['materia']}**")
-    st.markdown(q["enunciado"])
+
+    # =========================
+    # ENUNCIADO (texto ou imagem)
+    # =========================
+    if "imagem_enunciado" in q and q["imagem_enunciado"]:
+        st.image(q["imagem_enunciado"])
+
+    if "enunciado" in q and q["enunciado"]:
+        st.markdown(q["enunciado"])
 
     alternativas_formatadas = [
         f"{letra}) {texto}" for letra, texto in q["alternativas"].items()
