@@ -3,784 +3,705 @@
 
 QUESTOES = [
     {
-        "id": 1,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": (
-            "O texto que tem como objetivo fornecer instruções detalhadas "
-            "sobre como realizar determinada tarefa ou operação é característico da sequência:"
-        ),
-        "alternativas": {
-            "A": "descritiva",
-            "B": "narrativa",
-            "C": "argumentativa",
-            "D": "injuntiva",
-        },
-        "correta": "D",
+      "id": 1,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "O texto que tem como objetivo fornecer instruções detalhadas sobre como realizar determinada tarefa ou operação é característico da sequência:",
+      "alternativas": {
+          "A": "descritiva",
+          "B": "narrativa",
+          "C": "argumentativa",
+          "D": "injuntiva"
+      },
+      "correta": "D"
+   },
+   {
+      "id": 2,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "Há oração subordinada em:",
+      "alternativas": {
+          "A": "Amanhã irei ao cinema.",
+          "B": "Levantou-se, tomou banho, penteou-se e saiu.",
+          "C": "Saiu quando a sessão de cinema terminou.",
+          "D": "Filmes de suspense causam medo."
+      },
+      "correta": "C"
+   },
+   {
+      "id": 3,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "Regência verbal é o processo em que um termo determinante rege outro determinado. É exemplo desse conceito:",
+      "alternativas": {
+          "A": "Vai chover brevemente.",
+          "B": "Tenho horror às baratas.",
+          "C": "Aprecio o cinema brasileiro.",
+          "D": "Sei que nada sei."
+      },
+      "correta": "B"
+   },
+   {
+      "id": 4,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "São figuras de pensamento, isto é, expressões que combinam ideias e conceitos para criar efeitos de sentido:",
+      "alternativas": {
+          "A": "eufemismo e catacrese",
+          "B": "antítese e assonância",
+          "C": "hipérbole e personificação",
+          "D": "gradação e pleonasmo"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 5,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "A variação linguística encontrada no anúncio de 1879 é do tipo:",
+      "alternativas": {
+          "A": "geográfica (diatópica)",
+          "B": "histórica (diacrônica)",
+          "C": "social (diastrática)",
+          "D": "situacional (diafásica)"
+      },
+      "correta": "B"
+   },
+   {
+      "id": 6,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "É exemplo de palavra formada pelo processo de justaposição:",
+      "alternativas": {
+          "A": "guarda-chuva",
+          "B": "terça-feira",
+          "C": "hidrelétrica",
+          "D": "malmequer"
+      },
+      "correta": "A"
+   },
+   {
+      "id": 7,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "O poema indica que o eu lírico feminino:",
+      "alternativas": {
+          "A": "visita rapidamente uma cidade",
+          "B": "lembra-se de sua cidade com saudade",
+          "C": "inventa um lugar para descansar",
+          "D": "personifica um lugar imaginário"
+      },
+      "correta": "B"
+   },
+   {
+      "id": 8,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "A frase que apresenta um numeral cardinal é:",
+      "alternativas": {
+          "A": "Comprei um livro de receitas.",
+          "B": "Preciso apenas de um dos dez livros.",
+          "C": "Encontrei um amigo no parque.",
+          "D": "Um dia iremos nos encontrar."
+      },
+      "correta": "B"
+   },
+   {
+      "id": 9,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "Em “Nunca o vi tão sereno.”, o uso da próclise acontece porque a oração:",
+      "alternativas": {
+          "A": "contém estrutura subordinada",
+          "B": "inverte a ordem de sujeito e predicado",
+          "C": "começa com palavra negativa",
+          "D": "antecipa o verbo ao sujeito"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 10,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2022,
+      "materia": "Língua Portuguesa",
+      "enunciado": "Em “A professora estava com uma saia e um chapéu escuro.”, o adjetivo concorda com:",
+      "alternativas": {
+          "A": "numeral",
+          "B": "verbo",
+          "C": "substantivo mais próximo",
+          "D": "substantivo próprio"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 11,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Uma proposição lógica composta cujo valor lógico é sempre verdadeiro, independentemente dos valores lógicos das proposições simples que a compõem, é denominada:",
+      "alternativas": {
+          "A": "contradição",
+          "B": "contingência",
+          "C": "tautologia",
+          "D": "equivalência"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 12,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Considere as proposições: P: 'Todo servidor é funcionário.' Q: 'Algum funcionário é terceirizado.' É correto afirmar que:",
+      "alternativas": {
+          "A": "todo servidor é terceirizado",
+          "B": "nenhum servidor é terceirizado",
+          "C": "algum terceirizado pode ser servidor",
+          "D": "nenhum funcionário é servidor"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 13,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Raciocínio Lógico",
+      "enunciado": "A sequência lógica a seguir é formada segundo um padrão. 2, 4, 8, 16, ___. Assinale a alternativa que completa corretamente a sequência.",
+      "alternativas": {
+          "A": "18",
+          "B": "20",
+          "C": "24",
+          "D": "32"
+      },
+      "correta": "D"
+   },
+   {
+      "id": 14,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Negando-se a proposição: 'O servidor é eficiente e pontual', obtém-se:",
+      "alternativas": {
+          "A": "O servidor não é eficiente e não é pontual",
+          "B": "O servidor não é eficiente ou não é pontual",
+          "C": "O servidor é ineficiente ou pontual",
+          "D": "O servidor é eficiente ou não é pontual"
+      },
+      "correta": "B"
+   },
+   {
+      "id": 15,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Raciocínio Lógico",
+      "enunciado": "Se a proposição 'Se chove, então a rua molha' é falsa, então é correto afirmar que:",
+      "alternativas": {
+          "A": "chove e a rua molha",
+          "B": "não chove e a rua não molha",
+          "C": "chove e a rua não molha",
+          "D": "não chove e a rua molha"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 16,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Informática",
+      "enunciado": "No sistema operacional Windows, qual atalho de teclado é utilizado para copiar um arquivo ou texto selecionado?",
+      "alternativas": {
+          "A": "Ctrl + X",
+          "B": "Ctrl + V",
+          "C": "Ctrl + C",
+          "D": "Ctrl + Z"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 17,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Informática",
+      "enunciado": "O software utilizado para acessar páginas da internet, como Google Chrome e Mozilla Firefox, é denominado:",
+      "alternativas": {
+          "A": "editor de texto",
+          "B": "sistema operacional",
+          "C": "antivírus",
+          "D": "navegador"
+      },
+      "correta": "D"
+   },
+   {
+      "id": 18,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Informática",
+      "enunciado": "No Microsoft Word, a ferramenta utilizada para alinhar o texto igualmente às margens direita e esquerda é chamada de:",
+      "alternativas": {
+          "A": "alinhamento à esquerda",
+          "B": "centralização",
+          "C": "justificação",
+          "D": "recuo"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 19,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Informática",
+      "enunciado": "Qual dos itens abaixo é considerado um dispositivo de entrada?",
+      "alternativas": {
+          "A": "monitor",
+          "B": "impressora",
+          "C": "caixa de som",
+          "D": "teclado"
+      },
+      "correta": "D"
+   },
+   {
+      "id": 20,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Informática",
+      "enunciado": "Um software utilizado para proteger o computador contra vírus, malwares e outras ameaças digitais é chamado de:",
+      "alternativas": {
+          "A": "firewall",
+          "B": "navegador",
+          "C": "antivírus",
+          "D": "sistema operacional"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 21,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Legislação",
+      "enunciado": "De acordo com a Constituição Federal, a Administração Pública direta e indireta obedecerá, dentre outros, aos princípios de:",
+      "alternativas": {
+          "A": "legalidade, impessoalidade, moralidade, publicidade e eficiência",
+          "B": "legalidade, pessoalidade, moralidade, sigilo e eficiência",
+          "C": "liberdade, legalidade, publicidade e eficiência",
+          "D": "moralidade, hierarquia, eficiência e supremacia"
+      },
+      "correta": "A"
+   },
+   {
+      "id": 22,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Legislação",
+      "enunciado": "O princípio da legalidade, no âmbito da Administração Pública, significa que:",
+      "alternativas": {
+          "A": "o administrador pode agir conforme sua vontade",
+          "B": "a administração só pode agir conforme a lei",
+          "C": "a moralidade se sobrepõe à lei",
+          "D": "o interesse privado prevalece sobre o público"
+      },
+      "correta": "B"
+   },
+   {
+      "id": 23,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Legislação",
+      "enunciado": "O ato administrativo praticado com desvio de finalidade viola o princípio da:",
+      "alternativas": {
+          "A": "legalidade",
+          "B": "eficiência",
+          "C": "impessoalidade",
+          "D": "moralidade"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 24,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Legislação",
+      "enunciado": "A publicidade dos atos administrativos tem como finalidade principal:",
+      "alternativas": {
+          "A": "favorecer interesses particulares",
+          "B": "garantir sigilo absoluto",
+          "C": "permitir o controle social",
+          "D": "aumentar a burocracia"
+      },
+      "correta": "C"
+   },
+   {
+      "id": 25,
+      "banca": "AUX.ADM UFG 2025",
+      "ano": 2025,
+      "materia": "Legislação",
+      "enunciado": "Eficiência, como princípio da Administração Pública, relaciona-se com:",
+      "alternativas": {
+          "A": "cumprimento formal da lei",
+          "B": "obtenção do melhor resultado com menor custo",
+          "C": "atendimento exclusivo ao interesse privado",
+          "D": "rigidez hierárquica"
+      },
+      "correta": "B"
     },
     {
-        "id": 2,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "Há oração subordinada em:",
-        "alternativas": {
-            "A": "Amanhã irei ao cinema.",
-            "B": "Levantou-se, tomou banho, penteou-se e saiu.",
-            "C": "Saiu quando a sessão de cinema terminou.",
-            "D": "Filmes de suspense causam medo.",
+            "id": 26,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Legislação",
+            "enunciado": "Segundo a Lei nº 8.112/1990, o regime jurídico aplicável aos servidores públicos federais é:",
+            "alternativas": {
+                "A": "celetista",
+                "B": "estatutário",
+                "C": "temporário",
+                "D": "terceirizado"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    {
-        "id": 3,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": (
-            "Regência verbal é o processo em que um termo determinante rege outro determinado. "
-            "É exemplo desse conceito:"
-        ),
-        "alternativas": {
-            "A": "Vai chover brevemente.",
-            "B": "Tenho horror às baratas.",
-            "C": "Aprecio o cinema brasileiro.",
-            "D": "Sei que nada sei.",
+        {
+            "id": 27,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Legislação",
+            "enunciado": "A investidura em cargo público ocorre com:",
+            "alternativas": {
+                "A": "a posse",
+                "B": "a nomeação",
+                "C": "o exercício",
+                "D": "a aprovação em concurso"
+            },
+            "correta": "A"
         },
-        "correta": "B",
-    },
-    {
-        "id": 4,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": (
-            "São figuras de pensamento, isto é, expressões que combinam ideias "
-            "e conceitos para criar efeitos de sentido:"
-        ),
-        "alternativas": {
-            "A": "eufemismo e catacrese",
-            "B": "antítese e assonância",
-            "C": "hipérbole e personificação",
-            "D": "gradação e pleonasmo",
+        {
+            "id": 28,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Legislação",
+            "enunciado": "A exoneração do servidor público ocorre, dentre outras hipóteses:",
+            "alternativas": {
+                "A": "como penalidade disciplinar",
+                "B": "a pedido do servidor",
+                "C": "por sentença judicial",
+                "D": "por abandono de cargo"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    {
-        "id": 5,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "A variação linguística encontrada no anúncio de 1879 é do tipo:",
-        "alternativas": {
-            "A": "geográfica (diatópica)",
-            "B": "histórica (diacrônica)",
-            "C": "social (diastrática)",
-            "D": "situacional (diafásica)",
+        {
+            "id": 29,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Legislação",
+            "enunciado": "A penalidade de advertência, prevista na Lei nº 8.112/1990, é aplicada em caso de:",
+            "alternativas": {
+                "A": "infrações graves",
+                "B": "reincidência em faltas médias",
+                "C": "inobservância de dever funcional",
+                "D": "crime contra a administração"
+            },
+            "correta": "C"
         },
-        "correta": "B",
-    },
-    {
-        "id": 6,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "É exemplo de palavra formada pelo processo de justaposição:",
-        "alternativas": {
-            "A": "guarda-chuva",
-            "B": "terça-feira",
-            "C": "hidrelétrica",
-            "D": "malmequer",
+        {
+            "id": 30,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Legislação",
+            "enunciado": "A demissão do servidor público é considerada:",
+            "alternativas": {
+                "A": "ato discricionário",
+                "B": "penalidade administrativa",
+                "C": "ato meramente formal",
+                "D": "benefício funcional"
+            },
+            "correta": "B"
         },
-        "correta": "A",
-    },
-    {
-        "id": 7,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "O poema indica que o eu lírico feminino:",
-        "alternativas": {
-            "A": "visita rapidamente uma cidade",
-            "B": "lembra-se de sua cidade com saudade",
-            "C": "inventa um lugar para descansar",
-            "D": "personifica um lugar imaginário",
+        {
+            "id": 31,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O documento utilizado para registrar oficialmente as decisões tomadas em reuniões é denominado:",
+            "alternativas": {
+                "A": "ofício",
+                "B": "memorando",
+                "C": "ata",
+                "D": "relatório"
+            },
+            "correta": "C"
         },
-        "correta": "B",
-    },
-    {
-        "id": 8,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "A frase que apresenta um numeral cardinal é:",
-        "alternativas": {
-            "A": "Comprei um livro de receitas.",
-            "B": "Preciso apenas de um dos dez livros.",
-            "C": "Encontrei um amigo no parque.",
-            "D": "Um dia iremos nos encontrar.",
+        {
+            "id": 32,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A principal finalidade do protocolo em uma instituição pública é:",
+            "alternativas": {
+                "A": "controlar o acesso dos servidores",
+                "B": "registrar e tramitar documentos",
+                "C": "arquivar documentos antigos",
+                "D": "elaborar documentos oficiais"
+            },
+            "correta": "B"
         },
-        "correta": "B",
-    },
-    {
-        "id": 9,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": "Em “Nunca o vi tão sereno.”, o uso da próclise acontece porque a oração:",
-        "alternativas": {
-            "A": "contém estrutura subordinada",
-            "B": "inverte a ordem de sujeito e predicado",
-            "C": "começa com palavra negativa",
-            "D": "antecipa o verbo ao sujeito",
+        {
+            "id": 33,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O arquivamento de documentos por ordem alfabética é classificado como método:",
+            "alternativas": {
+                "A": "numérico",
+                "B": "cronológico",
+                "C": "alfabético",
+                "D": "geográfico"
+            },
+            "correta": "C"
         },
-        "correta": "C",
-    },
-    {
-        "id": 10,
-        "banca": "TAE",
-        "ano": 2022,
-        "materia": "Língua Portuguesa",
-        "enunciado": (
-            "Em “A professora estava com uma saia e um chapéu escuro.”, "
-            "o adjetivo concorda com:"
-        ),
-        "alternativas": {
-            "A": "numeral",
-            "B": "verbo",
-            "C": "substantivo mais próximo",
-            "D": "substantivo próprio",
+        {
+            "id": 34,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "Documento oficial utilizado para comunicação interna entre setores de uma mesma instituição é o:",
+            "alternativas": {
+                "A": "edital",
+                "B": "memorando",
+                "C": "ofício",
+                "D": "circular"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-
-# dados/questoes_rc.py
-# Questões de Raciocínio Lógico – TAE
-
-    {
-        "id": 11,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Raciocínio Lógico",
-        "enunciado": (
-            "Uma proposição lógica composta cujo valor lógico é sempre verdadeiro, "
-            "independentemente dos valores lógicos das proposições simples que a compõem, "
-            "é denominada:"
-        ),
-        "alternativas": {
-            "A": "contradição",
-            "B": "contingência",
-            "C": "tautologia",
-            "D": "equivalência",
+        {
+            "id": 35,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O princípio arquivístico que determina que os documentos devem ser mantidos conforme sua origem é chamado de:",
+            "alternativas": {
+                "A": "classificação",
+                "B": "ordenação",
+                "C": "proveniência",
+                "D": "temporalidade"
+            },
+            "correta": "C"
         },
-        "correta": "C",
-    },
-    {
-        "id": 12,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Raciocínio Lógico",
-        "enunciado": (
-            "Considere as proposições: "
-            "P: 'Todo servidor é funcionário.' "
-            "Q: 'Algum funcionário é terceirizado.' "
-            "É correto afirmar que:"
-        ),
-        "alternativas": {
-            "A": "todo servidor é terceirizado",
-            "B": "nenhum servidor é terceirizado",
-            "C": "algum terceirizado pode ser servidor",
-            "D": "nenhum funcionário é servidor",
+        {
+            "id": 36,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A tabela de temporalidade documental tem como principal objetivo:",
+            "alternativas": {
+                "A": "eliminar documentos sem critério",
+                "B": "definir prazos de guarda e destinação",
+                "C": "classificar documentos por assunto",
+                "D": "digitalizar documentos antigos"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    {
-        "id": 13,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Raciocínio Lógico",
-        "enunciado": (
-            "A sequência lógica a seguir é formada segundo um padrão. "
-            "2, 4, 8, 16, ___. Assinale a alternativa que completa corretamente a sequência."
-        ),
-        "alternativas": {
-            "A": "18",
-            "B": "20",
-            "C": "24",
-            "D": "32",
+        {
+            "id": 37,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "Qual das alternativas representa um exemplo de documento oficial?",
+            "alternativas": {
+                "A": "bilhete",
+                "B": "recado informal",
+                "C": "ofício",
+                "D": "mensagem pessoal"
+            },
+            "correta": "C"
         },
-        "correta": "D",
-    },
-    {
-        "id": 14,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Raciocínio Lógico",
-        "enunciado": (
-            "Negando-se a proposição: "
-            "'O servidor é eficiente e pontual', obtém-se:"
-        ),
-        "alternativas": {
-            "A": "O servidor não é eficiente e não é pontual",
-            "B": "O servidor não é eficiente ou não é pontual",
-            "C": "O servidor é ineficiente ou pontual",
-            "D": "O servidor é eficiente ou não é pontual",
+        {
+            "id": 38,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "No atendimento ao público, considera-se postura adequada do servidor:",
+            "alternativas": {
+                "A": "tratar todos de forma diferenciada",
+                "B": "agir com cordialidade e respeito",
+                "C": "priorizar interesses pessoais",
+                "D": "recusar informações ao usuário"
+            },
+            "correta": "B"
         },
-        "correta": "B",
-    },
-    {
-        "id": 15,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Raciocínio Lógico",
-        "enunciado": (
-            "Se a proposição 'Se chove, então a rua molha' é falsa, "
-            "então é correto afirmar que:"
-        ),
-        "alternativas": {
-            "A": "chove e a rua molha",
-            "B": "não chove e a rua não molha",
-            "C": "chove e a rua não molha",
-            "D": "não chove e a rua molha",
+        {
+            "id": 39,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A digitalização de documentos tem como vantagem principal:",
+            "alternativas": {
+                "A": "aumento do volume físico",
+                "B": "dificuldade de acesso",
+                "C": "agilidade na recuperação da informação",
+                "D": "eliminação automática do documento físico"
+            },
+            "correta": "C"
         },
-        "correta": "C",
-    },
-
-    # dados/questoes_informatica.py
-# Questões de Informática – TAE
-
-    {
-        "id": 16,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Informática",
-        "enunciado": (
-            "No sistema operacional Windows, qual atalho de teclado é utilizado "
-            "para copiar um arquivo ou texto selecionado?"
-        ),
-        "alternativas": {
-            "A": "Ctrl + X",
-            "B": "Ctrl + V",
-            "C": "Ctrl + C",
-            "D": "Ctrl + Z",
+        {
+            "id": 40,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A comunicação escrita no serviço público deve ser, prioritariamente:",
+            "alternativas": {
+                "A": "subjetiva e informal",
+                "B": "clara, objetiva e impessoal",
+                "C": "longa e detalhada",
+                "D": "técnica e sigilosa em todos os casos"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    {
-        "id": 17,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Informática",
-        "enunciado": (
-            "O software utilizado para acessar páginas da internet, como Google Chrome "
-            "e Mozilla Firefox, é denominado:"
-        ),
-        "alternativas": {
-            "A": "editor de texto",
-            "B": "sistema operacional",
-            "C": "antivírus",
-            "D": "navegador",
+        {
+            "id": 41,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O controle de entrada e saída de documentos é atribuição do setor de:",
+            "alternativas": {
+                "A": "arquivo permanente",
+                "B": "protocolo",
+                "C": "almoxarifado",
+                "D": "recursos humanos"
+            },
+            "correta": "B"
         },
-        "correta": "D",
-    },
-    {
-        "id": 18,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Informática",
-        "enunciado": (
-            "No Microsoft Word, a ferramenta utilizada para alinhar o texto "
-            "igualmente às margens direita e esquerda é chamada de:"
-        ),
-        "alternativas": {
-            "A": "alinhamento à esquerda",
-            "B": "centralização",
-            "C": "justificação",
-            "D": "recuo",
+        {
+            "id": 42,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "Qual documento é utilizado para comunicação externa entre órgãos públicos?",
+            "alternativas": {
+                "A": "memorando",
+                "B": "ata",
+                "C": "ofício",
+                "D": "aviso interno"
+            },
+            "correta": "C"
         },
-        "correta": "C",
-    },
-    {
-        "id": 19,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Informática",
-        "enunciado": (
-            "Qual dos itens abaixo é considerado um dispositivo de entrada?"
-        ),
-        "alternativas": {
-            "A": "monitor",
-            "B": "impressora",
-            "C": "caixa de som",
-            "D": "teclado",
+        {
+            "id": 43,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A ética no serviço público exige do servidor:",
+            "alternativas": {
+                "A": "vantagem pessoal",
+                "B": "imparcialidade e honestidade",
+                "C": "sigilo absoluto sempre",
+                "D": "obediência apenas aos superiores"
+            },
+            "correta": "B"
         },
-        "correta": "D",
-    },
-    {
-        "id": 20,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Informática",
-        "enunciado": (
-            "Um software utilizado para proteger o computador contra vírus, "
-            "malwares e outras ameaças digitais é chamado de:"
-        ),
-        "alternativas": {
-            "A": "firewall",
-            "B": "navegador",
-            "C": "antivírus",
-            "D": "sistema operacional",
+        {
+            "id": 44,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A função do almoxarifado em uma instituição pública é:",
+            "alternativas": {
+                "A": "arquivar documentos",
+                "B": "controlar materiais de consumo",
+                "C": "gerenciar servidores",
+                "D": "emitir documentos oficiais"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    # dados/questoes_legislacao.py
-# Questões de Legislação / Administração Pública – TAE
-
-    {
-        "id": 21,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "De acordo com a Constituição Federal, a Administração Pública direta e indireta "
-            "obedecerá, dentre outros, aos princípios de:"
-        ),
-        "alternativas": {
-            "A": "legalidade, impessoalidade, moralidade, publicidade e eficiência",
-            "B": "legalidade, pessoalidade, moralidade, sigilo e eficiência",
-            "C": "liberdade, legalidade, publicidade e eficiência",
-            "D": "moralidade, hierarquia, eficiência e supremacia",
+        {
+            "id": 45,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O planejamento das atividades administrativas contribui para:",
+            "alternativas": {
+                "A": "aumento da improvisação",
+                "B": "redução da eficiência",
+                "C": "melhoria dos resultados",
+                "D": "centralização excessiva"
+            },
+            "correta": "C"
         },
-        "correta": "A",
-    },
-    {
-        "id": 22,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "O princípio da legalidade, no âmbito da Administração Pública, significa que:"
-        ),
-        "alternativas": {
-            "A": "o administrador pode agir conforme sua vontade",
-            "B": "a administração só pode agir conforme a lei",
-            "C": "a moralidade se sobrepõe à lei",
-            "D": "o interesse privado prevalece sobre o público",
+        {
+            "id": 46,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O atendimento telefônico no serviço público deve ser:",
+            "alternativas": {
+                "A": "rápido e impessoal",
+                "B": "cordial e objetivo",
+                "C": "informal e direto",
+                "D": "restrito aos superiores"
+            },
+            "correta": "B"
         },
-        "correta": "B",
-    },
-    {
-        "id": 23,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "O ato administrativo praticado com desvio de finalidade viola o princípio da:"
-        ),
-        "alternativas": {
-            "A": "legalidade",
-            "B": "eficiência",
-            "C": "impessoalidade",
-            "D": "moralidade",
+        {
+            "id": 47,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A organização de documentos por data caracteriza o método:",
+            "alternativas": {
+                "A": "alfabético",
+                "B": "numérico",
+                "C": "cronológico",
+                "D": "geográfico"
+            },
+            "correta": "C"
         },
-        "correta": "C",
-    },
-    {
-        "id": 24,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "A publicidade dos atos administrativos tem como finalidade principal:"
-        ),
-        "alternativas": {
-            "A": "favorecer interesses particulares",
-            "B": "garantir sigilo absoluto",
-            "C": "permitir o controle social",
-            "D": "aumentar a burocracia",
+        {
+            "id": 48,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O sigilo das informações no serviço público deve ser mantido quando:",
+            "alternativas": {
+                "A": "houver interesse pessoal",
+                "B": "determinado por lei",
+                "C": "o servidor julgar necessário",
+                "D": "a informação for antiga"
+            },
+            "correta": "B"
         },
-        "correta": "C",
-    },
-    {
-        "id": 25,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "Eficiência, como princípio da Administração Pública, relaciona-se com:"
-        ),
-        "alternativas": {
-            "A": "cumprimento formal da lei",
-            "B": "obtenção do melhor resultado com menor custo",
-            "C": "atendimento exclusivo ao interesse privado",
-            "D": "rigidez hierárquica",
+        {
+            "id": 49,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "A gestão eficiente do tempo no trabalho contribui para:",
+            "alternativas": {
+                "A": "acúmulo de tarefas",
+                "B": "redução da produtividade",
+                "C": "melhor desempenho profissional",
+                "D": "aumento de retrabalho"
+            },
+            "correta": "C"
         },
-        "correta": "B",
-    },
-    {
-        "id": 26,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "Segundo a Lei nº 8.112/1990, o regime jurídico aplicável aos servidores públicos federais é:"
-        ),
-        "alternativas": {
-            "A": "celetista",
-            "B": "estatutário",
-            "C": "temporário",
-            "D": "terceirizado",
+        {
+            "id": 50,
+            "banca": "AUX.ADM UFG 2025",
+            "ano": 2025,
+            "materia": "Conhecimentos Específicos",
+            "enunciado": "O trabalho em equipe no serviço público favorece:",
+            "alternativas": {
+                "A": "competição excessiva",
+                "B": "isolamento funcional",
+                "C": "integração e cooperação",
+                "D": "centralização das decisões"
+            },
+            "correta": "C"
         },
-        "correta": "B",
-    },
-    {
-        "id": 27,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "A investidura em cargo público ocorre com:"
-        ),
-        "alternativas": {
-            "A": "a posse",
-            "B": "a nomeação",
-            "C": "o exercício",
-            "D": "a aprovação em concurso",
-        },
-        "correta": "A",
-    },
-    {
-        "id": 28,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "A exoneração do servidor público ocorre, dentre outras hipóteses:"
-        ),
-        "alternativas": {
-            "A": "como penalidade disciplinar",
-            "B": "a pedido do servidor",
-            "C": "por sentença judicial",
-            "D": "por abandono de cargo",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 29,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "A penalidade de advertência, prevista na Lei nº 8.112/1990, é aplicada em caso de:"
-        ),
-        "alternativas": {
-            "A": "infrações graves",
-            "B": "reincidência em faltas médias",
-            "C": "inobservância de dever funcional",
-            "D": "crime contra a administração",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 30,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Legislação",
-        "enunciado": (
-            "A demissão do servidor público é considerada:"
-        ),
-        "alternativas": {
-            "A": "ato discricionário",
-            "B": "penalidade administrativa",
-            "C": "ato meramente formal",
-            "D": "benefício funcional",
-        },
-        "correta": "B",
-    },
-    # dados/questoes_conhecimentos_especificos.py
-# Conhecimentos Específicos – Cargo Técnico Administrativo em Educação (TAE)
-
-    {
-        "id": 31,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O documento utilizado para registrar oficialmente as decisões tomadas em reuniões é denominado:",
-        "alternativas": {
-            "A": "ofício",
-            "B": "memorando",
-            "C": "ata",
-            "D": "relatório",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 32,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A principal finalidade do protocolo em uma instituição pública é:",
-        "alternativas": {
-            "A": "controlar o acesso dos servidores",
-            "B": "registrar e tramitar documentos",
-            "C": "arquivar documentos antigos",
-            "D": "elaborar documentos oficiais",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 33,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O arquivamento de documentos por ordem alfabética é classificado como método:",
-        "alternativas": {
-            "A": "numérico",
-            "B": "cronológico",
-            "C": "alfabético",
-            "D": "geográfico",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 34,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "Documento oficial utilizado para comunicação interna entre setores de uma mesma instituição é o:",
-        "alternativas": {
-            "A": "edital",
-            "B": "memorando",
-            "C": "ofício",
-            "D": "circular",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 35,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O princípio arquivístico que determina que os documentos devem ser mantidos conforme sua origem é chamado de:",
-        "alternativas": {
-            "A": "classificação",
-            "B": "ordenação",
-            "C": "proveniência",
-            "D": "temporalidade",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 36,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A tabela de temporalidade documental tem como principal objetivo:",
-        "alternativas": {
-            "A": "eliminar documentos sem critério",
-            "B": "definir prazos de guarda e destinação",
-            "C": "classificar documentos por assunto",
-            "D": "digitalizar documentos antigos",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 37,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "Qual das alternativas representa um exemplo de documento oficial?",
-        "alternativas": {
-            "A": "bilhete",
-            "B": "recado informal",
-            "C": "ofício",
-            "D": "mensagem pessoal",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 38,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "No atendimento ao público, considera-se postura adequada do servidor:",
-        "alternativas": {
-            "A": "tratar todos de forma diferenciada",
-            "B": "agir com cordialidade e respeito",
-            "C": "priorizar interesses pessoais",
-            "D": "recusar informações ao usuário",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 39,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A digitalização de documentos tem como vantagem principal:",
-        "alternativas": {
-            "A": "aumento do volume físico",
-            "B": "dificuldade de acesso",
-            "C": "agilidade na recuperação da informação",
-            "D": "eliminação automática do documento físico",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 40,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A comunicação escrita no serviço público deve ser, prioritariamente:",
-        "alternativas": {
-            "A": "subjetiva e informal",
-            "B": "clara, objetiva e impessoal",
-            "C": "longa e detalhada",
-            "D": "técnica e sigilosa em todos os casos",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 41,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O controle de entrada e saída de documentos é atribuição do setor de:",
-        "alternativas": {
-            "A": "arquivo permanente",
-            "B": "protocolo",
-            "C": "almoxarifado",
-            "D": "recursos humanos",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 42,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "Qual documento é utilizado para comunicação externa entre órgãos públicos?",
-        "alternativas": {
-            "A": "memorando",
-            "B": "ata",
-            "C": "ofício",
-            "D": "aviso interno",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 43,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A ética no serviço público exige do servidor:",
-        "alternativas": {
-            "A": "vantagem pessoal",
-            "B": "imparcialidade e honestidade",
-            "C": "sigilo absoluto sempre",
-            "D": "obediência apenas aos superiores",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 44,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A função do almoxarifado em uma instituição pública é:",
-        "alternativas": {
-            "A": "arquivar documentos",
-            "B": "controlar materiais de consumo",
-            "C": "gerenciar servidores",
-            "D": "emitir documentos oficiais",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 45,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O planejamento das atividades administrativas contribui para:",
-        "alternativas": {
-            "A": "aumento da improvisação",
-            "B": "redução da eficiência",
-            "C": "melhoria dos resultados",
-            "D": "centralização excessiva",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 46,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O atendimento telefônico no serviço público deve ser:",
-        "alternativas": {
-            "A": "rápido e impessoal",
-            "B": "cordial e objetivo",
-            "C": "informal e direto",
-            "D": "restrito aos superiores",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 47,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A organização de documentos por data caracteriza o método:",
-        "alternativas": {
-            "A": "alfabético",
-            "B": "numérico",
-            "C": "cronológico",
-            "D": "geográfico",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 48,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O sigilo das informações no serviço público deve ser mantido quando:",
-        "alternativas": {
-            "A": "houver interesse pessoal",
-            "B": "determinado por lei",
-            "C": "o servidor julgar necessário",
-            "D": "a informação for antiga",
-        },
-        "correta": "B",
-    },
-    {
-        "id": 49,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "A gestão eficiente do tempo no trabalho contribui para:",
-        "alternativas": {
-            "A": "acúmulo de tarefas",
-            "B": "redução da produtividade",
-            "C": "melhor desempenho profissional",
-            "D": "aumento de retrabalho",
-        },
-        "correta": "C",
-    },
-    {
-        "id": 50,
-        "banca": "TAE",
-        "ano": 2025,
-        "materia": "Conhecimentos Específicos",
-        "enunciado": "O trabalho em equipe no serviço público favorece:",
-        "alternativas": {
-            "A": "competição excessiva",
-            "B": "isolamento funcional",
-            "C": "integração e cooperação",
-            "D": "centralização das decisões",
-        },
-        "correta": "C",
-    },
 # dados/questoes_ufg.py
 # Prova UFG – História e Geografia de Goiás e Goiânia (30 questões)
 
@@ -7741,7 +7662,7 @@ QUESTOES = [
         "banca": "AUX.ADM UFG 2024",
         "ano": 2024,
         "materia": "Assistente em Administração",
-        "imagem_enunciado": "dados/img/img.png",
+        "imagem_enunciado": "dados/img/img4.png",
         "enunciado": "Uma calçada foi construída ao redor de uma casa, cuja vista superior está representada na figura a seguir. Um pintor cobra 20,00 reais para pintar cada metro quadrado da calçada. O custo para contratar esse serviço será de",
         "alternativas": {
             "A": "2.420,00 reais.",
@@ -8900,5 +8821,849 @@ QUESTOES = [
         },
         "correta": "B"
     },
-
+    {
+        "id": 1,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "imagem_enunciado": "dados/img/img8.png",
+        "enunciado": "O gênero textual charge é marcado pelo caráter humorístico e crítico. Na charge acima, a crítica é construída com base na polissemia de um",
+        "alternativas": {
+            "A": "pronome interrogativo.",
+            "B": "substantivo.",
+            "C": "adjetivo.",
+            "D": "advérbio."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 2,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "Leia o Texto 1 a seguir. Quem procura a essência de um conto no espaço que fica entre a obra e seu autor comete um erro: é muito melhor procurar não no terreno que fica entre o escritor e sua obra, mas justamente no terreno que fica entre o texto e seu leitor. (OZ, Amós. De amor e trevas. São Paulo: Cia. das Letras, 2005.). Ao tratar sobre a identificação da essência de um conto, o texto refere-se à atividade de leitura. Com base no que Oz (2005) expõe no texto, infere-se que o sentido de um conto",
+        "alternativas": {
+            "A": "é construído na interação entre leitor e obra.",
+            "B": "é determinado e configurado pelo autor.",
+            "C": "é resultado apenas da atividade subjetiva do leitor.",
+            "D": "é definido apenas pelas condições objetivas da obra."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 3,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "Na oração “Quem procura a essência de um conto no espaço”, o sujeito da forma verbal destacado classifica-se como",
+        "alternativas": {
+            "A": "desinencial.",
+            "B": "indeterminado.",
+            "C": "inexistente.",
+            "D": "simples."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 4,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "imagem_enunciado": "dados/img/img9.png",
+        "enunciado": "De acordo com a estrutura composicional, com os objetivos comunicativos e com sua função social, o texto acima concretiza o gênero textual",
+        "alternativas": {
+            "A": "artigo científico.",
+            "B": "artigo de opinião.",
+            "C": "manifesto.",
+            "D": "resenha."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 5,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "No quarto e no quinto parágrafo, com o objetivo de convencer o interlocutor da validade de suas proposições, o locutor do texto utiliza argumentos de",
+        "alternativas": {
+            "A": "autoridade.",
+            "B": "base histórica.",
+            "C": "comparação.",
+            "D": "exemplificação."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 6,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "No período “É claro que a lógica normal não coexiste com seu reverso, daí a graça da pilhéria”, a oração destacada exerce a função sintática de",
+        "alternativas": {
+            "A": "aposto da oração principal.",
+            "B": "objeto direto da oração principal.",
+            "C": "sujeito da oração principal.",
+            "D": "vocativo da oração principal."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 7,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "imagem_enunciado": "dados/img/img11.png",
+        "enunciado": "As afirmações feitas no texto fundamentam-se sobre o pressuposto de que a língua é",
+        "alternativas": {
+            "A": "um conjunto de possibilidades variáveis de seleção e de uso vocabular.",
+            "B": "uma forma resultante de processos de dominação e de exclusão.",
+            "C": "uma realidade homogênea, imutável e idealizada.",
+            "D": "uma realidade heterogênea, em constante transformação."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 8,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "Nos sintagmas “de cultura falsa” e “de falso patriotismo”, a mudança de posição do adjetivo não altera o sentido por ele assumido. Situação análoga ocorre nos sintagmas",
+        "alternativas": {
+            "A": "amigo velho e velho amigo.",
+            "B": "funcionário alto e alto funcionário.",
+            "C": "reação certa e certa reação.",
+            "D": "relação linda e linda relação."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 9,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "No período “Embora o campo de estudos de ambas as disciplinas seja parecido, na prática há um abismo separando as duas áreas”, a oração em destaque apresenta o valor semântico de",
+        "alternativas": {
+            "A": "causa.",
+            "B": "concessão.",
+            "C": "condição.",
+            "D": "consequência."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 10,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Língua Portuguesa",
+        "enunciado": "No período “Embora o campo de estudos de ambas as disciplinas seja parecido, na prática há um abismo separando as duas áreas”, a palavra “ambas” é importante para o estabelecimento da coesão textual, funcionando morfologicamente como",
+        "alternativas": {
+            "A": "adjetivo, com função textual anafórica.",
+            "B": "advérbio, com função textual anafórica.",
+            "C": "numeral, com função textual anafórica.",
+            "D": "pronome, com função textual anafórica."
+        },
+        "correta": "D"
+    },
+        {
+        "id": 11,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Qual é o próximo termo da sequência: 1, 3, 7, 15, ...?",
+        "alternativas": {
+            "A": "25.",
+            "B": "27.",
+            "C": "29.",
+            "D": "31."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 12,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Em um grupo, as pessoas têm de 18 a 40 anos. Sabe-se que 1/6 possui de 20 a 25 anos, 1/5 tem de 26 a 29 anos e 1/3 tem 30 anos ou mais. Qual fração desse grupo tem menos de 20 anos?",
+        "alternativas": {
+            "A": "9/30",
+            "B": "10/30",
+            "C": "11/30",
+            "D": "12/30"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 13,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Em uma família de 70 pessoas, 33 praticam caminhada, 41 praticam natação e 12 não praticam nada. O número de pessoas dessa família que praticam somente caminhada é",
+        "alternativas": {
+            "A": "15",
+            "B": "16",
+            "C": "17",
+            "D": "18"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 14,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Uma pessoa investiu um determinado capital sob uma taxa de juros compostos de 10% ao mês, obtendo ao final de dois meses um montante de R$36.300,00. Qual foi o capital investido?",
+        "alternativas": {
+            "A": "R$29.000,00",
+            "B": "R$30.000,00",
+            "C": "R$31.000,00",
+            "D": "R$32.000,00"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 15,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Entre 2020 e 2022 foram resgatados 1.665 animais no município de Anápolis. O grupo faunístico com maior número de registros foi o dos Mamíferos, com 723 ocorrências, seguido pelo grupo dos répteis, com 561 ocorrências. Dentre os répteis, considerando apenas os registrados a nível de espécie, qual percentual aproximado do total de resgates eles representam?",
+        "alternativas": {
+            "A": "5%",
+            "B": "19%",
+            "C": "34%",
+            "D": "43%"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 16,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "imagem_enunciado": "dados/img/img10.png",
+        "enunciado": "A série histórica acima refere-se à precipitação média, em mm, durante o ano em Anápolis. A mediana dessas precipitações é igual a",
+        "alternativas": {
+            "A": "16,0 mm",
+            "B": "136,5 mm",
+            "C": "158,4 mm",
+            "D": "229,5 mm"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 17,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "De acordo com boletim publicado pela Secretaria de Estado de Agricultura, Pecuária e Abastecimento (Seapa) em 2022, a produção de bananas em Goiás atingiu 199.983 toneladas. A participação de Anápolis nessa produção corresponde a 17,6%. Qual o valor aproximado?",
+        "alternativas": {
+            "A": "31.597 toneladas",
+            "B": "32.797 toneladas",
+            "C": "33.997 toneladas",
+            "D": "35.197 toneladas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 18,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Um número natural n quando dividido por 11 deixa resto 3. Qual o resto da divisão de 2n+1 por 11?",
+        "alternativas": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 19,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "Se o rato vale seis e o ouriço vale oito, então quanto vale o dromedário?",
+        "alternativas": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 20,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Raciocínio Lógico e Matemático",
+        "enunciado": "As notas finais em Matemática de uma determinada turma de um colégio são: 9,0 – 7,5 – 5,0 – 7,0 – 6,0 – 3,0 – 6,0 – 9,5 – 7,5 – 6,0. Qual a relação entre a média, moda e mediana dessas notas?",
+        "alternativas": {
+            "A": "Mediana > Média > Moda",
+            "B": "Mediana > Moda > Média",
+            "C": "Média > Moda > Mediana",
+            "D": "Média > Mediana > Moda"
+        },
+        "correta": "D"
+    },
+    {
+        "id": 21,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "O Brasil adota a forma de governo republicana, que se caracteriza",
+        "alternativas": {
+            "A": "pelo sistema eleitoral baseado no voto censitário.",
+            "B": "por ser um sistema fundamentado na sucessão hereditária.",
+            "C": "pelo caráter eletivo e transitório dos representantes políticos.",
+            "D": "pela dependência entre os Poderes Executivo, Legislativo e Judiciário."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 22,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "O aumento da representatividade da população negra nas mídias brasileiras tem como consequência",
+        "alternativas": {
+            "A": "a limitação da conscientização sobre diversidade.",
+            "B": "a promoção da diversidade cultural e social.",
+            "C": "o reforço de estereótipos prejudiciais.",
+            "D": "o incentivo à homogeneização da identidade brasileira."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 23,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "Consiste em política pública criada pelo governo federal durante a gestão de Getúlio Vargas, que protege os trabalhadores de baixa renda e pode ser considerada como instrumento de combate à pobreza o(a)",
+        "alternativas": {
+            "A": "Sistema Único de Saúde (SUS).",
+            "B": "Declaração de Imposto de Renda da Pessoa Física (DIRPF).",
+            "C": "Microempreendedor Individual (MEI).",
+            "D": "Salário-Mínimo Nacional (SMN)."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 24,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "As guerras do século XXI apresentam desafios para a humanidade, com desdobramentos profundos para a sociedade contemporânea, tais como:",
+        "alternativas": {
+            "A": "aumento do número de refugiados.",
+            "B": "estabilização da produção de armas bélicas.",
+            "C": "convivência diplomática entre as diferentes etnias.",
+            "D": "redução do preço do petróleo no mercado internacional."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 25,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "O fenômeno climático El Niño está associado principalmente",
+        "alternativas": {
+            "A": "à estabilização da temperatura global.",
+            "B": "à regularização das chuvas em regiões costeiras.",
+            "C": "ao crescimento da atividade de tornados e furacões.",
+            "D": "ao aumento das temperaturas da superfície do Oceano Pacífico."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 26,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "Um exemplo de fator que favorece a existência de conflitos sociais urbanos é",
+        "alternativas": {
+            "A": "a ênfase na participação comunitária.",
+            "B": "o acesso limitado aos serviços essenciais.",
+            "C": "o fortalecimento das políticas de inclusão social.",
+            "D": "o aumento da solidariedade entre os diferentes grupos sociais."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 27,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "São festas populares características do município de Anápolis:",
+        "alternativas": {
+            "A": "Festa Bumba Meu Boi e Festa do Caiapó.",
+            "B": "Nossa Senhora dos Navegantes e dança de fitas.",
+            "C": "Folias de Santo Reis e Divino Espírito Santo.",
+            "D": "Arraial dos Caetés em Bragança e Círio de Nazaré."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "O Distrito Agroindustrial de Anápolis (DAIA) é uma referência nacional na área de produção industrial, com destaque no setor",
+        "alternativas": {
+            "A": "farmacêutico e automotivo.",
+            "B": "químico e petroquímico.",
+            "C": "astrofísico e espacial.",
+            "D": "eletrônico e informacional."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 29,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "enunciado": "A localização geográfica de Anápolis apresenta diferentes impactos econômicos para a cidade, pois",
+        "alternativas": {
+            "A": "está distante de outros centros urbanos, limitando seu desenvolvimento.",
+            "B": "está isolada de outras cidades, dificultando o acesso a recursos e investimentos.",
+            "C": "possui recursos naturais limitados, prejudicando seu potencial econômico.",
+            "D": "está próxima a importantes rodovias, favorecendo o desenvolvimento econômico."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 30,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Conhecimentos Gerais",
+        "imagem_enunciado": "dados/img/img12.png",
+        "enunciado": "A disparidade salarial baseada na desigualdade de gênero tem como impacto",
+        "alternativas": {
+            "A": "a acentuação das desigualdades entre homens e mulheres.",
+            "B": "a ausência de representatividade masculina nas instâncias de poder.",
+            "C": "a garantia da isonomia no mundo do trabalho.",
+            "D": "o estabelecimento do privilégio feminino."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 31,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "Um usuário do Windows, que está conectado à internet via computador próprio, deseja compartilhar a sua conexão por Wi-Fi. Para tal, dentre as opções de configuração do Windows, o compartilhamento pode ser feito em",
+        "alternativas": {
+            "A": "adição de VPN.",
+            "B": "hotspot móvel.",
+            "C": "ethernet.",
+            "D": "assistente de foco."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "Aplicativos para escritório são amplamente empregados nas tarefas diárias em diversos contextos: empresa, universidade, governo, dentre outros. Tais aplicativos incluem aqueles primariamente dedicados à edição e à criação de apresentações multimídia, tais como:",
+        "alternativas": {
+            "A": "Impress e PowerPoint.",
+            "B": "Keeper e Netbeans.",
+            "C": "Calc e Impress.",
+            "D": "Netbeans e Powerpoint."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 33,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "O navegador de internet é um software que permite o acesso à web, pela interpretação das informações de sites e de arquivos de tipos variados, tal que promova uma melhor visualização dessas informações. São exemplos de navegadores de internet:",
+        "alternativas": {
+            "A": "Mozilla Firefox e Oracle.",
+            "B": "Github e Google Chrome.",
+            "C": "Oracle e Apple Safari.",
+            "D": "Opera e Microsoft Edge."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 34,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "No contexto de configuração de navegadores para a internet, bloqueadores de anúncios são componentes acrescidos visando barrar a criação de janelas não solicitadas, por exemplo janelas ligadas a anúncios de produtos. Usualmente, a forma de acréscimo desses componentes ocorre por meio",
+        "alternativas": {
+            "A": "da extensão de navegador.",
+            "B": "do serviço de busca.",
+            "C": "do mapa de caracteres.",
+            "D": "do protocolo de navegador."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 35,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Informática",
+        "enunciado": "As mensagens de e-mail não desejadas e usualmente enviadas em massa (para múltiplos destinatários), que possuem desde propagandas indesejadas até vírus, em geral são detectáveis por serviços de correio eletrônico, são classificadas como",
+        "alternativas": {
+            "A": "cookies.",
+            "B": "plugins.",
+            "C": "spams.",
+            "D": "sniffers."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 36,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Ética e Legislação",
+        "enunciado": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, previsto no Decreto n° 1.171/1994, estabelece que, no exercício das suas funções, o servidor público não poderá jamais desprezar o elemento ético de sua conduta. Sendo assim, entre as principais obrigações dos que trabalham em órgãos públicos apresentadas no Código de Ética, está a de",
+        "alternativas": {
+            "A": "abster-se de realizar sua função ou usar sua autoridade com finalidade estranha ao interesse individual.",
+            "B": "retardar a prestação de contas, condição essencial da gestão dos bens, direitos e serviços da coletividade a seu cargo.",
+            "C": "ter respeito à hierarquia, porém resguardando o temor de representar contra qualquer comprometimento indevido da estrutura em que se funda o Poder Estatal.",
+            "D": "tratar cuidadosamente os usuários dos serviços, aperfeiçoando o processo de comunicação e contato com o público."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 37,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Ética e Legislação",
+        "enunciado": "A Lei n° 9.784/1999 estabelece normas básicas acerca do processo administrativo no âmbito da Administração Federal direta e indireta, visando a proteção dos direitos dos administrados. Nos termos do artigo 3º da lei, o administrado tem o seguinte direito perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
+        "alternativas": {
+            "A": "fazer-se assistir, obrigatoriamente, por advogado de forma obrigatória, por força de disposição da lei.",
+            "B": "ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações.",
+            "C": "ter vista dos autos dos processos administrativos, sendo vedada a obtenção de cópias de documentos neles contidos.",
+            "D": "prestar as informações que lhe forem solicitadas no curso do processo administrativo e colaborar para o esclarecimento dos fatos."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 38,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Ética e Legislação",
+        "enunciado": "No Brasil, o acesso à informação pública está inscrito na Constituição Federal de 1988 no capítulo que versa sobre os Direitos e Deveres Individuais e Coletivos, regulamentado pela Lei n° 12.527/2011. Ao efetivar o direito de acesso à informação, através de suas diretrizes gerais, a referida lei",
+        "alternativas": {
+            "A": "determina a divulgação de informações de interesse público, mediante solicitação endereçada ao ente público correspondente.",
+            "B": "adota a observância da publicidade de dados públicos como preceito geral e do sigilo como exceção.",
+            "C": "estipula a utilização de meios impressos de divulgação, em detrimento daqueles viabilizados pela tecnologia da informação.",
+            "D": "estabelece parâmetros para o desenvolvimento do controle dos atos da administração pública pelo próprio Estado."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 39,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Ética e Legislação",
+        "enunciado": "O artigo 1º da Constituição Federal de 1988 prevê os fundamentos da República Federativa do Brasil, que se constitui em Estado Democrático de Direito. São fundamentos previstos no dispositivo constitucional:",
+        "alternativas": {
+            "A": "a soberania, a cidadania e a autodeterminação dos povos.",
+            "B": "a independência, a solução pacífica de conflitos e o pluralismo político.",
+            "C": "a dignidade da pessoa humana, a livre iniciativa e a cidadania.",
+            "D": "a não-intervenção, a livre iniciativa e a soberania."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 40,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Ética e Legislação",
+        "enunciado": "Os direitos e garantias fundamentais são enunciados no Título II da Constituição Federal de 1988, a partir do artigo 5º. Com relação a tais disposições, a liberdade de",
+        "alternativas": {
+            "A": "locomoção é plena, em tempo de paz, sendo vedada quaisquer limitações, mesmo em casos excepcionais previstos pela legislação.",
+            "B": "reunião é uma das espécies de liberdade de associação, mas de forma mais branda e sem formalidades, exigindo-se apenas autorização legal.",
+            "C": "vida privada engloba a intimidade, honra e imagem da pessoa, bem como suas comunicações telegráficas e telefônicas.",
+            "D": "pensamento refere-se à consciência e crença, bem como à liberdade de constituir uma família, advinda ou não do matrimônio."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 41,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Um padrão ou ponto de referência para a comparação entre produtos, produtividade, serviços e processos é chamado de",
+        "alternativas": {
+            "A": "downsizing.",
+            "B": "benchmarking.",
+            "C": "reengenharia.",
+            "D": "hierarquia."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 42,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Decidir antecipadamente o que fazer, de que maneira fazer, quando fazer e quem deve fazer é ato de",
+        "alternativas": {
+            "A": "comandar.",
+            "B": "controlar.",
+            "C": "coordenar.",
+            "D": "planejar."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 43,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "O arranjo de diversos postos de trabalho nos espaços existentes na organização, que envolve, além de melhor adaptação das pessoas ao ambiente de trabalho, a posição dos móveis, máquinas, equipamentos e matéria-prima é chamado de",
+        "alternativas": {
+            "A": "conceitualização.",
+            "B": "estrutura.",
+            "C": "layout.",
+            "D": "projeto."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 44,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Na administração de materiais, quando por venda ou por transferência de produtos, o nível de estoque vai baixando até um limite mínimo, chegando-se ao chamado ponto de",
+        "alternativas": {
+            "A": "reposição.",
+            "B": "equilíbrio.",
+            "C": "baixa.",
+            "D": "emergência."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 45,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "N.B. é funcionário da Empresa X e sua função é verificar as quantidades de cada produto existente na empresa e atribuir a essas quantidades um preço unitário apurado conforme o critério adotado pela empresa. A partir do caso apresentado, o funcionário N.B. realiza",
+        "alternativas": {
+            "A": "o balanço.",
+            "B": "a movimentação.",
+            "C": "o inventário.",
+            "D": "a baixa."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 46,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Como é chamada a etapa em que o governo reserva o dinheiro que será pago quando o bem adquirido for entregue ou o serviço adquirido for concluído?",
+        "alternativas": {
+            "A": "Liquidação.",
+            "B": "Empenho.",
+            "C": "Orçamento.",
+            "D": "Licitação."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 47,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Como é chamada a representação gráfica e abreviada da estrutura de uma organização?",
+        "alternativas": {
+            "A": "Organograma.",
+            "B": "Funciograma.",
+            "C": "Fluxograma.",
+            "D": "Dendrograma."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 48,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "O procedimento administrativo formal em que a administração pública convoca empresas interessadas na apresentação de propostas para o fornecimento de bens e serviços ao setor público é",
+        "alternativas": {
+            "A": "empenho.",
+            "B": "orçamento.",
+            "C": "licitação.",
+            "D": "liquidação."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 49,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "A qualidade em um atendimento prestado depende da capacidade de se comunicar com o público e da mensagem transmitida. Para a mensagem ser clara, é recomendado evitar gírias e utilizar a norma da linguagem",
+        "alternativas": {
+            "A": "coloquial.",
+            "B": "culta.",
+            "C": "informal.",
+            "D": "técnica."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 50,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "As pessoas que trabalham em uma instituição (membros, servidores, estagiários, colaboradores e terceirizados) e participam ativamente dela são consideradas, para fins de atendimento ao público, como",
+        "alternativas": {
+            "A": "público permanente.",
+            "B": "público externo.",
+            "C": "público esporádico.",
+            "D": "público interno."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 51,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração Pública",
+        "enunciado": "Processo por meio do qual atores estatais e não estatais interagem para formular e implementar políticas dentro de um conjunto pré-definido de regras formais e informais que moldam e são moldadas pelo poder. O texto faz referência ao conceito de",
+        "alternativas": {
+            "A": "governabilidade.",
+            "B": "governança.",
+            "C": "compliance.",
+            "D": "transparência."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 52,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração Pública",
+        "enunciado": "Dizer que o gestor público tem o compromisso de demonstrar o resultado obtido em relação aos recursos recebidos a quem lhe oferecer, ou seja, prestar contas, se refere diretamente ao conceito de",
+        "alternativas": {
+            "A": "accountability.",
+            "B": "descentralização.",
+            "C": "empoderamento.",
+            "D": "visibilidade."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 53,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração Pública",
+        "enunciado": "Uma das características do orçamento público é que ele deve ser uno, ou seja, deve existir apenas um orçamento para dado exercício financeiro e para determinado ente, contendo todas as receitas e despesas. Tal característica se refere ao princípio orçamentário da",
+        "alternativas": {
+            "A": "exclusividade.",
+            "B": "totalidade.",
+            "C": "unidade.",
+            "D": "universalidade."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 54,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Como é chamado o documento no qual se registram, resumidamente, mas com clareza, as ocorrências de uma reunião de pessoas, para determinado fim?",
+        "alternativas": {
+            "A": "Memorando.",
+            "B": "Atestado.",
+            "C": "Declaração.",
+            "D": "Ata."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 55,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Existem diversos tipos de assinatura que podem ser solicitadas em determinados documentos. Dentre esses tipos, aquela que em geral é abreviada, limitada às iniciais ou ao sobrenome, é a assinatura do tipo",
+        "alternativas": {
+            "A": "mecânica.",
+            "B": "por extenso.",
+            "C": "rubrica.",
+            "D": "a rogo."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 56,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "O conjunto de documentos de um arquivo é chamado de",
+        "alternativas": {
+            "A": "acesso.",
+            "B": "acervo.",
+            "C": "catálogo.",
+            "D": "classificação."
+        },
+        "correta": "B"
+    },
+    {
+        "id": 57,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "Dentre as funções da administração, aquela que procura distribuir o trabalho, a autoridade e os recursos entre os membros da empresa para que estes alcancem os objetivos estabelecidos eficientemente é",
+        "alternativas": {
+            "A": "a organização.",
+            "B": "a direção.",
+            "C": "o planejamento.",
+            "D": "o controle."
+        },
+        "correta": "A"
+    },
+    {
+        "id": 58,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "A área funcional que tem como objetivo a administração de comportamentos individuais em função dos objetivos coletivos e que deve atrair, preparar e desenvolver as pessoas para que consigam contribuir no alcance dos objetivos organizacionais é a área de",
+        "alternativas": {
+            "A": "pesquisa e desenvolvimento.",
+            "B": "logística.",
+            "C": "finanças.",
+            "D": "gestão de pessoas."
+        },
+        "correta": "D"
+    },
+    {
+        "id": 59,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração Pública",
+        "enunciado": "Dentre as ferramentas de planejamento e orçamento, aquela que é considerada o orçamento público propriamente dito, é discutida e aprovada todo ano, trazendo a programação dos gastos governamentais em cada área, bem como a previsão das receitas para custear esses gastos, é conhecida como",
+        "alternativas": {
+            "A": "Lei de Diretrizes e Bases (LDB).",
+            "B": "Lei de Diretrizes Orçamentárias (LDO).",
+            "C": "Lei Orçamentária Anual (LOA).",
+            "D": "Lei do Plano Plurianual (PPA)."
+        },
+        "correta": "C"
+    },
+    {
+        "id": 60,
+        "banca": "ASSISTENTE ADM. UFG 2024",
+        "ano": 2024,
+        "materia": "Administração",
+        "enunciado": "O conjunto de matérias-primas, de produtos em processo e produtos acabados que uma organização armazena para atender às suas necessidades operacionais é chamado de",
+        "alternativas": {
+            "A": "estoque.",
+            "B": "arranjo físico.",
+            "C": "curva ABC.",
+            "D": "layout."
+        },
+        "correta": "A"
+    },
 ]
