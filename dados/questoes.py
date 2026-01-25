@@ -351,7 +351,7 @@ QUESTOES = [
           "D": "rigidez hierárquica"
       },
       "correta": "B"
-    },
+   },
     {
             "id": 26,
             "banca": "AUX.ADM UFG 2025",
