@@ -8826,7 +8826,7 @@ QUESTOES = [
         "banca": "ASSISTENTE ADM. UFG 2024",
         "ano": 2024,
         "materia": "Língua Portuguesa",
-        "imagem_enunciado": "dados/img/img8.png",
+        "imagem_enunciado": "dados/img/img8.PNG",
         "enunciado": "O gênero textual charge é marcado pelo caráter humorístico e crítico. Na charge acima, a crítica é construída com base na polissemia de um",
         "alternativas": {
             "A": "pronome interrogativo.",
@@ -8869,7 +8869,7 @@ QUESTOES = [
         "banca": "ASSISTENTE ADM. UFG 2024",
         "ano": 2024,
         "materia": "Língua Portuguesa",
-        "imagem_enunciado": "dados/img/img9.png",
+        "imagem_enunciado": "dados/img/img9.PNG",
         "enunciado": "De acordo com a estrutura composicional, com os objetivos comunicativos e com sua função social, o texto acima concretiza o gênero textual",
         "alternativas": {
             "A": "artigo científico.",
@@ -8912,7 +8912,7 @@ QUESTOES = [
         "banca": "ASSISTENTE ADM. UFG 2024",
         "ano": 2024,
         "materia": "Língua Portuguesa",
-        "imagem_enunciado": "dados/img/img11.png",
+        "imagem_enunciado": "dados/img/img11.PNG",
         "enunciado": "As afirmações feitas no texto fundamentam-se sobre o pressuposto de que a língua é",
         "alternativas": {
             "A": "um conjunto de possibilidades variáveis de seleção e de uso vocabular.",
@@ -9039,7 +9039,7 @@ QUESTOES = [
         "banca": "ASSISTENTE ADM. UFG 2024",
         "ano": 2024,
         "materia": "Raciocínio Lógico e Matemático",
-        "imagem_enunciado": "dados/img/img10.png",
+        "imagem_enunciado": "dados/img/img10.PNG",
         "enunciado": "A série histórica acima refere-se à precipitação média, em mm, durante o ano em Anápolis. A mediana dessas precipitações é igual a",
         "alternativas": {
             "A": "16,0 mm",
@@ -9236,7 +9236,7 @@ QUESTOES = [
         "banca": "ASSISTENTE ADM. UFG 2024",
         "ano": 2024,
         "materia": "Conhecimentos Gerais",
-        "imagem_enunciado": "dados/img/img12.png",
+        "imagem_enunciado": "dados/img/img12.PNG",
         "enunciado": "A disparidade salarial baseada na desigualdade de gênero tem como impacto",
         "alternativas": {
             "A": "a acentuação das desigualdades entre homens e mulheres.",
