@@ -9665,5 +9665,984 @@ QUESTOES = [
             "D": "layout."
         },
         "correta": "A"
-    }
+    },
+            {
+            "id": 1,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Proposições",
+            "enunciado": "Das sentenças abaixo, assinale quais são proposições.",
+            "alternativas": {
+                "A": "b, d, f, g, h, i, m, n, o, p",
+                "B": "a, c, e, j, k, l",
+                "C": "b, c, d, e, f",
+                "D": "a, e, j, k"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 2,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tabela Verdade",
+            "enunciado": "Assinale a alternativa que exibe a quantidade de linhas que uma proposição composta com 8 proposições simples pode possuir em uma tabela verdade.",
+            "alternativas": {
+                "A": "16 linhas",
+                "B": "32 linhas",
+                "C": "64 linhas",
+                "D": "128 linhas",
+                "E": "256 linhas"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 3,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tabela Verdade",
+            "enunciado": "Assinale a alternativa que exibe a quantidade de linhas que uma proposição composta com 6 proposições simples pode possuir em uma tabela verdade.",
+            "alternativas": {
+                "A": "64 linhas",
+                "B": "128 linhas",
+                "C": "256 linhas",
+                "D": "512 linhas",
+                "E": "1024 linhas"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 4,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Proposições",
+            "enunciado": "Classifique em verdadeira ou falsa cada uma das proposições compostas apresentadas.",
+            "alternativas": {
+                "A": "a)V b)V c)V d)F e)F f)F g)F h)V i)V j)F k)V l)F m)F",
+                "B": "a)F b)V c)F d)V e)V f)V g)V h)F i)F j)V k)F l)V m)V",
+                "C": "a)V b)F c)V d)F e)V f)F g)V h)V i)F j)V k)F l)F m)V",
+                "D": "a)V b)V c)F d)F e)F f)V g)F h)V i)V j)F k)V l)F m)F"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 5,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Proposições",
+            "enunciado": "Sejam as proposições p: A vaca foi para o brejo e q: O boi seguiu a vaca. Forme sentenças, na linguagem natural, correspondentes às proposições apresentadas.",
+            "alternativas": {
+                "A": "¬p: A vaca não foi; ¬q: O boi não seguiu; p^q: ambos foram; p v q: pelo menos um foi; ¬(p^q): não foram ambos; ¬(p v q): nenhum foi",
+                "B": "¬p: A vaca foi; p^q: nenhum foi; p v q: nenhum foi",
+                "C": "¬p: O boi foi; p^q: só a vaca foi",
+                "D": "¬q: ambos foram; p v q: nenhum foi"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 6,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Proposições",
+            "enunciado": "Sejam p: João é alto e q: João é jogador de basquete. Escreva na forma simbólica as proposições apresentadas.",
+            "alternativas": {
+                "A": "a)¬p b)¬¬p c)p^q d)¬p^q e)¬p v ¬q f)¬q g)¬¬q h)p v q i)p^¬q j)¬(p^q) k)¬(p v q) l)¬(¬p v q) m)¬p^¬q",
+                "B": "a)p b)q c)p v q d)p^q",
+                "C": "a)¬q b)¬p c)p^q d)p v q",
+                "D": "a)p b)p^q c)q"
+            },
+            "correta": "A"
+        },
+                {
+            "id": 7,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Proposições Compostas",
+            "enunciado": "Classifique em verdadeira ou falsa cada uma das seguintes proposições compostas: a) 2! = 2 → 0! = 1; b) 2^2 = 4 → 3^2 = 6; c) 2^0 = 0 → 0! = 0; d) 2^2 = 4 → 3^2 = 9; e) 2 é ímpar v 3 é ímpar; f) 2 − 1 = 1 ↔ 5 + 7 = 3 × 4; g) 5^2 = 25 → 3 − 4 = −1; h) 2 é par ↔ 3 é ímpar; i) 5^2 = 125 → 3 − 4 = 7; j) 2 é ímpar ↔ 3 é par; k) 5^2 = 5 → 3 − 4 = −1; l) 5^2 = 25 → 3 − 4 = 1; m) 5 − 4 = 1 → 2 = 2^0; n) 5 − 3 ≠ 8 ↔ 8 ≠ 4 × 5.",
+            "alternativas": {
+                "A": "a)V b)F c)F d)V e)V f)V g)V h)V i)F j)F k)V l)F m)V n)V",
+                "B": "a)V b)V c)V d)V e)F f)F g)V h)V i)V j)V k)F l)F m)F n)V",
+                "C": "a)F b)F c)V d)F e)V f)V g)F h)F i)V j)F k)F l)V m)V n)F",
+                "D": "a)V b)F c)F d)V e)V f)V g)V h)F i)F j)V k)F l)F m)V n)V"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 8,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Conectivos Lógicos",
+            "enunciado": "Sejam as proposições p: A vaca foi para o brejo; q: O boi seguiu a vaca. Forme sentenças, na linguagem natural, correspondentes às proposições: a) p → q; b) ¬p → ¬q; c) ¬(p ↔ q); d) (p ^ q) → ¬q; e) p → ¬(p v q); f) ¬p → q; g) p ↔ q; h) ¬p ↔ ¬q; i) p → ¬(p ^ q); j) ¬p → ¬(p v q); k) p → ¬q; l) ¬p ↔ q; m) p → (p ^ q); n) ¬p → ¬(p ^ q); o) ¬(p v q) → ¬q; p) ¬(p → q); q) p ↔ ¬q; r) ¬p → (p ^ q); s) ¬(p ^ q) → ¬q; t) p ↔ (p ^ q).",
+            "alternativas": {
+                "A": "Todas as sentenças foram corretamente traduzidas para a linguagem natural utilizando os conectivos 'se... então', 'e', 'ou', 'não' e 'se e somente se'.",
+                "B": "Somente as sentenças com bicondicional foram traduzidas corretamente.",
+                "C": "Somente as sentenças com disjunção foram traduzidas corretamente.",
+                "D": "Nenhuma das sentenças corresponde corretamente aos conectivos."
+            },
+            "correta": "A"
+        },
+        {
+            "id": 9,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Forma Simbólica",
+            "enunciado": "Sejam as proposições p: João é alto; q: João é jogador de basquete. Escreva na forma simbólica: a) Se João não é alto então ele é jogador de basquete; b) Se João não é alto então ele não é jogador de basquete; c) É mentira que se João não é alto então ele é jogador de basquete; d) João é alto se e somente se ele não é jogador de basquete; e) João não é alto se e somente se ele é jogador de basquete; f) João não é alto se e somente se ele não é jogador de basquete; g) É mentira que João não é alto se e somente se ele é jogador de basquete; h) É mentira que João não é alto se e somente se ele não é jogador de basquete; i) Se João é alto então ele é jogador de basquete; j) Se João é alto então ele não é jogador de basquete; k) Não é verdade que se João é alto então ele é jogador de basquete; l) Não é verdade que se João é alto então ele não é jogador de basquete; m) João é alto se e somente se ele é jogador de basquete; n) É mentira que se João não é alto então ele não é jogador de basquete; o) Não é verdade que João é alto se e somente se ele é jogador de basquete; p) Não é verdade que João é alto se e somente se ele não é jogador de basquete.",
+            "alternativas": {
+                "A": "a)¬p→q b)¬p→¬q c)¬(¬p→q) d)p↔¬q e)¬p↔q f)¬p↔¬q g)¬(¬p↔q) h)¬(¬p↔¬q) i)p→q j)p→¬q k)¬(p→q) l)¬(p→¬q) m)p↔q n)¬(¬p→¬q) o)¬(p↔q) p)¬(p↔¬q)",
+                "B": "a)p→q b)p→¬q c)¬p d)p^q",
+                "C": "a)¬q→p b)¬p^q c)p↔q",
+                "D": "a)p b)q c)p^q"
+            },
+            "correta": "A"
+        },
+                {
+            "id": 10,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Avaliação de Proposições",
+            "enunciado": "Se A, B e C são enunciados verdadeiros e X, Y e Z são enunciados falsos, classifique os enunciados abaixo em verdadeiros ou falsos: a) (C v Z) ^ (Y v B); b) (A ^ B) v (X ^ Y); c) ¬(B v X) ^ ¬(Y v Z); d) ¬(C v B) v ¬(¬X ^ Y); e) ¬B v X; f) ¬X v A; g) ¬X v Y; h) ¬[(¬B v A) v (¬A v B)]; i) ¬[(¬Y v Z) v (¬Z v Y)]; j) ¬[(¬C v Y) v (¬Y v C)]; k) ¬[(¬X v A) v (¬A v X)]; l) ¬[A v (B v C)] v [(A v B) v C]; m) ¬[X v (Y v Z)] v [(X v Y) v Z]; n) ¬[X ^ (¬A v Z)] v [(X ^ ¬A) v (X ^ Z)]; o) ¬{[(¬A v B) ^ (¬B v A)] ^ ¬[(A ^ B) v (¬A ^ ¬B)]}; p) [B v (¬X ^ ¬A)] ^ ¬[(B v ¬X) ^ (B v A)]; q) A → (B → C); r) A → (B → Z); s) A → (Y → Z); t) X → (B → Z); u) X → (Y → Z); v) (X → Y) → Z; w) (A → B) → Z.",
+            "alternativas": {
+                "A": "a)V b)V c)V d)F e)F f)V g)V h)F i)V j)V k)V l)V m)V n)V o)V p)V q)V r)F s)V t)V u)V v)V w)F",
+                "B": "a)F b)V c)F d)V e)V f)F g)V h)V i)F j)V k)F l)F m)V n)F o)V p)F q)F r)V s)F t)V u)F v)F w)V",
+                "C": "a)V b)F c)V d)V e)F f)V g)F h)F i)V j)F k)V l)V m)V n)V o)V p)V q)V r)F s)F t)V u)V v)F w)F",
+                "D": "a)F b)F c)F d)F e)F f)F g)F h)F i)F j)F k)F l)F m)F n)F o)F p)F q)F r)F s)F t)F u)F v)F w)F"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 11,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sendo p: 'Tânia é cantora' e q: 'Tânia é pernambucana', escreva na linguagem natural as proposições: a) p ^ q; b) ¬p v ¬q; c) ¬(¬p v ¬q); d) ¬(p ^ q); e) ¬(p v q); f) ¬p ^ ¬q, e indique quais delas são logicamente equivalentes.",
+            "alternativas": {
+                "A": "a e c são equivalentes; b e f são equivalentes.",
+                "B": "a e b são equivalentes; c e d são equivalentes.",
+                "C": "d e e são equivalentes; b e c são equivalentes.",
+                "D": "a e f são equivalentes; d e c são equivalentes."
+            },
+            "correta": "A"
+        },
+        {
+            "id": 12,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Contradição",
+            "enunciado": "Mostre que a proposição (p ^ q) ^ ¬p é uma contradição.",
+            "alternativas": {
+                "A": "Porque assume valor falso em todas as combinações possíveis de p e q.",
+                "B": "Porque assume valor verdadeiro em todas as linhas da tabela-verdade.",
+                "C": "Porque depende do valor lógico de q.",
+                "D": "Porque é equivalente a p v q."
+            },
+            "correta": "A"
+        },
+        {
+            "id": 13,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tautologia",
+            "enunciado": "Mostre que a proposição (p v q) v ¬p é uma tautologia.",
+            "alternativas": {
+                "A": "Porque assume valor verdadeiro para todas as combinações de p e q.",
+                "B": "Porque assume valor falso para todos os casos.",
+                "C": "Porque é equivalente a p ^ q.",
+                "D": "Porque depende apenas do valor de q."
+            },
+            "correta": "A"
+        },
+        {
+            "id": 14,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Contingência",
+            "enunciado": "Mostre que a proposição (p v q) ^ ¬p é uma contingência.",
+            "alternativas": {
+                "A": "Porque assume valores verdadeiros e falsos conforme a atribuição de p e q.",
+                "B": "Porque é sempre falsa.",
+                "C": "Porque é sempre verdadeira.",
+                "D": "Porque é equivalente a ¬p."
+            },
+            "correta": "A"
+        },
+                {
+            "id": 15,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Sejam p e q duas proposições. A negação p ^ q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p v q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 16,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sejam p e q duas proposições. A negação p v ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p ^ q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 17,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Condicional",
+            "enunciado": "Sejam p e q duas proposições. A negação p → q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p ^ q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 18,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Equivalência Condicional",
+            "enunciado": "Sejam p e q duas proposições. A proposição p v ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p → ¬q",
+                "B": "p → ¬q",
+                "C": "¬p v q",
+                "D": "¬p → q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 19,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Equivalência Lógica",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p v q equivale a:",
+            "alternativas": {
+                "A": "¬p ^ ¬q",
+                "B": "¬p → ¬q",
+                "C": "¬p → q",
+                "D": "¬p v ¬q",
+                "E": "¬q → ¬p"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 20,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Condicional",
+            "enunciado": "Sejam p e q duas proposições. A proposição p v ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "B"
+        },
+                {
+            "id": 21,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Equivalência Lógica",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p v q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "p v q",
+                "D": "¬p ^ q",
+                "E": "p v ¬q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 22,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Contrapositiva",
+            "enunciado": "Sejam p e q duas proposições. A proposição p v ¬q tem como contrapositiva a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 23,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Inversa",
+            "enunciado": "Sejam p e q duas proposições. A proposição p v ¬q tem como inversa a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 24,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Recíproca",
+            "enunciado": "Sejam p e q duas proposições. A proposição p → ¬q tem como recíproca a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "D"
+        },
+        {
+            "id": 25,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Contrapositiva",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p → ¬q tem como contrapositiva a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 26,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Inversa",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p → ¬q tem como inversa a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → ¬p",
+                "E": "p → q"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 27,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Recíproca",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p → ¬q tem como recíproca a seguinte proposição:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "¬q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 28,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tabela Verdade",
+            "enunciado": "Assinale a alternativa que exibe a quantidade de linhas que uma proposição composta com 4 proposições simples pode possuir em uma tabela verdade.",
+            "alternativas": {
+                "A": "16 linhas",
+                "B": "32 linhas",
+                "C": "64 linhas",
+                "D": "128 linhas",
+                "E": "256 linhas"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 29,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tabela Verdade",
+            "enunciado": "Assinale a alternativa que exibe a quantidade de linhas que uma proposição composta com 10 proposições simples pode possuir em uma tabela verdade.",
+            "alternativas": {
+                "A": "64 linhas",
+                "B": "128 linhas",
+                "C": "256 linhas",
+                "D": "512 linhas",
+                "E": "1024 linhas"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 30,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Valor Lógico",
+            "enunciado": "Se A, B, C são sentenças verdadeiras e X, Y, Z são sentenças falsas, então os valores de verdade de (¬A ^ ¬X) v (Y → C), B → (Y → Z) e B → Z respectivamente são:",
+            "alternativas": {
+                "A": "verdadeiro, verdadeiro, falso",
+                "B": "falso, verdadeiro, falso",
+                "C": "falso, falso, verdadeiro",
+                "D": "verdadeiro, falso, falso",
+                "E": "verdadeiro, falso, verdadeiro"
+            },
+            "correta": "A"
+        },
+                {
+            "id": 31,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Argumentação Lógica",
+            "enunciado": "Considere o argumento: João passou no concurso. Logo, se João não passou no concurso, então ele faltou às provas. Representando por “p” a frase João passou no concurso e por “q” a sentença ele faltou às provas, a tradução correta do argumento acima, para a linguagem simbólica, é:",
+            "alternativas": {
+                "A": "p v q \\ ¬p → q",
+                "B": "p → q \\ ¬p v q",
+                "C": "¬p v q \\ ¬p → q",
+                "D": "p \\ ¬p → q",
+                "E": "p → q \\ ¬p ^ q"
+            },
+            "correta": "D"
+        },
+        {
+            "id": 32,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Classificação de Proposições",
+            "enunciado": "Considere as seguintes correspondências: I. p → (p v ¬q); II. (p → p) → p; III. p → [(p → q) → q]. Assinale a alternativa correta:",
+            "alternativas": {
+                "A": "I é contingente, II é contraditória e III é tautológica",
+                "B": "I é tautológica, II é contraditória e III é contingente",
+                "C": "I é tautológica, II é contraditória e III é tautológica",
+                "D": "I é tautológica, II é contingente e III é tautológica",
+                "E": "I é contingente, II é contingente e III é contingente"
+            },
+            "correta": "D"
+        },
+        {
+            "id": 33,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2026,
+            "materia": "Tabela Verdade",
+            "enunciado": "A tabela verdade que corresponde à sentença ¬p → ¬(p v ¬q) é:",
+            "alternativas": {
+                "A": "Tabela com colunas: p, q, ¬q, p v ¬q, ¬p, ¬p v ¬(p v ¬q)",
+                "B": "Tabela com colunas: p, q, ¬p, ¬q, p v ¬q, ¬p → ¬(p v ¬q)",
+                "C": "Tabela com colunas: p, q, ¬p, ¬q, p v ¬q, ¬p v ¬q, ¬p → ¬(p v ¬q)",
+                "D": "Tabela com colunas: p, q, ¬q, ¬(p v ¬q), ¬p → ¬(p v ¬q)",
+                "E": "Tabela com colunas: p, q, ¬p, ¬q, p v ¬q, ¬(p v ¬q), ¬p → ¬(p v ¬q)"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 34,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Negação de Proposições",
+            "enunciado": "Sejam p e q duas proposições. A negação de p ^ q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p v q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 35,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Negação de Proposições",
+            "enunciado": "Sejam p e q duas proposições. A negação de p v ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p ^ q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "D"
+        },
+        {
+            "id": 36,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Negação de Proposições",
+            "enunciado": "Sejam p e q duas proposições. A negação de p → q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "¬p v q",
+                "D": "¬p v q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 37,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sejam p e q duas proposições. A proposição p v ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "¬p v q",
+                "D": "¬p → q",
+                "E": "p ^ ¬q"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 38,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p v q equivale a:",
+            "alternativas": {
+                "A": "¬p ^ ¬q",
+                "B": "¬p → ¬q",
+                "C": "¬p → q",
+                "D": "¬p v ¬q",
+                "E": "¬q → ¬p"
+            },
+            "correta": "C"
+        },
+                {
+            "id": 39,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sejam p e q duas proposições. A proposição p → ¬q equivale a:",
+            "alternativas": {
+                "A": "¬p → q",
+                "B": "¬p → ¬q",
+                "C": "q → ¬p",
+                "D": "¬q → p",
+                "E": "p → q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 40,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Equivalências Lógicas",
+            "enunciado": "Sejam p e q duas proposições. A proposição ¬p → q equivale a:",
+            "alternativas": {
+                "A": "¬p v ¬q",
+                "B": "¬p ^ ¬q",
+                "C": "p v q",
+                "D": "¬p ^ q",
+                "E": "p v ¬q"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 41,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Implicação Lógica",
+            "enunciado": "Duas grandezas x e y são tais que “se x = 3, então y = 7”. Pode-se concluir que:",
+            "alternativas": {
+                "A": "se x ≠ 3, então y ≠ 7",
+                "B": "se y = 7, então x = 3",
+                "C": "se y ≠ 7, então x ≠ 3",
+                "D": "se x = 5, então y = 5",
+                "E": "Nenhuma das conclusões acima é válida"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 42,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Equivalência Lógica",
+            "enunciado": "Uma sentença logicamente equivalente a: “Se Pedro é economista, então Luíza é solteira” é:",
+            "alternativas": {
+                "A": "Pedro é economista ou Luíza é solteira",
+                "B": "Pedro é economista ou Luíza não é solteira",
+                "C": "Se Luíza é solteira, Pedro é economista",
+                "D": "Se Pedro não é economista então Luíza não é solteira",
+                "E": "Se Luíza não é solteira então Pedro não é economista"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 43,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1997,
+            "materia": "Contrapositiva",
+            "enunciado": "Se Rodrigo mentiu, então ele é culpado. Logo,",
+            "alternativas": {
+                "A": "Se Rodrigo não é culpado, então ele não mentiu",
+                "B": "Rodrigo é culpado",
+                "C": "Se Rodrigo não mentiu, então ele não é culpado",
+                "D": "Rodrigo mentiu",
+                "E": "Se Rodrigo é culpado, então ele mentiu"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 44,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1997,
+            "materia": "Condições",
+            "enunciado": "Se você se esforçar, então irá vencer. Assim sendo,",
+            "alternativas": {
+                "A": "seu esforço é condição suficiente para vencer",
+                "B": "seu esforço é condição necessária para vencer",
+                "C": "Se você não se esforçar, então não irá vencer",
+                "D": "você vencerá só se esforçar",
+                "E": "mesmo que você se esforce, você não vencerá"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 45,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Tautologia",
+            "enunciado": "Um exemplo de tautologia é:",
+            "alternativas": {
+                "A": "Se João é alto, então João é alto ou Guilherme é gordo",
+                "B": "Se João é alto, então João é alto e Guilherme é gordo",
+                "C": "Se João é alto ou Guilherme é gordo, então Guilherme é gordo",
+                "D": "Se João é alto ou Guilherme é gordo, então João é alto e Guilherme é gordo",
+                "E": "Se João é alto ou não é alto, então Guilherme é gordo"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 46,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Negação",
+            "enunciado": "A negação da afirmação condicional “se estiver chovendo, eu levo o guarda-chuva” é:",
+            "alternativas": {
+                "A": "Se não estiver chovendo, eu levo o guarda-chuva",
+                "B": "Não está chovendo e eu levo o guarda-chuva",
+                "C": "Não está chovendo e eu não levo o guarda-chuva",
+                "D": "Se estiver chovendo, eu não levo o guarda-chuva",
+                "E": "Está chovendo e eu não levo o guarda-chuva"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 47,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Equivalência",
+            "enunciado": "Dizer que “Pedro não é pedreiro ou Paulo é paulista” é, do ponto de vista lógico, o mesmo que dizer que:",
+            "alternativas": {
+                "A": "Se Pedro é pedreiro, então Paulo é paulista",
+                "B": "Se Paulo é paulista, então Pedro é pedreiro",
+                "C": "Se Pedro não é pedreiro, então Paulo é paulista",
+                "D": "Se Pedro é pedreiro, então Paulo não é paulista",
+                "E": "Se Pedro não é pedreiro, então Paulo não é paulista"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 48,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Condições",
+            "enunciado": "Se Elaine não ensaia, Elisa não estuda. Logo,",
+            "alternativas": {
+                "A": "Elaine ensaiar é condição necessária para Elisa não estudar",
+                "B": "Elaine ensaiar é condição suficiente para Elisa estudar",
+                "C": "Elaine não ensaiar é condição necessária para Elisa não estudar",
+                "D": "Elaine não ensaiar é condição suficiente para Elisa estudar",
+                "E": "Elaine ensaiar é condição necessária para Elisa estudar"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 49,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 2024,
+            "materia": "Equivalência",
+            "enunciado": "Dizer que “Ana não é alegre ou Beatriz é feliz” é, do ponto de vista lógico, o mesmo que dizer:",
+            "alternativas": {
+                "A": "se Ana não é alegre, então Beatriz é feliz",
+                "B": "se Beatriz é feliz, então Ana é alegre",
+                "C": "se Ana é alegre, então Beatriz é feliz",
+                "D": "se Ana é alegre, então Beatriz não é feliz",
+                "E": "se Ana não é alegre, então Beatriz não é feliz"
+            },
+            "correta": "C"
+        },
+                {
+            "id": 50,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Argumento Inválido",
+            "enunciado": "Se Ana não é advogada, então Sandra é secretária. Se Ana é advogada, então Paula não é professora. Ora, Paula é professora. Portanto:",
+            "alternativas": {
+                "A": "Ana é advogada",
+                "B": "Sandra é secretária",
+                "C": "Ana é advogada, ou Paula não é professora",
+                "D": "Ana é advogada, e Paula é professora",
+                "E": "Ana não é advogada e Sandra não é secretária"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 51,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Argumento Inválido",
+            "enunciado": "Se Beto briga com Glória então Glória vai ao cinema. Se Glória vai ao cinema, então Carla fica em casa. Se Carla fica em casa, então Raul briga com Carla. Ora, Raul não briga com Carla. Logo,",
+            "alternativas": {
+                "A": "Carla não fica em casa e Beto não briga com Glória",
+                "B": "Carla fica em casa e Glória vai ao cinema",
+                "C": "Carla não fica em casa e Glória vai ao cinema",
+                "D": "Glória vai ao cinema e Beto briga com Glória",
+                "E": "Glória não vai ao cinema e Beto briga com Glória"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 52,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Argumento Inválido",
+            "enunciado": "Se o jardim não é florido, então o gato mia. Se o jardim é florido, então o passarinho não canta. Ora, o passarinho canta. Logo:",
+            "alternativas": {
+                "A": "O jardim é florido e o gato mia",
+                "B": "O jardim é florido e o gato não mia",
+                "C": "O jardim não é florido e o gato mia",
+                "D": "O jardim não é florido e o gato não mia",
+                "E": "Se o passarinho canta, então o gato não mia"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 53,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Argumento Inválido",
+            "enunciado": "Maria, Luís e Júlio têm opiniões discordantes sobre se o filme está em cartaz. Se Maria estiver certa, então Júlio está enganado. Se Júlio está enganado, então Luís está enganado. Se Luís está enganado, então o filme não estará exibido. Ora, ou o filme está sendo exibido, ou José não irá ao cinema. Verificou-se que Maria está certa. Logo:",
+            "alternativas": {
+                "A": "O filme está sendo exibido",
+                "B": "Luís e Júlio não estão enganados",
+                "C": "Júlio está enganado, mas não Luís",
+                "D": "Luís está enganado, mas não Júlio",
+                "E": "José não irá ao cinema"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 54,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Argumento Inválido",
+            "enunciado": "Se Carlos é mais velho do que Pedro, então Maria e Júlia têm a mesma idade. Se Maria e Júlia têm a mesma idade, então João é mais moço do que Pedro. Se João é mais moço do que Pedro, então Carlos é mais velho do que Maria. Ora, Carlos não é mais velho do que Maria. Então,",
+            "alternativas": {
+                "A": "Carlos não é mais velho do que Júlia, e João é mais moço do que Pedro",
+                "B": "Carlos é mais velho do que Pedro, e Maria e Júlia têm a mesma idade",
+                "C": "Carlos e João são mais moços do que Pedro",
+                "D": "Carlos é mais velho do que Pedro, e João é mais moço do que Pedro",
+                "E": "Carlos não é mais velho do que Pedro, e Maria e Júlia não têm a mesma idade"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 55,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1996,
+            "materia": "Argumento Inválido",
+            "enunciado": "Se Nestor disse a verdade, Júlia e Raul mentiram. Se Raul mentiu, Lauro falou a verdade. Se Lauro falou a verdade, há um leão feroz nesta sala. Ora, não há um leão feroz nesta sala. Logo:",
+            "alternativas": {
+                "A": "Nestor e Júlia disseram a verdade",
+                "B": "Nestor e Lauro mentiram",
+                "C": "Raul e Lauro mentiram",
+                "D": "Raul mentiu ou Lauro disse a verdade",
+                "E": "Raul e Júlia mentiram"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 56,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1997,
+            "materia": "Argumento Inválido",
+            "enunciado": "Ou Celso compra um carro, ou Ana vai à África, ou Rui vai a Roma. Se Ana vai à África, então Luís compra um livro. Se Luís compra um livro, então Rui vai a Roma. Ora, Rui não vai a Roma. Logo:",
+            "alternativas": {
+                "A": "Celso compra um carro e Ana não vai à África",
+                "B": "Celso não compra um carro e Luís não compra o livro",
+                "C": "Ana não vai à África e Luís compra um livro",
+                "D": "Ana vai à África ou Luís compra um livro",
+                "E": "Ana vai à África e Rui não vai a Roma"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 57,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Argumento Inválido",
+            "enunciado": "Ou A = B, ou B = C, mas não ambos. Se B = D, então A = D. Ora, B = D. Logo:",
+            "alternativas": {
+                "A": "B ou C",
+                "B": "B ou A",
+                "C": "C = A",
+                "D": "C = D",
+                "E": "D ou A"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 58,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "Argumento Inválido",
+            "enunciado": "De três irmãos, José, Adriano e Caio, sabe-se que ou José é o mais velho, ou Adriano é o mais moço. Sabe-se, também, que ou Adriano é o mais velho, ou Caio é o mais velho. Então, o mais velho e o mais moço dos três irmãos são, respectivamente:",
+            "alternativas": {
+                "A": "Caio e José",
+                "B": "Caio e Adriano",
+                "C": "Adriano e Caio",
+                "D": "Adriano e José",
+                "E": "José e Adriano"
+            },
+            "correta": "A"
+        },
+                {
+            "id": 59,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Maria tem três carros: um Gol, um Corsa e um Fiesta. Um é branco, outro preto e outro azul. Sabe-se que: (1) ou o Gol é branco ou o Fiesta é branco; (2) ou o Gol é preto ou o Corsa é azul; (3) ou o Fiesta é azul ou o Corsa é azul; (4) ou o Corsa é preto ou o Fiesta é preto. Portanto, as cores do Gol, do Corsa e do Fiesta são respectivamente:",
+            "alternativas": {
+                "A": "branco, preto, azul",
+                "B": "preto, azul, branco",
+                "C": "azul, branco, preto",
+                "D": "preto, branco, azul",
+                "E": "branco, azul, preto"
+            },
+            "correta": "E"
+        },
+        {
+            "id": 60,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Um rei promete dar um cavalo, ou uma espada, ou a mão da princesa se a frase for verdadeira; se for falsa, não dará nada. O jovem diz: 'Vossa majestade não me dará nem o cavalo veloz, nem a linda espada'. Para manter a promessa, o rei:",
+            "alternativas": {
+                "A": "deve dar o cavalo veloz e a linda espada",
+                "B": "deve dar a mão da princesa, mas não o cavalo veloz nem a linda espada",
+                "C": "deve dar a mão da princesa e o cavalo veloz ou a linda espada",
+                "D": "deve dar o cavalo veloz ou a linda espada, mas não a mão da princesa",
+                "E": "não deve dar nada"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 61,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Considere: A) se Patrícia é boa amiga, Vítor diz a verdade; B) se Vítor diz a verdade, Helena não é boa amiga; C) se Helena não é boa amiga, Patrícia é boa amiga. Conclui-se que as três afirmações:",
+            "alternativas": {
+                "A": "são equivalentes a dizer que Patrícia é boa amiga",
+                "B": "implicam necessariamente que Patrícia é boa amiga",
+                "C": "implicam que Vítor diz a verdade e Helena não é boa amiga",
+                "D": "são consistentes tanto se Patrícia é boa amiga quanto se não é",
+                "E": "são inconsistentes entre si"
+            },
+            "correta": "D"
+        },
+        {
+            "id": 62,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Premissa 1: 'X está contido em Y e em Z, ou está contido em P'. Premissa 2: 'X não está contido em P'. Conclui-se necessariamente que:",
+            "alternativas": {
+                "A": "Y está contido em Z",
+                "B": "X está contido em Z",
+                "C": "Y está contido em Z ou em P",
+                "D": "X não está contido nem em P nem em Y",
+                "E": "X não está contido nem em Y nem em Z"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 63,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "B é condição necessária para C e suficiente para D. D é condição necessária e suficiente para A. Quando C ocorre:",
+            "alternativas": {
+                "A": "D ocorre e B não ocorre",
+                "B": "D não ocorre ou A não ocorre",
+                "C": "B e A ocorrem",
+                "D": "nem B nem D ocorrem",
+                "E": "B não ocorre ou A não ocorre"
+            },
+            "correta": "C"
+        },
+        {
+            "id": 64,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Se Frederico é francês, Alberto não é alemão. Ou Alberto é alemão, ou Egídio é espanhol. Se Pedro não é português, Frederico é francês. Ora, nem Egídio é espanhol nem Isaura é italiana. Logo:",
+            "alternativas": {
+                "A": "Pedro é português e Frederico é francês",
+                "B": "Pedro é português e Alberto é alemão",
+                "C": "Pedro não é português e Alberto é alemão",
+                "D": "Egídio é espanhol ou Frederico é francês",
+                "E": "Se Alberto é alemão, Frederico é francês"
+            },
+            "correta": "B"
+        },
+        {
+            "id": 65,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Se Luís estuda História, então Pedro estuda Matemática. Se Helena estuda Filosofia, então Jorge estuda Medicina. Ora, Luís estuda História ou Helena estuda Filosofia. Logo:",
+            "alternativas": {
+                "A": "Pedro estuda Matemática ou Jorge estuda Medicina",
+                "B": "Pedro estuda Matemática e Jorge estuda Medicina",
+                "C": "Se Luís não estuda História, então Jorge não estuda Medicina",
+                "D": "Helena estuda Filosofia e Pedro estuda Matemática",
+                "E": "Pedro estuda Matemática ou Helena não estuda Filosofia"
+            },
+            "correta": "A"
+        },
+        {
+            "id": 66,
+            "banca": "RACIOCÍNIO LÓGICO",
+            "ano": 1998,
+            "materia": "RACIOCÍNIO LÓGICO",
+            "enunciado": "Se Pedro é inocente, então Lauro é inocente. Se Roberto é inocente, então Sônia é inocente. Ora, Pedro é culpado ou Sônia é culpada. Segue-se logicamente que:",
+            "alternativas": {
+                "A": "Lauro é culpado e Sônia é culpada",
+                "B": "Sônia é culpada e Roberto é inocente",
+                "C": "Pedro é culpado ou Roberto é culpado",
+                "D": "Se Roberto é culpado, então Lauro é culpado",
+                "E": "Roberto é inocente se e somente se Lauro é inocente"
+            },
+            "correta": "C"
+        },
+           
 ]
