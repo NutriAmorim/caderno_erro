@@ -10644,5 +10644,286 @@ QUESTOES = [
             },
             "correta": "C"
         },
-           
+        {
+        "id": 67,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 1998,
+        "materia": "Raciocínio Lógico",
+        "enunciado": "Um crime foi cometido por um e apenas uma pessoa de um grupo de cinco suspeitos:\nArmando, Celso, Edu, Juarez e Tarso.\n\nPerguntados sobre quem era o culpado, cada um deles respondeu:\n\nArmando: \"Sou inocente\".\nCelso: \"Edu é o culpado\".\nEdu: \"Tarso é o culpado\".\nJuarez: \"Armando disse a verdade\".\nTarso: \"Celso mentiu\".\n\nSabendo-se que apenas um dos suspeitos mentiu e que todos os outros disseram a verdade,\npode-se concluir que o culpado é:",
+        "alternativas": {
+                "A": "Armando",
+                "B": "Celso",
+                "C": "Edu",
+                "D": "Juarez",
+                "E": "Tarso"
+        },
+        "correta": "E"
+},
+{
+        "id": 68,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 1997,
+        "materia": "Raciocínio Lógico",
+        "enunciado": "Cinco ciclistas apostaram uma corrida.\n\nSabe-se que:\n- \"A\" chegou depois de \"B\".\n- \"C\" e \"E\" chegaram juntos.\n- \"D\" chegou antes de \"B\".\n- Quem ganhou chegou sozinho.\n\nQuem ganhou a corrida?",
+        "alternativas": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "D",
+                "E": "E"
+        },
+        "correta": "D"
+},
+{
+        "id": 69,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 2025,
+        "materia": "Raciocínio Lógico",
+        "enunciado": "Sérgio possui quatro irmãos.\n\nCerto dia foi usar sua camiseta do SÃO PAULO e não a encontrou em seu armário.\nNo dia seguinte, a camiseta estava novamente no armário.\n\nQuerendo descobrir qual dos irmãos a havia usado, recebeu as seguintes respostas:\n\nMarcos declarou: \"João que a usou\".\nJoão declarou: \"Quem a usou foi Márcia\".\nNelson declarou: \"Eu não usei a camiseta\".\nMárcia protestou: \"João está mentindo\".\n\nSabendo-se que apenas uma das respostas é verídica,\nquem foi o responsável pelo sumiço da camiseta?",
+        "alternativas": {
+                "A": "Marcos",
+                "B": "João",
+                "C": "Nelson",
+                "D": "Márcia",
+                "E": "Ninguém"
+        },
+        "correta": "C"
+},
+{
+        "id": 70,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 2003,
+        "materia": "Raciocínio Lógico",
+        "enunciado": "Em um dia de trabalho no escritório,\nconsiderando os funcionários Ana, Cláudia, Luís, Paula e João,\nsabe-se que:\n\n- Ana chegou antes de Paula e Luís.\n- Paula chegou antes de João.\n- Cláudia chegou antes de Ana.\n- João não foi o último a chegar.\n\nNesse dia, o terceiro a chegar para o trabalho foi:",
+        "alternativas": {
+                "A": "Ana",
+                "B": "Cláudia",
+                "C": "João",
+                "D": "Luís",
+                "E": "Paula"
+        },
+        "correta": "E"
+},
+{
+        "id": 71,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 2003,
+        "materia": "Raciocínio Lógico",
+        "enunciado": "Em uma repartição pública que funciona de segunda a sexta-feira,\n11 novos funcionários foram contratados.\n\nEm relação aos contratados,\né necessariamente verdade que:",
+        "alternativas": {
+                "A": "Todos fazem aniversário em meses diferentes",
+                "B": "Ao menos dois fazem aniversário no mesmo mês",
+                "C": "Ao menos dois começaram a trabalhar no mesmo dia do mês",
+                "D": "Ao menos três começaram a trabalhar no mesmo dia da semana",
+                "E": "Algum começou a trabalhar em uma segunda-feira"
+        },
+        "correta": "D"
+},
+{
+        "id": 72,
+        "banca": "RACIOCÍNIO LÓGICO1",
+        "ano": 2003,
+        "materia": "Raciocínio Lógico",
+        "imagem_enunciado": "dados/img/img13.png",
+        "enunciado": "A tabela indica os plantões de funcionários de uma repartição pública\nem três sábados consecutivos.\n\nDos seis funcionários indicados,\n2 são da área administrativa e 4 da área de informática.\n\nSabe-se que para cada plantão de sábado\nsão convocados:\n- 2 funcionários da área de informática;\n- 1 da área administrativa.\n\nSabe-se ainda que Fernanda é da área de informática.\n\nUm funcionário que necessariamente é da área de informática é:",
+        "alternativas": {
+                "A": "Beatriz",
+                "B": "Cristina",
+                "C": "Julia",
+                "D": "Ricardo",
+                "E": "Silvia"
+        },
+        "correta": "D"
+        },
+        {
+            "id": 78,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 1996,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Três amigas, Tânia, Janete e Angélica estão sentadas lado a lado em um teatro.\nTânia sempre fala a verdade; Janete às vezes fala a verdade; e Angélica nunca fala a verdade.\n\nA que está sentada à esquerda diz: \"Tânia é quem está sentada no meio\".\nA que está sentada no meio diz: \"Eu sou Janete\".\nFinalmente, a que está sentada à direita diz: \"Angélica é quem está sentada no meio\".\n\nA que está sentada à esquerda, a que está sentada no meio e a que está sentada à direita são, respectivamente:",
+            "alternativas": {
+                "A": "Janete, Tânia e Angélica",
+                "B": "Janete, Angélica e Tânia",
+                "C": "Angélica, Janete e Tânia",
+                "D": "Angélica, Tânia e Janete",
+                "E": "Tânia, Angélica e Janete"
+            },
+            "correta": "B"
+        },
+
+        {
+            "id": 79,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Num torneio de natação, sabe-se que os cinco primeiros colocados foram: Carlos, José, Márcio, João e Alfredo.\nComo o resultado final ainda não tinha sido divulgado, cada um comentou a respeito do outro, sabendo-se que no comentário deles havia uma afirmação verdadeira e outra falsa.\n\nCarlos: Fiquei em terceiro lugar. O Márcio em último lugar.\nJosé: O Alfredo ficou em primeiro. Eu em segundo lugar.\nJoão: O Alfredo ficou em segundo. Eu em quarto.\nAlfredo: O José ficou em primeiro lugar. Eu em último lugar.\n\nQual foi a classificação final?",
+            "alternativas": {
+                "A": "Alfredo, João, Carlos, José e Márcio",
+                "B": "José, Márcio, Carlos, Alfredo e João",
+                "C": "José, Carlos, Márcio, João e Alfredo",
+                "D": "José, Carlos, Márcio, Alfredo e João",
+                "E": "Márcio, José, Carlos, João e Alfredo"
+            },
+            "correta": "C"
+        },
+
+        {
+            "id": 80,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 1997,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Quatro amigos, André, Beto, Caio e Dênis, obtiveram os quatro primeiros lugares em um concurso de oratória julgado por uma comissão de três juízes.\nAo comunicarem a classificação final, cada juiz anunciou duas colocações, sendo uma delas verdadeira e a outra falsa:\n\nJuiz 1: \"André foi o primeiro; Beto foi o segundo\".\nJuiz 2: \"André foi o segundo; Dênis foi o terceiro\".\nJuiz 3: \"Caio foi o segundo; Dênis foi o quarto\".\n\nSabendo que não houve empates, o primeiro, o segundo, o terceiro e o quarto colocados foram, respectivamente:",
+            "alternativas": {
+                "A": "André, Caio, Beto, Dênis",
+                "B": "Beto, André, Dênis, Caio",
+                "C": "André, Caio, Dênis, Beto",
+                "D": "Beto, André, Caio, Dênis",
+                "E": "Caio, Beto, Dênis, André"
+            },
+            "correta": "D"
+        },
+
+        {
+            "id": 81,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 1998,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Três amigos — Luís, Marcos e Nestor — são casados com Teresa, Regina e Sandra (não necessariamente nessa ordem).\nPerguntados sobre os nomes das respectivas esposas, os três fizeram as seguintes declarações:\n\nNestor: \"Marcos é casado com Teresa\".\nLuís: \"Nestor mente, pois a esposa de Marcos é Regina\".\nMarcos: \"Nestor e Luís mentem, pois minha mulher é Sandra\".\n\nSabendo-se que o marido de Sandra mentiu e que o marido de Teresa disse a verdade, segue-se que as esposas de Luís, Marcos e Nestor são, respectivamente:",
+            "alternativas": {
+                "A": "Sandra, Teresa, Regina",
+                "B": "Sandra, Regina, Teresa",
+                "C": "Regina, Sandra, Teresa",
+                "D": "Teresa, Regina, Sandra",
+                "E": "Teresa, Sandra, Regina"
+            },
+            "correta": "E"
+        },
+
+        {
+            "id": 82,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Maria tem três perfumes: um Azarro, um Paco Rabane e um Theme.\nUm dos perfumes é branco, o outro é amarelo e o outro é azul.\n\nSabe-se que:\n1) ou o Azarro é branco, ou o Theme é branco;\n2) ou o Azarro é amarelo, ou o Paco Rabane é azul;\n3) ou o Theme é azul, ou o Paco Rabane é azul;\n4) ou o Paco Rabane é amarelo, ou o Theme é amarelo.\n\nPortanto, as cores do Azarro, do Paco Rabane e do Theme são, respectivamente:",
+            "alternativas": {
+                "A": "Branco, amarelo, azul",
+                "B": "Amarelo, azul, branco",
+                "C": "Azul, branco, amarelo",
+                "D": "Amarelo, branco, azul",
+                "E": "Branco, azul, amarelo"
+            },
+            "correta": "B"
+        },
+
+        {
+            "id": 83,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Três pessoas, Flávio, Carolina e Ricardo possuem três carros, cada um de cor diferente.\nFlávio sempre fala a verdade; Carolina às vezes fala a verdade; e Ricardo nunca fala a verdade.\n\nA pessoa que tem o carro preto diz: \"Flávio é quem tem o carro verde\".\nA que tem o carro verde diz: \"Eu sou Carolina\".\nFinalmente, a que tem o carro lilás diz: \"Ricardo é quem tem o carro verde\".\n\nA pessoa que tem o carro lilás, a que tem o carro verde e a que tem o carro preto são, respectivamente:",
+            "alternativas": {
+                "A": "Carolina, Flávio e Ricardo",
+                "B": "Carolina, Ricardo e Flávio",
+                "C": "Ricardo, Carolina e Flávio",
+                "D": "Ricardo, Flávio e Carolina",
+                "E": "Flávio, Ricardo e Carolina"
+            },
+            "correta": "D"
+        },
+                {
+            "id": 84,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Os carros de Wagner, Flávio, Márcio e Emerson são, não necessariamente nesta ordem, um Corsa, uma Belina, um Gol e um Pálio. Um dos carros é vermelho, o outro é amarelo, um outro é preto, e o outro é branco.\n\nO carro de Flávio não é preto e não é a Belina; o carro de Emerson é o Pálio; o carro de Wagner é amarelo; o carro de Márcio não é a Belina e não é branco; Flávio possui um Corsa vermelho.\n\nAs cores do Corsa, da Belina, do Gol e do Pálio são, respectivamente:",
+            "alternativas": {
+                "A": "Amarelo, preto, branco e vermelho",
+                "B": "Branco, amarelo, preto e vermelho",
+                "C": "Branco, vermelho, preto e amarelo",
+                "D": "Vermelho, amarelo, preto e branco",
+                "E": "Preto, branco, vermelho e amarelo"
+            },
+            "correta": "D"
+        },
+
+        {
+            "id": 85,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Três irmãos — Paulo, Rui e Antônio — foram a uma festa com calças de cores diferentes: azul, branca e preta.\n\nO de preto disse: \"Antônio é quem está de calça branca\".\nO de azul respondeu: \"Paulo é o que está de calça branca\".\nE o de branco falou: \"Eu sou Rui\".\n\nSabendo-se que Paulo sempre diz a verdade, Rui às vezes diz a verdade, e Antônio nunca diz a verdade, determine as cores das calças de Paulo, Rui e Antônio, respectivamente:",
+            "alternativas": {
+                "A": "Azul, branco, preto",
+                "B": "Branco, azul, preto",
+                "C": "Preto, azul, branco",
+                "D": "Preto, branco, azul",
+                "E": "Azul, preto, branco"
+            },
+            "correta": "D"
+        },
+
+        {
+            "id": 86,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 1998,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "De três irmãos — José, Adriano e Caio — sabe-se que:\n\n1) ou José é o loiro, ou Adriano é o moreno;\n2) ou Adriano é o loiro, ou Caio é o loiro.\n\nEntão, o loiro e o moreno dos três irmãos são, respectivamente:",
+            "alternativas": {
+                "A": "Caio e José",
+                "B": "Caio e Adriano",
+                "C": "Adriano e Caio",
+                "D": "Adriano e José",
+                "E": "José e Adriano"
+            },
+            "correta": "B"
+        },
+
+        {
+            "id": 87,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Três amigos — Flávio, Marcelo e Amaral — têm esposas chamadas Ana, Beatriz e Diana (não necessariamente nessa ordem).\n\nAmaral disse: \"Marcelo é casado com Ana\".\nFlávio disse: \"Amaral mente, pois a esposa de Marcelo é Beatriz\".\nMarcelo disse: \"Amaral e Flávio mentiram, pois minha esposa é Diana\".\n\nSabendo-se que o marido de Diana mentiu e que o marido de Ana disse a verdade, determine as esposas de Flávio, Marcelo e Amaral, respectivamente:",
+            "alternativas": {
+                "A": "Diana, Ana, Beatriz",
+                "B": "Diana, Beatriz, Ana",
+                "C": "Beatriz, Diana, Ana",
+                "D": "Ana, Beatriz, Diana",
+                "E": "Ana, Diana, Beatriz"
+            },
+            "correta": "D"
+        },
+
+        {
+            "id": 88,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "As camisas de José, Alexandre, Marques e Paulo são: verde-limão, roxa, abóbora e prateada, não necessariamente nessa ordem. As marcas são: Fórum, Hering, Zoomp e Marisol.\n\nA camisa de José é roxa; a marca da camisa de Alexandre é Hering; a de Marques não é verde-limão e não é Marisol; a de Paulo não é prateada e não é Marisol; a camisa de Alexandre é prateada.\n\nAs cores das camisas de Paulo, Alexandre, José e Marques são, respectivamente:",
+            "alternativas": {
+                "A": "Verde-limão, abóbora, roxa e prateada",
+                "B": "Verde-limão, prateada, roxa e abóbora",
+                "C": "Abóbora, prateada, roxa e verde-limão",
+                "D": "Abóbora, verde-limão, roxa e prateada",
+                "E": "Abóbora, prateada, roxa e verde-limão"
+            },
+            "correta": "B"
+        },
+
+        {
+            "id": 89,
+            "banca": "RACIOCÍNIO LÓGICO1",
+            "ano": 2025,
+            "materia": "Raciocínio Lógico",
+            "enunciado": "Carlos, João, Ana, Márcia e Alfredo estão numa festa. Cada um possui uma profissão diferente: Advogado, Administrador, Psicólogo, Físico e Médico.\n\nSão verdadeiras as frases:\n– O médico diz a Alfredo que salvou ontem a vida de quatro crianças.\n– Carlos, Ana e o advogado têm três filhos.\n– Ana adora dançar com o médico e com o psicólogo.\n– O advogado gosta de conversar com Ana, Márcia e João, mas odeia conversar com o médico.\n– Carlos, Ana e Márcia dançam com o administrador.\n\nPode-se afirmar que Márcia é a:",
+            "alternativas": {
+                "A": "Advogada",
+                "B": "Administradora",
+                "C": "Psicóloga",
+                "D": "Física",
+                "E": "Médica"
+            },
+            "correta": "D"
+        }
+
 ]
