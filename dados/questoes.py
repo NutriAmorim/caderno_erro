@@ -10924,6 +10924,1816 @@ QUESTOES = [
                 "E": "Médica"
             },
             "correta": "D"
-        }
+        },
+    {
+        "id": 1,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A Administração Pública direta caracteriza-se por:",
+        "alternativas": {
+            "A": "ser composta apenas por autarquias",
+            "B": "integrar a estrutura dos entes federativos",
+            "C": "atuar exclusivamente por delegação",
+            "D": "possuir personalidade jurídica própria",
+            "E": "atuar apenas no âmbito municipal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 2,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Integram a Administração Pública indireta:",
+        "alternativas": {
+            "A": "ministérios e secretarias",
+            "B": "órgãos legislativos",
+            "C": "autarquias, fundações, empresas públicas e sociedades de economia mista",
+            "D": "apenas autarquias",
+            "E": "órgãos do Poder Judiciário"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 3,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da legalidade na Administração Pública significa que o agente público:",
+        "alternativas": {
+            "A": "pode agir conforme sua vontade",
+            "B": "age apenas conforme a lei",
+            "C": "atua segundo costumes administrativos",
+            "D": "segue ordens políticas",
+            "E": "tem liberdade absoluta"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 4,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da impessoalidade veda:",
+        "alternativas": {
+            "A": "a publicidade dos atos",
+            "B": "a promoção pessoal de agentes públicos",
+            "C": "a eficiência administrativa",
+            "D": "a legalidade",
+            "E": "a moralidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 5,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da publicidade tem como finalidade:",
+        "alternativas": {
+            "A": "proteger dados sigilosos",
+            "B": "impedir o controle social",
+            "C": "dar transparência aos atos administrativos",
+            "D": "favorecer grupos internos",
+            "E": "reduzir a eficiência"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 6,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da eficiência exige que a Administração Pública:",
+        "alternativas": {
+            "A": "priorize formalidades excessivas",
+            "B": "atinja resultados com economicidade",
+            "C": "atue apenas conforme ordens superiores",
+            "D": "reduza a transparência",
+            "E": "centralize todas as decisões"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 7,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Atos administrativos são definidos como:",
+        "alternativas": {
+            "A": "atos privados do servidor",
+            "B": "atos praticados sem competência",
+            "C": "manifestações da Administração no exercício de suas funções",
+            "D": "atos exclusivamente legislativos",
+            "E": "decisões judiciais"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 8,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A competência administrativa é:",
+        "alternativas": {
+            "A": "renunciável",
+            "B": "delegável em qualquer hipótese",
+            "C": "irrenunciável, salvo delegação ou avocação legal",
+            "D": "livremente transferível",
+            "E": "opcional"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 9,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O poder hierárquico permite à Administração:",
+        "alternativas": {
+            "A": "criar leis",
+            "B": "julgar conflitos",
+            "C": "ordenar, fiscalizar e rever atos",
+            "D": "editar normas gerais",
+            "E": "legislar"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 10,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O poder disciplinar refere-se à:",
+        "alternativas": {
+            "A": "edição de leis",
+            "B": "aplicação de sanções a servidores",
+            "C": "fiscalização judicial",
+            "D": "organização do Judiciário",
+            "E": "atividade legislativa"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 11,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Segundo a Lei nº 9.784/1999, o processo administrativo deve observar, entre outros, o princípio da:",
+        "alternativas": {
+            "A": "celeridade",
+            "B": "segregação",
+            "C": "privatização",
+            "D": "exclusividade",
+            "E": "arbitrariedade"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 12,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "No processo administrativo, é assegurado ao administrado:",
+        "alternativas": {
+            "A": "sigilo absoluto",
+            "B": "direito ao contraditório e ampla defesa",
+            "C": "decisão sem motivação",
+            "D": "prazo indeterminado",
+            "E": "isenção de deveres"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 13,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A motivação dos atos administrativos é obrigatória quando:",
+        "alternativas": {
+            "A": "dispensar licitação",
+            "B": "afetar direitos dos administrados",
+            "C": "for conveniente",
+            "D": "o agente desejar",
+            "E": "não houver impacto jurídico"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 14,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A Lei nº 12.527/2011 trata:",
+        "alternativas": {
+            "A": "do processo civil",
+            "B": "do acesso à informação",
+            "C": "da licitação",
+            "D": "do regime disciplinar",
+            "E": "da administração tributária"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 15,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Transparência ativa refere-se à:",
+        "alternativas": {
+            "A": "divulgação espontânea de informações pelo órgão público",
+            "B": "resposta apenas mediante solicitação",
+            "C": "informação sigilosa",
+            "D": "restrição de dados",
+            "E": "informação judicial"
+        },
+        "correta": "A"
+    },
+
+    {
+        "id": 16,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Na arquivologia, documentos em uso frequente pertencem ao arquivo:",
+        "alternativas": {
+            "A": "permanente",
+            "B": "intermediário",
+            "C": "corrente",
+            "D": "histórico",
+            "E": "central"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 17,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O arquivo intermediário destina-se a documentos:",
+        "alternativas": {
+            "A": "sem valor administrativo",
+            "B": "de guarda permanente",
+            "C": "com consulta eventual",
+            "D": "em uso diário",
+            "E": "sigilosos apenas"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 18,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O arquivo permanente conserva documentos:",
+        "alternativas": {
+            "A": "sem valor histórico",
+            "B": "apenas administrativos",
+            "C": "com valor histórico e probatório",
+            "D": "temporários",
+            "E": "sem relevância"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 19,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O atendimento ao público no serviço público deve ser pautado por:",
+        "alternativas": {
+            "A": "rigidez excessiva",
+            "B": "ética e urbanidade",
+            "C": "informalidade absoluta",
+            "D": "sigilo permanente",
+            "E": "discricionariedade pessoal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 20,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A ética no serviço público exige que o servidor:",
+        "alternativas": {
+            "A": "priorize interesses pessoais",
+            "B": "atue com honestidade e respeito",
+            "C": "atue sem controle",
+            "D": "ignore normas",
+            "E": "aja conforme conveniência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 21,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A redação oficial caracteriza-se principalmente por:",
+        "alternativas": {
+            "A": "linguagem pessoal e subjetiva",
+            "B": "uso de gírias e informalidade",
+            "C": "clareza, concisão e impessoalidade",
+            "D": "linguagem literária",
+            "E": "ambiguidade proposital"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 22,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O ofício é um documento utilizado para:",
+        "alternativas": {
+            "A": "comunicação exclusivamente interna",
+            "B": "registro histórico",
+            "C": "comunicação oficial entre autoridades",
+            "D": "arquivamento permanente",
+            "E": "uso pessoal do servidor"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 23,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O memorando é utilizado para:",
+        "alternativas": {
+            "A": "comunicação entre órgãos externos",
+            "B": "comunicação interna entre unidades administrativas",
+            "C": "atos normativos",
+            "D": "correspondência pessoal",
+            "E": "atos legislativos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 24,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A assinatura em documentos oficiais indica:",
+        "alternativas": {
+            "A": "opinião pessoal",
+            "B": "responsabilidade pelo conteúdo",
+            "C": "opcionalidade",
+            "D": "ato informal",
+            "E": "mera formalidade sem valor"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 25,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão de documentos tem como finalidade:",
+        "alternativas": {
+            "A": "eliminar todos os documentos",
+            "B": "organizar, conservar e facilitar o acesso à informação",
+            "C": "aumentar a burocracia",
+            "D": "impedir o controle social",
+            "E": "centralizar informações sigilosas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 26,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Protocolo administrativo é o setor responsável por:",
+        "alternativas": {
+            "A": "elaboração de leis",
+            "B": "registro, controle e tramitação de documentos",
+            "C": "arquivamento permanente",
+            "D": "gestão financeira",
+            "E": "controle judicial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 27,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Documento digital é aquele que:",
+        "alternativas": {
+            "A": "existe apenas em papel",
+            "B": "possui validade apenas informal",
+            "C": "é produzido e armazenado em meio eletrônico",
+            "D": "não possui valor jurídico",
+            "E": "não pode ser arquivado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A digitalização de documentos visa principalmente:",
+        "alternativas": {
+            "A": "substituir a legalidade",
+            "B": "reduzir acesso à informação",
+            "C": "otimizar espaço e facilitar o acesso",
+            "D": "aumentar custos",
+            "E": "impedir fiscalização"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 29,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A comunicação institucional deve priorizar:",
+        "alternativas": {
+            "A": "interesses pessoais",
+            "B": "clareza e objetividade",
+            "C": "linguagem técnica excessiva",
+            "D": "informações sigilosas",
+            "E": "opiniões subjetivas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 30,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "No atendimento ao público, o servidor deve:",
+        "alternativas": {
+            "A": "agir com descaso",
+            "B": "negar informações sem motivo",
+            "C": "tratar todos com igualdade",
+            "D": "priorizar conhecidos",
+            "E": "agir com informalidade excessiva"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 31,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A responsabilidade civil do Estado decorre de:",
+        "alternativas": {
+            "A": "atos exclusivamente legislativos",
+            "B": "dano causado por agente público",
+            "C": "atos judiciais apenas",
+            "D": "conduta do particular",
+            "E": "omissão sem dano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A responsabilidade civil do Estado é, em regra:",
+        "alternativas": {
+            "A": "subjetiva",
+            "B": "objetiva",
+            "C": "inexistente",
+            "D": "penal",
+            "E": "administrativa apenas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 33,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O controle interno da Administração Pública tem como objetivo:",
+        "alternativas": {
+            "A": "prejudicar a gestão",
+            "B": "fiscalizar e corrigir atos administrativos",
+            "C": "substituir o Judiciário",
+            "D": "impedir a eficiência",
+            "E": "criar novos órgãos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 34,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O controle externo da Administração Pública é exercido:",
+        "alternativas": {
+            "A": "pelos próprios órgãos administrativos",
+            "B": "exclusivamente pelo Executivo",
+            "C": "pelo Poder Legislativo com auxílio dos Tribunais de Contas",
+            "D": "somente pelo Judiciário",
+            "E": "apenas pelo Ministério Público"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 35,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A licitação tem como finalidade principal:",
+        "alternativas": {
+            "A": "favorecer fornecedores",
+            "B": "garantir igualdade e seleção da proposta mais vantajosa",
+            "C": "aumentar despesas",
+            "D": "restringir concorrência",
+            "E": "dispensar controle"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 36,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da isonomia na licitação garante:",
+        "alternativas": {
+            "A": "tratamento diferenciado injustificado",
+            "B": "igualdade entre os licitantes",
+            "C": "vantagem à Administração",
+            "D": "exclusão de pequenas empresas",
+            "E": "sigilo absoluto"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 37,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A dispensa de licitação ocorre quando:",
+        "alternativas": {
+            "A": "a lei assim permitir",
+            "B": "o gestor desejar",
+            "C": "não houver orçamento",
+            "D": "for conveniente politicamente",
+            "E": "sempre que possível"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 38,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O contrato administrativo distingue-se do contrato privado porque:",
+        "alternativas": {
+            "A": "não possui cláusulas",
+            "B": "não gera obrigações",
+            "C": "contém cláusulas exorbitantes",
+            "D": "é informal",
+            "E": "não pode ser alterado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 39,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A fiscalização do contrato administrativo é responsabilidade:",
+        "alternativas": {
+            "A": "do contratado",
+            "B": "do órgão contratante",
+            "C": "do Poder Judiciário",
+            "D": "do Ministério Público",
+            "E": "do Legislativo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 40,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O servidor público deve agir sempre:",
+        "alternativas": {
+            "A": "em benefício próprio",
+            "B": "com ética e responsabilidade",
+            "C": "sem observar normas",
+            "D": "de forma arbitrária",
+            "E": "com parcialidade"
+        },
+        "correta": "B"
+    }
+    {
+        "id": 21,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A redação oficial caracteriza-se principalmente por:",
+        "alternativas": {
+            "A": "linguagem pessoal e subjetiva",
+            "B": "uso de gírias e informalidade",
+            "C": "clareza, concisão e impessoalidade",
+            "D": "linguagem literária",
+            "E": "ambiguidade proposital"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 22,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O ofício é um documento utilizado para:",
+        "alternativas": {
+            "A": "comunicação exclusivamente interna",
+            "B": "registro histórico",
+            "C": "comunicação oficial entre autoridades",
+            "D": "arquivamento permanente",
+            "E": "uso pessoal do servidor"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 23,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O memorando é utilizado para:",
+        "alternativas": {
+            "A": "comunicação entre órgãos externos",
+            "B": "comunicação interna entre unidades administrativas",
+            "C": "atos normativos",
+            "D": "correspondência pessoal",
+            "E": "atos legislativos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 24,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A assinatura em documentos oficiais indica:",
+        "alternativas": {
+            "A": "opinião pessoal",
+            "B": "responsabilidade pelo conteúdo",
+            "C": "opcionalidade",
+            "D": "ato informal",
+            "E": "mera formalidade sem valor"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 25,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão de documentos tem como finalidade:",
+        "alternativas": {
+            "A": "eliminar todos os documentos",
+            "B": "organizar, conservar e facilitar o acesso à informação",
+            "C": "aumentar a burocracia",
+            "D": "impedir o controle social",
+            "E": "centralizar informações sigilosas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 26,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Protocolo administrativo é o setor responsável por:",
+        "alternativas": {
+            "A": "elaboração de leis",
+            "B": "registro, controle e tramitação de documentos",
+            "C": "arquivamento permanente",
+            "D": "gestão financeira",
+            "E": "controle judicial"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 27,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Documento digital é aquele que:",
+        "alternativas": {
+            "A": "existe apenas em papel",
+            "B": "possui validade apenas informal",
+            "C": "é produzido e armazenado em meio eletrônico",
+            "D": "não possui valor jurídico",
+            "E": "não pode ser arquivado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 28,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A digitalização de documentos visa principalmente:",
+        "alternativas": {
+            "A": "substituir a legalidade",
+            "B": "reduzir acesso à informação",
+            "C": "otimizar espaço e facilitar o acesso",
+            "D": "aumentar custos",
+            "E": "impedir fiscalização"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 29,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A comunicação institucional deve priorizar:",
+        "alternativas": {
+            "A": "interesses pessoais",
+            "B": "clareza e objetividade",
+            "C": "linguagem técnica excessiva",
+            "D": "informações sigilosas",
+            "E": "opiniões subjetivas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 30,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "No atendimento ao público, o servidor deve:",
+        "alternativas": {
+            "A": "agir com descaso",
+            "B": "negar informações sem motivo",
+            "C": "tratar todos com igualdade",
+            "D": "priorizar conhecidos",
+            "E": "agir com informalidade excessiva"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 31,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A responsabilidade civil do Estado decorre de:",
+        "alternativas": {
+            "A": "atos exclusivamente legislativos",
+            "B": "dano causado por agente público",
+            "C": "atos judiciais apenas",
+            "D": "conduta do particular",
+            "E": "omissão sem dano"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 32,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A responsabilidade civil do Estado é, em regra:",
+        "alternativas": {
+            "A": "subjetiva",
+            "B": "objetiva",
+            "C": "inexistente",
+            "D": "penal",
+            "E": "administrativa apenas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 33,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O controle interno da Administração Pública tem como objetivo:",
+        "alternativas": {
+            "A": "prejudicar a gestão",
+            "B": "fiscalizar e corrigir atos administrativos",
+            "C": "substituir o Judiciário",
+            "D": "impedir a eficiência",
+            "E": "criar novos órgãos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 34,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O controle externo da Administração Pública é exercido:",
+        "alternativas": {
+            "A": "pelos próprios órgãos administrativos",
+            "B": "exclusivamente pelo Executivo",
+            "C": "pelo Poder Legislativo com auxílio dos Tribunais de Contas",
+            "D": "somente pelo Judiciário",
+            "E": "apenas pelo Ministério Público"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 35,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A licitação tem como finalidade principal:",
+        "alternativas": {
+            "A": "favorecer fornecedores",
+            "B": "garantir igualdade e seleção da proposta mais vantajosa",
+            "C": "aumentar despesas",
+            "D": "restringir concorrência",
+            "E": "dispensar controle"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 36,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da isonomia na licitação garante:",
+        "alternativas": {
+            "A": "tratamento diferenciado injustificado",
+            "B": "igualdade entre os licitantes",
+            "C": "vantagem à Administração",
+            "D": "exclusão de pequenas empresas",
+            "E": "sigilo absoluto"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 37,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A dispensa de licitação ocorre quando:",
+        "alternativas": {
+            "A": "a lei assim permitir",
+            "B": "o gestor desejar",
+            "C": "não houver orçamento",
+            "D": "for conveniente politicamente",
+            "E": "sempre que possível"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 38,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O contrato administrativo distingue-se do contrato privado porque:",
+        "alternativas": {
+            "A": "não possui cláusulas",
+            "B": "não gera obrigações",
+            "C": "contém cláusulas exorbitantes",
+            "D": "é informal",
+            "E": "não pode ser alterado"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 39,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A fiscalização do contrato administrativo é responsabilidade:",
+        "alternativas": {
+            "A": "do contratado",
+            "B": "do órgão contratante",
+            "C": "do Poder Judiciário",
+            "D": "do Ministério Público",
+            "E": "do Legislativo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 40,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O servidor público deve agir sempre:",
+        "alternativas": {
+            "A": "em benefício próprio",
+            "B": "com ética e responsabilidade",
+            "C": "sem observar normas",
+            "D": "de forma arbitrária",
+            "E": "com parcialidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 41,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A moralidade administrativa exige que o agente público:",
+        "alternativas": {
+            "A": "atue conforme interesses pessoais",
+            "B": "observe padrões éticos de conduta",
+            "C": "priorize resultados a qualquer custo",
+            "D": "ignore valores sociais",
+            "E": "aja sem controle"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 42,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A anulação de um ato administrativo ocorre quando:",
+        "alternativas": {
+            "A": "há conveniência administrativa",
+            "B": "o ato é ilegal",
+            "C": "há interesse político",
+            "D": "o prazo expirou",
+            "E": "o gestor decide"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 43,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A revogação de ato administrativo ocorre por motivo de:",
+        "alternativas": {
+            "A": "ilegalidade",
+            "B": "inconstitucionalidade",
+            "C": "conveniência e oportunidade",
+            "D": "vício formal",
+            "E": "nulidade absoluta"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 44,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da autotutela permite à Administração:",
+        "alternativas": {
+            "A": "legislar",
+            "B": "julgar crimes",
+            "C": "rever seus próprios atos",
+            "D": "criar impostos",
+            "E": "editar leis"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 45,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A descentralização administrativa ocorre quando:",
+        "alternativas": {
+            "A": "há concentração de competências",
+            "B": "o Estado transfere a execução a outra entidade",
+            "C": "há controle interno",
+            "D": "ocorre hierarquia direta",
+            "E": "há subordinação total"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 46,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A desconcentração administrativa caracteriza-se por:",
+        "alternativas": {
+            "A": "criação de novas entidades",
+            "B": "delegação a particulares",
+            "C": "distribuição interna de competências",
+            "D": "privatização",
+            "E": "extinção de órgãos"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 47,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O regime jurídico administrativo é marcado pela:",
+        "alternativas": {
+            "A": "igualdade absoluta entre partes",
+            "B": "supremacia do interesse público",
+            "C": "autonomia privada",
+            "D": "ausência de prerrogativas",
+            "E": "neutralidade estatal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 48,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A indisponibilidade do interesse público significa que:",
+        "alternativas": {
+            "A": "o gestor pode renunciar direitos públicos",
+            "B": "o interesse público não pode ser livremente negociado",
+            "C": "o Estado atua como particular",
+            "D": "não há controle",
+            "E": "há autonomia privada"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 49,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O poder de polícia administrativa consiste em:",
+        "alternativas": {
+            "A": "julgar crimes",
+            "B": "legislar",
+            "C": "restringir direitos em prol do interesse público",
+            "D": "executar sentenças",
+            "E": "administrar justiça"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 50,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A forma escrita é regra nos atos administrativos porque garante:",
+        "alternativas": {
+            "A": "sigilo",
+            "B": "controle e segurança jurídica",
+            "C": "informalidade",
+            "D": "celeridade absoluta",
+            "E": "dispensa de registro"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 51,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A presunção de legitimidade do ato administrativo significa que:",
+        "alternativas": {
+            "A": "é sempre definitivo",
+            "B": "é considerado válido até prova em contrário",
+            "C": "não pode ser questionado",
+            "D": "é irrevogável",
+            "E": "é sempre nulo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 52,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A autoexecutoriedade do ato administrativo permite:",
+        "alternativas": {
+            "A": "execução direta sem ordem judicial, quando prevista",
+            "B": "anulação automática",
+            "C": "edição de leis",
+            "D": "julgamento de crimes",
+            "E": "controle externo"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 53,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A tipicidade do ato administrativo indica que:",
+        "alternativas": {
+            "A": "não precisa de lei",
+            "B": "segue modelos previstos em lei",
+            "C": "é livre",
+            "D": "é informal",
+            "E": "não tem forma"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 54,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A finalidade do ato administrativo deve sempre atender:",
+        "alternativas": {
+            "A": "interesse pessoal",
+            "B": "interesse público",
+            "C": "interesse político",
+            "D": "interesse privado",
+            "E": "interesse econômico"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 55,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A forma do ato administrativo refere-se:",
+        "alternativas": {
+            "A": "ao conteúdo",
+            "B": "ao modo de exteriorização",
+            "C": "à finalidade",
+            "D": "à competência",
+            "E": "ao motivo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 56,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O motivo do ato administrativo corresponde:",
+        "alternativas": {
+            "A": "à autoridade",
+            "B": "à forma escrita",
+            "C": "à situação de fato e de direito",
+            "D": "à publicação",
+            "E": "à assinatura"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 57,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O objeto do ato administrativo é:",
+        "alternativas": {
+            "A": "o agente",
+            "B": "a finalidade",
+            "C": "o efeito jurídico produzido",
+            "D": "a competência",
+            "E": "a forma"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 58,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A nulidade absoluta do ato administrativo ocorre quando:",
+        "alternativas": {
+            "A": "há vício sanável",
+            "B": "há conveniência",
+            "C": "há ilegalidade grave",
+            "D": "há oportunidade",
+            "E": "há interesse público"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 59,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A convalidação do ato administrativo é possível quando:",
+        "alternativas": {
+            "A": "o vício é insanável",
+            "B": "há má-fé",
+            "C": "o vício é sanável",
+            "D": "há nulidade absoluta",
+            "E": "há ilegalidade penal"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 60,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A publicação do ato administrativo é requisito de:",
+        "alternativas": {
+            "A": "validade",
+            "B": "existência",
+            "C": "eficácia",
+            "D": "competência",
+            "E": "finalidade"
+        },
+        "correta": "C"
+    },
+
+    {
+        "id": 61,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão de pessoas no setor público visa:",
+        "alternativas": {
+            "A": "reduzir eficiência",
+            "B": "valorizar servidores e resultados",
+            "C": "eliminar controles",
+            "D": "aumentar burocracia",
+            "E": "priorizar interesses pessoais"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 62,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O trabalho em equipe no serviço público contribui para:",
+        "alternativas": {
+            "A": "isolamento",
+            "B": "ineficiência",
+            "C": "melhoria dos resultados",
+            "D": "conflitos",
+            "E": "centralização"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 63,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A comunicação interna eficaz favorece:",
+        "alternativas": {
+            "A": "ruídos",
+            "B": "desinformação",
+            "C": "alinhamento institucional",
+            "D": "conflitos",
+            "E": "retrabalho"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 64,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O atendimento humanizado ao cidadão implica:",
+        "alternativas": {
+            "A": "tratamento desigual",
+            "B": "empatia e respeito",
+            "C": "formalismo excessivo",
+            "D": "rigidez",
+            "E": "indiferença"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 65,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A ética profissional no serviço público exige:",
+        "alternativas": {
+            "A": "vantagens pessoais",
+            "B": "conduta íntegra",
+            "C": "sigilo absoluto sempre",
+            "D": "subjetividade",
+            "E": "parcialidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 66,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A eficiência administrativa está relacionada:",
+        "alternativas": {
+            "A": "ao desperdício",
+            "B": "ao alcance de resultados",
+            "C": "à informalidade",
+            "D": "à lentidão",
+            "E": "à ausência de metas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 67,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A organização administrativa busca:",
+        "alternativas": {
+            "A": "desordem",
+            "B": "sobreposição de funções",
+            "C": "racionalização das atividades",
+            "D": "centralização extrema",
+            "E": "ineficiência"
+        },
+        "correta": "C"
+    },
+    {
+        "id": 68,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O planejamento administrativo é importante para:",
+        "alternativas": {
+            "A": "agir sem objetivos",
+            "B": "prever ações e resultados",
+            "C": "improvisar",
+            "D": "eliminar controle",
+            "E": "aumentar custos"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 69,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A tomada de decisão administrativa deve ser:",
+        "alternativas": {
+            "A": "arbitrária",
+            "B": "fundamentada e responsável",
+            "C": "pessoal",
+            "D": "informal",
+            "E": "aleatória"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 70,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A qualidade no serviço público está associada:",
+        "alternativas": {
+            "A": "à improvisação",
+            "B": "ao atendimento das necessidades do cidadão",
+            "C": "à burocracia excessiva",
+            "D": "à lentidão",
+            "E": "à informalidade"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 71,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A accountability no setor público refere-se à:",
+        "alternativas": {
+            "A": "ausência de controle",
+            "B": "prestação de contas e responsabilidade",
+            "C": "privatização",
+            "D": "autonomia privada",
+            "E": "segregação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 72,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A transparência administrativa fortalece:",
+        "alternativas": {
+            "A": "sigilo",
+            "B": "controle social",
+            "C": "ineficiência",
+            "D": "corrupção",
+            "E": "centralização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 73,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O controle social ocorre quando:",
+        "alternativas": {
+            "A": "apenas órgãos controlam",
+            "B": "a sociedade fiscaliza a Administração",
+            "C": "não há participação",
+            "D": "há sigilo",
+            "E": "há exclusividade estatal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 74,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A ouvidoria pública tem como função:",
+        "alternativas": {
+            "A": "julgar processos",
+            "B": "receber manifestações dos cidadãos",
+            "C": "legislar",
+            "D": "executar contratos",
+            "E": "controlar orçamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 75,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A participação popular fortalece:",
+        "alternativas": {
+            "A": "autoritarismo",
+            "B": "democracia",
+            "C": "sigilo",
+            "D": "ineficiência",
+            "E": "centralização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 76,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão por processos busca:",
+        "alternativas": {
+            "A": "fragmentação",
+            "B": "otimização das atividades",
+            "C": "retrabalho",
+            "D": "isolamento",
+            "E": "desorganização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 77,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "Indicadores de desempenho servem para:",
+        "alternativas": {
+            "A": "ocultar resultados",
+            "B": "avaliar resultados",
+            "C": "aumentar custos",
+            "D": "desinformar",
+            "E": "eliminar metas"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 78,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A melhoria contínua pressupõe:",
+        "alternativas": {
+            "A": "estagnação",
+            "B": "avaliação e aperfeiçoamento constantes",
+            "C": "improviso",
+            "D": "ausência de metas",
+            "E": "desorganização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 79,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A inovação no setor público visa:",
+        "alternativas": {
+            "A": "reduzir qualidade",
+            "B": "melhorar serviços",
+            "C": "aumentar burocracia",
+            "D": "impedir mudanças",
+            "E": "centralizar decisões"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 80,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão do tempo no serviço público contribui para:",
+        "alternativas": {
+            "A": "atrasos",
+            "B": "produtividade",
+            "C": "retrabalho",
+            "D": "desorganização",
+            "E": "ineficiência"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 81,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A postura profissional do servidor deve ser:",
+        "alternativas": {
+            "A": "negligente",
+            "B": "ética e responsável",
+            "C": "arbitrária",
+            "D": "parcial",
+            "E": "informal"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 82,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O comprometimento institucional reflete:",
+        "alternativas": {
+            "A": "desinteresse",
+            "B": "alinhamento com objetivos da organização",
+            "C": "indiferença",
+            "D": "improviso",
+            "E": "isolamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 83,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão pública moderna prioriza:",
+        "alternativas": {
+            "A": "resultados e cidadão",
+            "B": "formalismo excessivo",
+            "C": "sigilo",
+            "D": "centralização",
+            "E": "ineficiência"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 84,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A capacitação contínua do servidor é importante para:",
+        "alternativas": {
+            "A": "estagnação",
+            "B": "melhoria do desempenho",
+            "C": "redução de qualidade",
+            "D": "improviso",
+            "E": "desorganização"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 85,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão do conhecimento busca:",
+        "alternativas": {
+            "A": "perda de informação",
+            "B": "compartilhar e aplicar conhecimento",
+            "C": "sigilo",
+            "D": "isolamento",
+            "E": "retrabalho"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 86,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O foco no cidadão implica:",
+        "alternativas": {
+            "A": "ignorar demandas",
+            "B": "atender necessidades sociais",
+            "C": "centralizar decisões",
+            "D": "reduzir qualidade",
+            "E": "formalismo excessivo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 87,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A governança pública busca:",
+        "alternativas": {
+            "A": "ineficiência",
+            "B": "coordenação e controle",
+            "C": "isolamento",
+            "D": "desorganização",
+            "E": "sigilo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 88,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A sustentabilidade na gestão pública envolve:",
+        "alternativas": {
+            "A": "desperdício",
+            "B": "uso responsável de recursos",
+            "C": "improviso",
+            "D": "ineficiência",
+            "E": "isolamento"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 89,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A responsabilidade social da Administração Pública refere-se:",
+        "alternativas": {
+            "A": "ao lucro",
+            "B": "ao impacto das ações na sociedade",
+            "C": "ao interesse privado",
+            "D": "ao sigilo",
+            "E": "à informalidade"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 90,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A legalidade administrativa garante que:",
+        "alternativas": {
+            "A": "o gestor aja livremente",
+            "B": "a Administração atue conforme a lei",
+            "C": "não haja controle",
+            "D": "haja discricionariedade absoluta",
+            "E": "a lei seja opcional"
+        },
+        "correta": "B"
+    },
+
+    {
+        "id": 91,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A motivação dos atos administrativos contribui para:",
+        "alternativas": {
+            "A": "sigilo",
+            "B": "transparência e controle",
+            "C": "arbitrariedade",
+            "D": "informalidade",
+            "E": "ineficiência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 92,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A publicidade dos atos administrativos é regra porque:",
+        "alternativas": {
+            "A": "impede controle",
+            "B": "garante transparência",
+            "C": "gera sigilo",
+            "D": "reduz eficiência",
+            "E": "elimina participação"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 93,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da razoabilidade exige:",
+        "alternativas": {
+            "A": "excesso",
+            "B": "adequação dos meios aos fins",
+            "C": "arbitrariedade",
+            "D": "formalismo extremo",
+            "E": "ineficiência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 94,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "O princípio da proporcionalidade busca:",
+        "alternativas": {
+            "A": "medidas excessivas",
+            "B": "equilíbrio na atuação administrativa",
+            "C": "arbitrariedade",
+            "D": "rigidez",
+            "E": "ineficiência"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 95,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão pública orientada a resultados prioriza:",
+        "alternativas": {
+            "A": "processos apenas",
+            "B": "impacto e desempenho",
+            "C": "formalidades",
+            "D": "burocracia",
+            "E": "sigilo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 96,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A cultura organizacional influencia:",
+        "alternativas": {
+            "A": "comportamento dos servidores",
+            "B": "apenas estrutura física",
+            "C": "somente orçamento",
+            "D": "somente legislação",
+            "E": "apenas tecnologia"
+        },
+        "correta": "A"
+    },
+    {
+        "id": 97,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A liderança no serviço público deve ser:",
+        "alternativas": {
+            "A": "autoritária",
+            "B": "ética e inspiradora",
+            "C": "negligente",
+            "D": "informal",
+            "E": "arbitrária"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 98,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A gestão de conflitos no ambiente público visa:",
+        "alternativas": {
+            "A": "intensificar conflitos",
+            "B": "soluções equilibradas",
+            "C": "ignorar problemas",
+            "D": "centralizar decisões",
+            "E": "desorganizar"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 99,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A modernização administrativa busca:",
+        "alternativas": {
+            "A": "ineficiência",
+            "B": "melhoria contínua",
+            "C": "formalismo",
+            "D": "isolamento",
+            "E": "sigilo"
+        },
+        "correta": "B"
+    },
+    {
+        "id": 100,
+        "banca": "CONHECIMENTOS ESPECÍFICOS",
+        "ano": 2026,
+        "materia": "Agente Administrativo – Câmara de Goiânia",
+        "enunciado": "A atuação do agente administrativo deve sempre priorizar:",
+        "alternativas": {
+            "A": "interesse pessoal",
+            "B": "interesse público",
+            "C": "interesse político",
+            "D": "interesse privado",
+            "E": "interesse econômico"
+        },
+        "correta": "B"
+    }
 
 ]
