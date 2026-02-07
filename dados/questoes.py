@@ -10924,7 +10924,7 @@ QUESTOES = [
                 "E": "Médica"
             },
             "correta": "D"
-        },
+    },
     {
         "id": 1,
         "banca": "CONHECIMENTOS ESPECÍFICOS",
