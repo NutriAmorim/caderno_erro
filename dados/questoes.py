@@ -1327,7 +1327,7 @@ QUESTOES = [
             "C": "Alt",
             "D": "Ctrl",
         },
-        "correta": "A",
+        "correta": "D",
     },
     {
         "id": 22,
