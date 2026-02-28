@@ -8990,7 +8990,7 @@ QUESTOES = [
             "C": "11/30",
             "D": "12/30"
         },
-        "correta": "B"
+        "correta": "A"
     },
     {
         "id": 13,
@@ -9061,7 +9061,7 @@ QUESTOES = [
             "C": "33.997 toneladas",
             "D": "35.197 toneladas"
         },
-        "correta": "B"
+        "correta": "D"
     },
     {
         "id": 18,
@@ -9075,7 +9075,7 @@ QUESTOES = [
             "C": "9",
             "D": "10"
         },
-        "correta": "C"
+        "correta": "A"
     },
     {
         "id": 19,
